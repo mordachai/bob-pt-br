@@ -1,0 +1,20 @@
+{
+	"label": "Roles",
+	"entries": {
+		"Commander": {
+			"name": "Commander"
+		},
+		"Lorekeeper": {
+			"name": "Lorekeeper"
+		},
+		"Marshal": {
+			"name": "Marshal"
+		},
+		"Quartermaster": {
+			"name": "Quartermaster"
+		},
+		"Spymaster": {
+			"name": "Spymaster"
+		}
+	}
+}

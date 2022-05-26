@@ -1,0 +1,23 @@
+{
+	"label": "Materiel",
+	"entries": {
+		"Black Shot": {
+			"name": "Black Shot"
+		},
+		"Food Stores": {
+			"name": "Food Stores"
+		},
+		"Horses": {
+			"name": "Horses"
+		},
+		"Religious Supplies": {
+			"name": "Religious Supplies"
+		},
+		"Siege Weapons": {
+			"name": "Siege Weapons"
+		},
+		"Supply Cart": {
+			"name": "Supply Cart"
+		}
+	}
+}

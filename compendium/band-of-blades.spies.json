@@ -1,0 +1,42 @@
+{
+	"label": "Spies",
+
+	"mapping": {
+		"description": "data.description",
+		"special": "data.special"
+	  },
+
+	"entries": {
+		"Antoinette": {
+			"name": "Antoinette",
+			"description": "Tendo a nobreza negada ao nascer, esta costureira orita encontrou melhor vocação na vida. Ela quebrou inúmeros corações, envenenou tanto nobres quanto guerreiros e ainda não falhou em uma missão.",
+			"special": "Antoinette já inicia como uma espiã mestre."
+
+		},
+		"Bortis": {
+			"name": "Bortis",
+			"description": "Um Zemyati grisalho, Bortis é um trunfo dentro e fora de campo. O rumor é que se ele viver, ele se tornará o próximo Spymaster.",
+			"special": "Quando Bortis rola Expandir Rede, ele gera +1 segmento em suas rolagens."
+		},
+		"Crimson Vexing Gale": {
+			"name": "Crimson Vexing Gale",
+			"description": "Pouco se sabe sobre este Panyar, exceto que seus olhos refletem prata sob um capuz. Ele vêm e vãi como desejar. Muitos rumores cercam seu passado.",
+			"special": "Não sofre ferimentos em nenhuma missão."
+		},
+		"Igrid": {
+			"name": "Igrid",
+			"description": "Uma local de Aldermark, Igrid se mistura a todos os assentamentos próximos. Ela percorre a área livremente, tomando conhecimento de notícias e rumores.",
+			"special": "Sempre que Igrid Interrogar, você pode fazer 1 pergunta adicional de Intel."
+		},
+		"Liya": {
+			"name": "Liya",
+			"description": "Esta Bartan não ostenta nenhuma das joias habituais dos Bartan que significam parentesco a amizade e prefere disfarces completos e missões solo de longo prazo. Ela também é uma mestre duelista e uma conhecida mestre de armas.",
+			"special": "Liya rola +1d em missões de Research."
+		},
+		"Onyetin": {
+			"name": "Onyetin",
+			"description": "Este homem que mais parece um urso amigável também é um dos assassinos mais mortais dos Reinos do Leste. Ele sabe exatamente como identificar ou descobrir alvos e esconderijos ocultos.",
+			"special": "Onyetin rola +1d em missões do tipo Augment Mission"
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"label": "Spy Network",
+	"entries": {
+		"Acquisition": {
+			"name": "Acquisition"
+		},
+		"Analysts": {
+			"name": "Analysts"
+		},
+		"Entrapment": {
+			"name": "Entrapment"
+		},
+		"Field Assessment": {
+			"name": "Field Assessment"
+		},
+		"Holy Orders": {
+			"name": "Holy Orders"
+		},
+		"Investments": {
+			"name": "Investments"
+		},
+		"Mercenaries": {
+			"name": "Mercenaries"
+		},
+		"Merchants": {
+			"name": "Merchants"
+		},
+		"Rangers": {
+			"name": "Rangers"
+		},
+		"Sources": {
+			"name": "Sources"
+		},
+		"Spy Network": {
+			"name": "Spy Network"
+		},
+		"Trained 1": {
+			"name": "Trained 1"
+		},
+		"Trained 2": {
+			"name": "Trained 2"
+		}
+	}
+}

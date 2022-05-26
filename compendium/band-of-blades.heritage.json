@@ -1,0 +1,25 @@
+{
+	"label": "Herança",
+	"mapping": {
+		"description": "data.description"
+	  },
+	
+	"entries": {
+		"Bartan": {
+			"name": "Bartan",
+			"description": "Bartans são unidos e devotos. Muitos usam joias feitas de fichas concedidas a eles por familiares e pessoas com quem estabeleceram fortes amizades. Sua cultura é agrária e governada por um conselho."
+		},
+		"Orite": {
+			"name": "Orite",
+			"description": "Os oritas são cosmopolitas e influentes. Seu país é conhecido por sua tecnologia. Seus avanços em mecânica e alquimia são quase tão definidores quanto sua obsessão pela nobreza e linhagem."
+		},
+		"Panyar": {
+			"name": "Panyar",
+			"description": "Panyar vêm da floresta profunda, que foi tocada por um deus antigo. Todo mundo que passa tempo suficiente na floresta acaba ganhando uma característica animal, como olhos de gato ou presas visíveis. Sua cultura se concentra em grandes feitos e Panyar deve ganhar a terceira parte de seu nome."
+		},
+		"Zemyati": {
+			"name": "Zemyati",
+			"description": "Zemyati são clãs que vivem nas montanhas, e sua cultura é um arranjo complexo de juramentos entre vários clãs, entre um clã e seus membros e entre um Zemyati e o mundo."
+		}
+	}
+}

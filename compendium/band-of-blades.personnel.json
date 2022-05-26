@@ -1,0 +1,14 @@
+{
+	"label": "Personnel",
+	"entries": {
+		"Alchemist": {
+			"name": "Alchemist"
+		},
+		"Laborer": {
+			"name": "Laborer"
+		},
+		"Mercy": {
+			"name": "Mercy"
+		}
+	}
+}

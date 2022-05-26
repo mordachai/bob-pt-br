@@ -1,0 +1,257 @@
+{
+	"label": "Itens",
+	"entries": {
+		"(H) +1 Utility": {
+			"name": "(H) +1 Utility"
+		},
+		"(H) 2 Fine Pistols": {
+			"name": "(H) 2 Pistolas Finas"
+		},
+		"(H) Armor": {
+			"name": "(H) Armadura"
+		},
+		"(H) Battlefield Banner": {
+			"name": "(H) Estandarte do Campo de Batalha"
+		},
+		"(H) Camo Gear": {
+			"name": "(H) Equipamento de camuflagem"
+		},
+		"(H) Fine Armor": {
+			"name": "(H) Armadura, Fina"
+		},
+		"(H) Fine Heavy Armor": {
+			"name": "(H) Armadura Pesada, Boa"
+		},
+		"(H) Fine Long Rifle": {
+			"name": "(H) Rifle Longo, Fino"
+		},
+		"(H) Fine Tower Shield": {
+			"name": "(H) Escudo Torre, Fino"
+		},
+		"(H) Fine Wrecking Kit": {
+			"name": "(H) Kit de demolição, fino"
+		},
+		"(H) Lots of Tonics": {
+			"name": "(H) Muitos Tônicos"
+		},
+		"(H) Shield": {
+			"name": "(H) Escudo"
+		},
+		"(L) 2 Fine Pistols": {
+			"name": "(L) 2 Pistolas Finas"
+		},
+		"(L) Ammo": {
+			"name": "(L) Munição"
+		},
+		"(L) Black Arrows": {
+			"name": "(L) Black Arrows"
+		},
+		"(L) Black Shot": {
+			"name": "(L) Black Shot"
+		},
+		"(L) Explosive Charge": {
+			"name": "(L) Carga Explosiva"
+		},
+		"(L) Fine Armor": {
+			"name": "(L) Armadura Fina"
+		},
+		"(L) Fine Bow and Arrows": {
+			"name": "(L) Arco e flecha, fino"
+		},
+		"(L) Fine Climbing Kit": {
+			"name": "(L) Kit de escalada, fino"
+		},
+		"(L) Fine Compass and Maps": {
+			"name": "(L) Bússola e mapas, fino"
+		},
+		"(L) Fine Cooking Kit": {
+			"name": "(L) Kit de Culinária, fino"
+		},
+		"(L) Fine Hand Weapon": {
+			"name": "(L) Arma de mão fina"
+		},
+		"(L) Fine Long Rifle": {
+			"name": "(L) Rifle Longo Fino"
+		},
+		"(L) Fine Medic Kit": {
+			"name": "(L) Kit Médico Fino"
+		},
+		"(L) Fine Ornate Cloak (optional)": {
+			"name": "(L) Manto Ornamentado Fino (opcional)"
+		},
+		"(L) Fine Repair Kit": {
+			"name": "(L) Kit de Reparos Fino"
+		},
+		"(L) Fine Soldier's Kit": {
+			"name": "(L) Kit de soldado fino"
+		},
+		"(L) Fine Wrecking Kit": {
+			"name": "(L) Kit de demolição fino"
+		},
+		"(L) Flare Gun": {
+			"name": "(L) Pistola Sinalizadora"
+		},
+		"(L) Grenade": {
+			"name": "(L) Granada"
+		},
+		"(L) Holy Symbol of Mercy": {
+			"name": "(L) Símbolo Sagrado de Mercy"
+		},
+		"(L) Mark of the Healing God (optional)": {
+			"name": "(L) Marca do Deus que Cura (opcional)"
+		},
+		"(L) Memento of Home": {
+			"name": "(L) Lembrança de Casa"
+		},
+		"(L) Musket": {
+			"name": "(L) Mosquete"
+		},
+		"(L) Naive Hope": {
+			"name": "(L) Esperança ingênua"
+		},
+		"(L) Soldier's Kit": {
+			"name": "(L) Kit de Soldado"
+		},
+		"(L) Tonics": {
+			"name": "(L) Tônicos"
+		},
+		"(N) +2 Utility": {
+			"name": "(N) +2 Utility"
+		},
+		"(N) Ammo": {
+			"name": "(N) Munição"
+		},
+		"(N) Armor": {
+			"name": "(N) Armadura"
+		},
+		"(N) Climbing Kit": {
+			"name": "(N) Kit de escalada"
+		},
+		"(N) Cooking Kit": {
+			"name": "(N) Kit de Cozinha"
+		},
+		"(N) Family Weapon": {
+			"name": "(N) Arma da Família"
+		},
+		"(N) Fine Armor": {
+			"name": "(N) Armadura Fina"
+		},
+		"(N) Fine Heavy Weapon": {
+			"name": "(N) Arma pesada fina"
+		},
+		"(N) Fine Lenses": {
+			"name": "(N) Luneta fina"
+		},
+		"(N) Fine Luxury Item": {
+			"name": "(N) Item de luxo fino"
+		},
+		"(N) Fine Pistol": {
+			"name": "(N) Pistola Fina"
+		},
+		"(N) Fine Reliquary": {
+			"name": "(N) Relicário Fino"
+		},
+		"(N) Fine Shield": {
+			"name": "(N) Escudo Fino"
+		},
+		"(N) Fitted Heavy Plate": {
+			"name": "(N) Armadura de Placas sob medida"
+		},
+		"(N) Fresh Food": {
+			"name": "(N) Comida Fresca"
+		},
+		"(N) Gun Maintenance Kit": {
+			"name": "(N) Kit de manutenção de armas"
+		},
+		"(N) More Tonics": {
+			"name": "(N) Mais Tônicos"
+		},
+		"(N) Tents and Camping Gear": {
+			"name": "(N) Tendas e Equipamento de Camping"
+		},
+		"(U) Alchemical Bandolier": {
+			"name": "(U) Bandoleira Alquímica"
+		},
+		"(U) Ammo": {
+			"name": "(U) Munição"
+		},
+		"(U) Armor": {
+			"name": "(U) Armadura"
+		},
+		"(U) Black Shot": {
+			"name": "(U) Black Shot"
+		},
+		"(U) Books and Scrolls": {
+			"name": "(U) Livros e Pergaminhos"
+		},
+		"(U) Climbing Kit": {
+			"name": "(U) Kit de escalada"
+		},
+		"(U) Compass and Maps": {
+			"name": "(U) Bússola e Mapas"
+		},
+		"(U) Crimson Shot": {
+			"name": "(U) Crimson Shot"
+		},
+		"(U) Extra Explosive Charge": {
+			"name": "(U) Carga Explosiva Extra"
+		},
+		"(U) Extra Extra Explosive Charge": {
+			"name": "(U) Carga Explosiva Extra Extra"
+		},
+		"(U) Extra Extra Grenade": {
+			"name": "(U) Granada Extra Extra"
+		},
+		"(U) Extra Grenade": {
+			"name": "(U) Granada Extra"
+		},
+		"(U) Flare Gun": {
+			"name": "(U) Pistola Sinalizadora"
+		},
+		"(U) Hand Weapon": {
+			"name": "(U) Arma de Mão"
+		},
+		"(U) Heavy Weapon": {
+			"name": "(U) Arma Pesada"
+		},
+		"(U) Large Weapon": {
+			"name": "(U) Arma Grande"
+		},
+		"(U) Lenses": {
+			"name": "(U) Luneta"
+		},
+		"(U) Medic Kit": {
+			"name": "(U) Kit Médico"
+		},
+		"(U) Musket": {
+			"name": "(U) Mosquete"
+		},
+		"(U) Oil": {
+			"name": "(U) Óleo"
+		},
+		"(U) Pistol": {
+			"name": "(U) Pistola"
+		},
+		"(U) Reliquary": {
+			"name": "(U) Relicário"
+		},
+		"(U) Repair Kit": {
+			"name": "(U) Kit de reparo"
+		},
+		"(U) Shield": {
+			"name": "(U) Escudo"
+		},
+		"(U) Soldier's Kit": {
+			"name": "(U)  Kit de Soldado"
+		},
+		"(U) Supplies": {
+			"name": "(U) Suprimentos"
+		},
+		"(U) Winter Clothing": {
+			"name": "(U) Roupas de inverno"
+		},
+		"(U) Wrecking Kit": {
+			"name": "(U) Kit de Demolição"
+		}
+	}
+}

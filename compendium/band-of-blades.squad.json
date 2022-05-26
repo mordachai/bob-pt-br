@@ -1,0 +1,23 @@
+{
+	"label": "Squads",
+	"entries": {
+		"Ember Wolves": {
+			"name": "Ember Wolves"
+		},
+		"Ghost Owls": {
+			"name": "Ghost Owls"
+		},
+		"Grinning Ravens": {
+			"name": "Grinning Ravens"
+		},
+		"Shattered Lions": {
+			"name": "Shattered Lions"
+		},
+		"Silver Stags": {
+			"name": "Silver Stags"
+		},
+		"Star Vipers": {
+			"name": "Star Vipers"
+		}
+	}
+}

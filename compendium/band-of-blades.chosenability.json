@@ -1,0 +1,143 @@
+{
+	"label": "Chosen/Broken Abilities",
+	"entries": {
+		"Abominable Science": {
+			"name": "Abominable Science"
+		},
+		"Anointed": {
+			"name": "Anointed"
+		},
+		"Asrika's Blessing": {
+			"name": "Asrika's Blessing"
+		},
+		"Asrika's Mercy": {
+			"name": "Asrika's Mercy"
+		},
+		"Asrika's Tears": {
+			"name": "Asrika's Tears"
+		},
+		"Attrition Strategies": {
+			"name": "Attrition Strategies"
+		},
+		"Battle-Saint": {
+			"name": "Battle-Saint"
+		},
+		"Blood of Fire": {
+			"name": "Blood of Fire"
+		},
+		"Blood of the Chosen": {
+			"name": "Blood of the Chosen"
+		},
+		"Book of Hours": {
+			"name": "Book of Hours"
+		},
+		"Cruel Gluttony": {
+			"name": "Cruel Gluttony"
+		},
+		"Dark Visions": {
+			"name": "Dark Visions"
+		},
+		"Defilement": {
+			"name": "Defilement"
+		},
+		"Forced March": {
+			"name": "Forced March"
+		},
+		"Forest's Wings": {
+			"name": "Forest's Wings"
+		},
+		"Fury": {
+			"name": "Fury"
+		},
+		"Great Hunter": {
+			"name": "Great Hunter"
+		},
+		"Heart of Heroes": {
+			"name": "Heart of Heroes"
+		},
+		"Heartless": {
+			"name": "Heartless"
+		},
+		"Hide of the White Hind": {
+			"name": "Hide of the White Hind"
+		},
+		"Horned God's Bounty": {
+			"name": "Horned God's Bounty"
+		},
+		"Horned God's Eyes": {
+			"name": "Horned God's Eyes"
+		},
+		"Horned God's Thews": {
+			"name": "Horned God's Thews"
+		},
+		"Living God's Fury": {
+			"name": "Living God's Fury"
+		},
+		"Living God's Kiss": {
+			"name": "Living God's Kiss"
+		},
+		"Living God's Vigor": {
+			"name": "Living God's Vigor"
+		},
+		"Massacre": {
+			"name": "Massacre"
+		},
+		"Modern Warfare": {
+			"name": "Modern Warfare"
+		},
+		"Nature's Fury": {
+			"name": "Nature's Fury"
+		},
+		"Pillar of Skulls": {
+			"name": "Pillar of Skulls"
+		},
+		"Sacred Seals": {
+			"name": "Sacred Seals"
+		},
+		"Scars of War": {
+			"name": "Scars of War"
+		},
+		"Shapeshifter": {
+			"name": "Shapeshifter"
+		},
+		"Shredders": {
+			"name": "Shredders"
+		},
+		"Spearforge": {
+			"name": "Spearforge"
+		},
+		"Star of the Dawn": {
+			"name": "Star of the Dawn"
+		},
+		"Storm Riding": {
+			"name": "Storm Riding"
+		},
+		"The Changing Curse": {
+			"name": "The Changing Curse"
+		},
+		"The Coven": {
+			"name": "The Coven"
+		},
+		"The Forge": {
+			"name": "The Forge"
+		},
+		"The Sworn": {
+			"name": "The Sworn"
+		},
+		"Toxic Bile": {
+			"name": "Toxic Bile"
+		},
+		"Toxic Mutagen": {
+			"name": "Toxic Mutagen"
+		},
+		"Violent Emulsion": {
+			"name": "Violent Emulsion"
+		},
+		"War-Saint": {
+			"name": "War-Saint"
+		},
+		"Wild Awakening": {
+			"name": "Wild Awakening"
+		}
+	}
+}

@@ -1,0 +1,278 @@
+{
+	"label": "Habilidades",
+
+	"mapping": {
+		"description": "data.description"
+	  },
+
+	"entries": {
+		"(G) Elite Consort": {
+			"name": "(G) Elite Consort",
+			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+		},
+		"(G) Elite Discipline": {
+			"name": "(G) Elite Discipline",
+			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+		},
+		"(G) Elite Maneuver": {
+			"name": "(G) Elite Maneuver",
+			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+		},
+		"(G) Elite Marshal": {
+			"name": "(G) Elite Marshal",
+			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+		},
+		"(G) Elite Research": {
+			"name": "(G) Elite Research",
+			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+		},
+		"(G) Elite Rig": {
+			"name": "(G) Elite Rig",
+			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+		},
+		"(G) Elite Scout": {
+			"name": "(G) Elite Scout",
+			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+		},
+		"(G) Elite Shoot": {
+			"name": "(G) Elite Shoot",
+			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+		},
+		"(G) Elite Skirmish": {
+			"name": "(G) Elite Skirmish",
+			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+		},
+		"(G) Elite Sway": {
+			"name": "(G) Elite Sway",
+			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+		},
+		"(G) Elite Wreck": {
+			"name": "(G) Elite Wreck",
+			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+		},
+		"(G) Hardened 1": {
+			"name": "(G) Hardened 1",
+			"description":"Você possui 2 caixas de estresse adicionais."
+		},
+		"(G) Hardened 2": {
+			"name": "(G) Hardened 2",
+			"description":"Você possui 2 caixas de estresse adicionais."
+		},
+		"(G) Survivor 1": {
+			"name": "(G) Survivor 1",
+			"description":"Você pode receber +1 de trauma antes de morrer."
+		},
+		"(G) Survivor 2": {
+			"name": "(G) Survivor 2",
+			"description":"Você pode receber +1 de trauma antes de morrer."
+		},
+		"(G) Veteran 1": {
+			"name": "(G) Veteran 1",
+			"description":"Pegue uma habilidade especial de outra fonte. A maneira mais fácil é arrastar e soltar de um compêndio."
+		},
+		"(G) Veteran 2": {
+			"name": "(G) Veteran 2",
+			"description":"Pegue uma habilidade especial de outra fonte. A maneira mais fácil é arrastar e soltar de um compêndio."
+		},
+		"(H) Against the Darkness": {
+			"name": "(H) Against the Darkness",
+			"description": "Você e todos os companheiros de esquadrão que podem vê-lo ganham +1d para resistir ao medo e à corrupção."
+		},
+		"(H) Backup": {
+			"name": "(H) Backup",
+			"description": "Ao proteger um companheiro de esquadrão, resista com +1d. Quando você ajuda alguém, seus pushes custam apenas 1 de estresse."
+		},
+		"(H) Bulwark": {
+			"name": "(H) Bulwark",
+			"description": "Você pode gastar usos de Âncora como armadura especial contra consequências para um esquadrão que você está defendendo."
+		},
+		"(H) Tenacious": {
+			"name": "(H) Tenacious",
+			"description": "As penalidades por dano são um nível menos severas (embora o dano de nível 4 ainda seja fatal)."
+		},
+		"(H) Vigorous": {
+			"name": "(H) Vigorous",
+			"description": "Ao marcar cura de ferimentos durante o repouso e a recuperação, faça uma marca a mais, gratuita. Quando você se machucar, limpe 1 estresse."
+		},
+		"(H) War Machine": {
+			"name": "(H) War Machine",
+			"description": "Quando você se esforça, você pode fazer o seguinte:\nrealizar uma façanha de força física que beira o sobre-humano\nOU\nreduzir o nível de ameaça de todos os inimigos que você está enfrentando em um."
+		},
+		"(H) Weaponmaster": {
+			"name": "(H) Weaponmaster",
+			"description": "Você é conhecido como Mestre de Armas mesmo fora da Legião. Quando você se esforça, você também ganha potência em combate corpo a corpo."
+		},
+		"(M) Attache": {
+			"name": "(M) Attache",
+			"description": "Você pode ser colocado em qualquer missão, mesmo passando os limites habituais de Especialistas. Ganhe essa habilidade de graça quando se tornar um Medic."
+		},
+		"(M) Chemist": {
+			"name": "(M) Chemist",
+			"description": "Você tem treinamento em medicina alquímica Orite. Você pode equipar uma bandoleira alquímica em cada missão."
+		},
+		"(M) Dr. Feelgood": {
+			"name": "(M) Dr. Feelgood",
+			"description": "Gaste 1 uso de Tônicos para conceder a uma pessoa potência para uma ação física."
+		},
+		"(M) Field Dressing": {
+			"name": "(M) Field Dressing",
+			"description": "No final de uma missão, você pode gastar os usos médicos restantes para adicionar 1 teste ao dano de nível 2 ou 3 de um Legionário, uma vez por pessoa."
+		},
+		"(M) First Aid": {
+			"name": "(M) First Aid",
+			"description": "Você pode gastar 1 uso de Tônicos para remover o dano apropriado de nível 1 de qualquer pessoa em sua missão."
+		},
+		"(M) Moral Support": {
+			"name": "(M) Moral Support",
+			"description": "Você sabe como manter o ânimo das tropas. Depois de uma missão, se você contar uma história engraçada, pessoal ou significativa quando o esquadrão estiver descansando, qualquer um que estiver ouvindo pode aliviar 1 estresse."
+		},
+		"(M) Not Today": {
+			"name": "(M) Not Today",
+			"description": "Você pode gastar um uso de Doutor em um Legionário que sofreu dano de nível 4 em uma missão, mas você deve fazê-lo rapidamente antes que ele morra. Você os trata e reduz o ferimento ao nível 3 de dano."
+		},
+		"(O) Lead from the Front": {
+			"name": "(O) Lead from the Front",
+			"description": "Sempre que você liderar uma ação em grupo, melhore a escala para cima ou para baixo em um nível (por exemplo: um pequeno grupo conta como um grupo médio ou um indivíduo). Se você liderar uma ação de grupo em combate, você pode contar vários 6s de diferentes rolagens como crítico."
+		},
+		"(O) Logistical Support": {
+			"name": "(O) Logistical Support",
+			"description": "Os usos de Channels podem ser gastos para ajudar um companheiro de esquadrão. Quando você faz isso, eles recebem +1d adicional. Conte-nos como sua preparação ou suprimentos os ajudam contra essa ameaça ou obstáculo."
+		},
+		"(O) Mission First": {
+			"name": "(O) Mission First",
+			"description": "Adicione o seguinte aos gatilhos de xp \"no final da missão\": Se alguém morreu sob seu comando."
+		},
+		"(O) Obedience": {
+			"name": "(O) Obedience",
+			"description": "Um companheiro de esquadrão NPC se sacrifica sob ordens. Eles morrem e absorvem todo o dano de um ataque para você ou outro Especialista. Lembre-se de que a Legião recebe -1 de moral cada vez que isso ocorre."
+		},
+		"(O) Officer School": {
+			"name": "(O) Officer School",
+			"description": "Você é bem educado e conhece esoterismo arcano. Ganhe +1d ao coletar informações por meio de Research e ao resistir com Insight."
+		},
+		"(O) Strategist": {
+			"name": "(O) Strategist",
+			"description": "Você ganha +1d para Sway ao adquirir ativos para uma missão através do uso de Canais. Você também recebe +1d no teste de engajamento para uma missão."
+		},
+		"(O) Tactician": {
+			"name": "(O) Tactician",
+			"description": "Você antecipa problemas que outros nunca veriam chegando. Quando você lidera uma ação em grupo, você pode sofrer no máximo 1 estresse."
+		},
+		"(R) Devil's Own Luck": {
+			"name": "(R) Devil's Own Luck",
+			"description": "Você ganha +1d em todos os testes de resistência. Esta habilidade não pode ser tomada como um avanço de Veterano."
+		},
+		"(R) Every Inch A...": {
+			"name": "(R) Every Inch A...",
+			"description": "Você começa com todos os traços de sua herança. Se tomado como um avanço de Veterano, deve ser a primeira habilidade selecionada na criação do personagem."
+		},
+		"(R) Gotta Make It Out Alive": {
+			"name": "(R) Gotta Make It Out Alive",
+			"description": "Você pode sofrer 1 trauma adicional antes de morrer. Ao promover, substitua essa habilidade por um nível de Survivor. Esta habilidade não pode ser tomada como um avanço de Veterano."
+		},
+		"(R) Hard Knocks": {
+			"name": "(R) Hard Knocks",
+			"description": "Marque 2 pontos de experiência em qualquer categoria no final de qualquer missão em que você tenha sofrido dano de nível 2 ou superior. Esta habilidade não pode ser tomada como um avanço de Veterano."
+		},
+		"(R) Home Cooking": {
+			"name": "(R) Home Cooking",
+			"description": "Se uma missão demorar vários dias, use seu Fresh Food. Diga o que você cozinha. Todos no esquadrão que participam eliminam 1 estresse. Esta habilidade não pode ser tomada como um avanço de Veterano."
+		},
+		"(R) Jack of All Trades": {
+			"name": "(R) Jack of All Trades",
+			"description": "Aumente 2 habilidades de rank zero para rank 1. Esta habilidade não pode ser tomada como um avanço de Veterano."
+		},
+		"(R) Just a Kid": {
+			"name": "(R) Just a Kid",
+			"description": "Quando alguém sofre dano ao protegê-lo, eles marcam xp. Ao promover, escolha uma segunda habilidade especial do seu novo manual para substituir esta. Esta habilidade não pode ser tomada como um avanço de Veterano."
+		},
+		"(R) Not a Rookie Anymore": {
+			"name": "(R) Not a Rookie Anymore",
+			"description": "Você é promovido! Você se torna um soldado. Ganhe 1 habilidade especial e 1 grau de Grit. Você deve tomar isso como seu primeiro avanço no playbook. Esta habilidade não pode ser considerada um avanço de Veterano ou uma habilidade inicial."
+		},
+		"(Sc) Daredevil": {
+			"name": "(Sc) Daredevil",
+			"description": "Quando você fizer um teste desesperado, ganhe +1d."
+		},
+		"(Sc) Ghost": {
+			"name": "(Sc) Ghost",
+			"description": "Você pode usar Scrounge como armadura especial contra armadilhas ou detecção."
+		},
+		"(Sc) Infiltrator": {
+			"name": "(Sc) Infiltrator",
+			"description": "Ao coletar informações por meio de observação clandestina ou tentar contornar armadilhas e medidas de segurança, ganhe potência."
+		},
+		"(Sc) Like the Wind": {
+			"name": "(Sc) Like the Wind",
+			"description": "Sempre que há uma pergunta de quem vai primeiro, a resposta é você. Também receba +1d ao resistir a ataques com Prowess."
+		},
+		"(Sc) Panther-Like Grace": {
+			"name": "(Sc) Panther-Like Grace",
+			"description": "Quando você é rápido e não carrega nenhuma armadura, qualquer dano que você receber começa 1 nível abaixo."
+		},
+		"(Sc) Ready For Anything": {
+			"name": "(Sc) Ready For Anything",
+			"description": "Ao ser emboscado, seus flashbacks custam 0 de estresse e você ganha potência para todas as ações durante esses flashbacks. Você também recebe 1 nível a menos de dano em missões secundárias."
+		},
+		"(Sc) Sixth Sense": {
+			"name": "(Sc) Sixth Sense",
+			"description": "Você sabe quando há mortos-vivos por perto. Você sempre sabe qual é o nível de ameaça mais alto dos mortos-vivos na área. Você pode coletar informações sobre eles com Resolve."
+		},
+		"(Sn) Akimbo": {
+			"name": "(Sn) Akimbo",
+			"description": "Ao duelar a curta distância com duas pistolas, ganhe potência."
+		},
+		"(Sn) Ambush": {
+			"name": "(Sn) Ambush",
+			"description": "Quando você ataca de um esconderijo ou aciona uma armadilha, você recebe +1d."
+		},
+		"(Sn) Cover Fire": {
+			"name": "(Sn) Cover Fire",
+			"description": "Se você preparar alguém com Shoot ou fornecer fogo de cobertura, ele ganhará potência em sua próxima ação."
+		},
+		"(Sn) Crimson Shot": {
+			"name": "(Sn) Crimson Shot",
+			"description": "Você está autorizado a trazer um projétil Crimson Seeker em missões. Dispará-lo conta como um ataque de ameaça 4 e você deve marcar um trauma."
+		},
+		"(Sn) Notches": {
+			"name": "(Sn) Notches",
+			"description": "Se você acertar o golpe mortal em um oponente de ameaça 2 ou superior, marque 1 xp em qualquer categoria."
+		},
+		"(Sn) One Eye": {
+			"name": "(Sn) One Eye",
+			"description": "Você substituiu um olho por um constructo alquímico. Você pode ver claramente alvos invisíveis e identificar forças sobrenaturais."
+		},
+		"(Sn) Sharpshooter": {
+			"name": "(Sn) Sharpshooter",
+			"description": "Você pode se esforçar para fazer o seguinte:\nfazer um ataque à distância a uma distância extrema além do que é normal para a arma\nOU\ndesencadear uma barragem de fogo rápido para suprimir o inimigo."
+		},
+		"(So) Cavalry": {
+			"name": "(So) Cavalry",
+			"description": "Se o Quartermaster tiver cavalos disponíveis, todos os membros do seu esquadrão começam as missões com montarias. Você ganha +1d em Maneuver enquanto estiver montado."
+		},
+		"(So) Eat Iron, Shit Nails": {
+			"name": "(So) Eat Iron, Shit Nails",
+			"description": "Quando você se esforça, você pode ignorar todas as penalidades de dano. Também receba +1d para resistir às consequências de qualquer teste que você tenha feito."
+		},
+		"(So) Grenadier": {
+			"name": "(So) Grenadier",
+			"description": "Você teve treinamento com explosivos e sempre pode trazer uma granada (1 carga) ou cargas explosivas (2 cargas) como parte de sua carga leve."
+		},
+		"(So) Iron Will": {
+			"name": "(So) Iron Will",
+			"description": "Você pode usar Grit como armadura especial contra medo, paralisia, corrupção e fadiga."
+		},
+		"(So) Loaded For Bear": {
+			"name": "(So) Loaded For Bear",
+			"description": "Ao selecionar a carga, você pode selecionar 4 cargas de utilidade em vez de 2."
+		},
+		"(So) Over the Top": {
+			"name": "(So) Over the Top",
+			"description": "Quando você se atira nas garras de um inimigo que supera você em número ou armas, limpe 1 estresse e receba +1d em Maneuver."
+		},
+		"(So) Relentless": {
+			"name": "(So) Relentless",
+			"description": "Você pode usar Grit para se esforçar."
+		}
+	}
+}

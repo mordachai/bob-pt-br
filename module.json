@@ -7,9 +7,9 @@
   "minimumCoreVersion":"0.8.8",
   "compatibleCoreVersion":"9",
   "esmodules": ["babele-register.js"],
-  "url":"https://github.com/brunocalado/bid-pt-br",
-  "manifest": "https://raw.githubusercontent.com/brunocalado/bid-pt-br/main/module.json",
-  "download": "https://codeload.github.com/brunocalado/bid-pt-br/zip/main",
+  "url":"https://github.com/mordachai/bob-pt-br",
+  "manifest": "https://raw.githubusercontent.com/mordachai/bob-pt-br/main/module.json",
+  "download": "https://github.com/mordachai/bob-pt-br/archive/refs/heads/main.zip",
    "languages":[
       {
          "lang": "pt-BR",

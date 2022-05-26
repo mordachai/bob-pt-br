@@ -1,0 +1,72 @@
+{
+	"label": "Traits",
+	"mapping": {
+		"description": "data.description"
+	},
+	"entries": {
+		"Artisan": {
+			"name": "Artesão",
+			"description": "Sua ação de Rig pode ir até 4."
+		},
+		"Bold": {
+			"name": "Ousado",
+			"description": "Quando você resistir às consequências de ações desesperadas, receba +1d."
+		},
+		"Connected": {
+			"name": "Conectado",
+			"description": "Marque uma graduação adicional de Sway ao criar o personagem, até um máximo de 3."
+		},
+		"Educated": {
+			"name": "Instruído",
+			"description": "Marque uma graduação adicional de Research ao criar o personagem, até um máximo de 2."
+		},
+		"Loyal": {
+			"name": "Leal",
+			"description": "Quando você lidera ou participa de uma ação de grupo, receba +1d em sua rolagem."
+		},
+		"Marked": {
+			"name": "Marcado",
+			"description": "Quando você resistir à corrupção, receba +2d."
+		},
+		"Noble": {
+			"name": "Nobre",
+			"description": "Quando o Quartermaster declara ações de campanha, você pode aumentar o efeito de uma ação pela qual você é afetado (consulte Quartermaster, página 135). Portanto, se o Quartermaster declarar a ação de campanha da Liberdade, seu Orite pode limpar todo o estresse (embora toda a Legião não tenha moral extra)"
+		},
+		"Pious": {
+			"name": "Piedoso",
+			"description": "Sempre que você for em uma missão, você pode equipar um Relicário além de qualquer outra coisa que você pegar. Use o Relicário Utility 0 em sua lista de itens."
+		},
+		"Shrewd": {
+			"name": "Astuto",
+			"description": "Quando você resistir com Insight, receba +1d."
+		},
+		"Stern": {
+			"name": "Severo",
+			"description": "Marque uma graduação adicional de Discipline ao criar o personagem, até um máximo de 2."
+		},
+		"Stoic": {
+			"name": "Estóico",
+			"description": "Quando você resistir com Proeza, receba +1d."
+		},
+		"Stubborn": {
+			"name": "Teimoso",
+			"description": "Quando você resistir com Resolve, receba +1d."
+		},
+		"Tough": {
+			"name": "Resistente",
+			"description": "Você nunca recebe Menos Efeito das penalidades de dano de nível 1."
+		},
+		"Traveler": {
+			"name": "Viajante",
+			"description": "Em carga normal, você é considerado rápido e silencioso, como se tivesse equipado uma carga leve. Isso pode fazer diferença na posição ou efeito ao correr, pular, escalar (maneuver) ou esgueirar-se (scout)."
+		},
+		"Vengeful": {
+			"name": "Vingativo",
+			"description": "Você ganha potência quando uma penalidade de dano se aplica."
+		},
+		"Warm": {
+			"name": "Caloroso",
+			"description": "Marque uma graduação adicional de Consort ao criar o personagem, até um máximo de 2."
+		}
+	}
+}
