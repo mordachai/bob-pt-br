@@ -1,23 +1,33 @@
 {
 	"label": "Chosen/Broken",
+	"mapping": {
+		"description": "data.description"
+	  },
+
 	"entries": {
 		"Bonerender": {
-			"name": "Bonerender"
+			"name": "Bonerender",
+			"description": "Há muito tempo, o Deus Vivo dos Zemyati criou nove Escolhidos que não se parariam até que concluíssem sua tarefa. Lendas de figuras nas florestas e montanhas realizando milagres ou salvando os perdidos são comuns em Zemya. Vlaisim - o Iluminado - saiu das montanhas há três anos, dizendo que foi chamado para acabar com a guerra. Ao quebrá-lo, o Rei das Cinzas queimou o rosto de Vlaisim e ordena que ele nunca o esconda. Agora vestido com uma armadura preta, ele só está cheio de ódio, com o qual infecta suas fileiras."
 		},
 		"Flesh Blighter": {
-			"name": "Flesh Blighter"
+			"name": "Flesh Blighter",
+			"description": "Blighter já foi Elenessa, uma alta engenheira-sacerdotisa do triunvirato Orite de deuses artesãos - o Construtor, o Criador e o Artesão. Quando Shreya - então uma famosa guerreira Bartan - ganhou seu favor durante um torneio de cavaleiros, o romance delas tornou-se matéria de poemas e canções. O Rei das Cinzas surgiu no Oeste e começou sua marcha, e Elenessa foi Escolhida pelo Artesão, cujos adoradores praticam o grande ofício da alquimia. Uma vez que ela foi quebrada, a própria arte ficou contaminada. Agora, seus praticantes acabam se corrompendo e se tornam monstros."
 		},
 		"Horned One": {
-			"name": "Horned One"
+			"name": "Horned One",
+			"description": "Quando a deusa Panyar da lua Nyx foi quebrada, a lua no céu se despedaçou. Onde os outros estavam cheios de medo, a jovem conhecida como Silver Dancing Moonlight tinha apenas raiva pela perda de sua deusa. Ela encontrou um templo antigo, e o Chifrudo lhe ofereceu a Escolha. Sua raiva alimenta a do Chifrudo; juntos eles buscam vingança por sua perda. Eles usam a mudança de forma para espionar as táticas inimigas antes de se envolverem e guiam com astúcia em vez de força."
 		},
 		"Shreya": {
-			"name": "Shreya"
+			"name": "Shreya",
+			"description": "A mente tática de Shreya e sua compreensão quase sobrenatural de estratégia foram a razão pela qual os Reinos do Leste avançaram nesta última ofensiva. Considerada pela humanidade como uma grande derrota, não está claro se ela sequer registrou o custo. Seu comportamento pode ser inescrutável e intimidador. Dizem que ela fica de guarda em horários estranhos, olhando para a escuridão em busca de sinais invisíveis de perigo - uma prática simultaneamente reconfortante e enervante."
 		},
 		"Stormbreaker": {
-			"name": "Stormbreaker"
+			"name": "Stormbreaker",
+			"description": "Breaker já foi Minika Arya, uma sacerdotisa da deusa Bartan Vazara. Ao contrário de muitos de seus companheiros Escolhidos, ela não era mundialmente famosa ou de alto nascimento. Órfã adotada por uma sacerdotisa, ela dedicou sua vida a viajar pela costa de Bartan – o caminho de sua ordem – rezando para aliviar as piores tempestades, protegendo barcos e vivendo uma vida tranquila de meditação nas ilhas costeiras. Uma potência mística entre os Escolhidos, ela cavalgou na vanguarda do ataque ao Rei das Cinzas. Seu local de Quebra permanece queimado por um raio que atingiu o mesmo local por toda uma semana depois."
 		},
 		"Zora": {
-			"name": "Zora"
+			"name": "Zora",
+			"description": "O Deus Vivo dos Zemyati criou nove Escolhidos há muito tempo e, ao contrário dos Escolhidos de outros deuses, eles nunca se esgotaram ou desapareceram. Em vez disso, eles persistem até depois de completar sua tarefa, embora possam ser mortos. Zora desafiou até mesmo essa expectativa. Ela quebrou Dar há muito tempo, e terminou a Guerra dos Deuses usando magia aterrorizante para atacar o deus dentro de um Escolhido antes de sair do campo de batalha e entrar em rumores e lendas. Como a Legião estava prestes a ser destruída nesta última ofensiva, Zora reapareceu para salvá-los."
 		}
 	}
 }

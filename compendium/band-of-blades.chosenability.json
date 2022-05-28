@@ -1,143 +1,194 @@
 {
 	"label": "Chosen/Broken Abilities",
+
+	"mapping": {
+		"description": "data.description"
+	},
+
 	"entries": {
 		"Abominable Science": {
-			"name": "Abominable Science"
+			"name": "Ciência Abominável",
+			"description": "Os cirurgiões de Blighter aprendem a costurar funcionalmente mortos-vivos contorcidos. Horrores podem aparecer em qualquer missão."
 		},
 		"Anointed": {
-			"name": "Anointed"
+			"name": "Ungido",
+			"description": "Missões Sagradas, Místicas e de Misericórdia todas concedem Favor. Comece com 1 Favor de missão preenchido."
 		},
 		"Asrika's Blessing": {
-			"name": "Asrika's Blessing"
+			"name": "Benção de Asrika",
+			"description": "Legionários sempre recebem 1 a menos de corrupção."
 		},
 		"Asrika's Mercy": {
-			"name": "Asrika's Mercy"
+			"name": "Misericórdia de Asrika",
+			"description": "Quando a Legião se recuperar, coloque 1 marca de cura adicional em todos os Legionários."
 		},
 		"Asrika's Tears": {
-			"name": "Asrika's Tears"
+			"name": "Lágrimas de Asrika",
+			"description": "Quando você está de luto, você sente uma profunda sensação de paz. As ações da campanha Liberty fornecem +1 de moral e -1 de estresse adicional."
 		},
 		"Attrition Strategies": {
-			"name": "Attrition Strategies"
+			"name": "Estratégias de Atrito",
+			"description": "Ataques de Blighter envenenam as linhas de suprimentos. As jogadas de engajamento da missão de suprimentos levam -1d."
 		},
 		"Battle-Saint": {
-			"name": "Battle-Saint"
+			"name": "Santo da Batalha",
+			"description": "Shreya é ameaça 5 e tem potência contra todos os oponentes."
 		},
 		"Blood of Fire": {
-			"name": "Blood of Fire"
+			"name": "Sangue do Fogo",
+			"description": "Quando você gasta Suprimento Religioso em uma missão, todos os Legionários equipam Óleo inflamável (1 carga)."
 		},
 		"Blood of the Chosen": {
-			"name": "Blood of the Chosen"
+			"name": "Sangue dos Escolhidos",
+			"description": "Quando você gasta um Suprimento Religioso, você também recebe uma arma corpo a corpo santificada nessa missão. Ela é potente contra mortos-vivos. Comece com 1 Suprimento Religioso grátis."
 		},
 		"Book of Hours": {
-			"name": "Book of Hours"
+			"name": "Livro das Horas",
+			"description": "Todos os Especialistas começam com 2 marcas extras de ações."
 		},
 		"Cruel Gluttony": {
-			"name": "Cruel Gluttony"
+			"name": "Gula Cruel",
+			"description": "Blighter cria fluidos que produzem ácido dentro de mortos-vivos. Gut-Sacks pode aparecer em qualquer missão."
 		},
 		"Dark Visions": {
-			"name": "Dark Visions"
+			"name": "Visões Sombrias",
+			"description": "Breaker enfeitiça a Legião com horríveis pesadelos urrantes. Liberty restaura 1 estresse a menos."
 		},
 		"Defilement": {
-			"name": "Defilement"
+			"name": "Profanação",
+			"description": "A contaminação de locais religiosos por Breaker diminuiu as influências sagradas nesta região. Testes de engajamento em missões religiosas levam -1d."
 		},
 		"Forced March": {
-			"name": "Forced March"
+			"name": "Marcha Forçada",
+			"description": "As tropas de Render, impulsionadas pela ira, avançam. Adicione 3 tiques aos relógios de Tempo (Comandante)."
 		},
 		"Forest's Wings": {
-			"name": "Forest's Wings"
+			"name": "Asas da Floresta",
+			"description": "Quando você gasta Suprimentos Religiosos em uma missão, os esquadrões trazem até 3 animais que podem sussurrar mensagens uns para os outros e para o acampamento."
 		},
 		"Fury": {
-			"name": "Fury"
+			"name": "Fúria",
+			"description": "Render aprende a espalhar seu ódio pelas tropas de linha de frente. Gaunts agora se movem rapidamente e podem agir com astúcia se seu Elite morrer."
 		},
 		"Great Hunter": {
-			"name": "Great Hunter"
+			"name": "Grande Caçador",
+			"description": "O Intendente pode selecionar uma ação de campanha de Treinamento. Cada Especialista pode marcar 3 XP de Resolve."
 		},
 		"Heart of Heroes": {
-			"name": "Heart of Heroes"
+			"name": "Coração de Herói",
+			"description": "Todos os Legionários adicionam o gatilho XP: Se você enfrentou um oponente de maior nível de ameaça sozinho."
 		},
 		"Heartless": {
-			"name": "Heartless"
+			"name": "Sem Coração",
+			"description": "Render presenteia àqueles que arrancam a força seus próprios corações. Heartless pode aparecer em qualquer missão."
 		},
 		"Hide of the White Hind": {
-			"name": "Hide of the White Hind"
+			"name": "Pele da Corça Branca",
+			"description": "Todos os Especialistas podem falar e entender as feras selvagens."
 		},
 		"Horned God's Bounty": {
-			"name": "Horned God's Bounty"
+			"name": "Recompensa do Deus Chifrudo",
+			"description": "Quando o tempo passar, pergunte se a Legião vai avançar. Se isso acontecer, não gaste Comida."
 		},
 		"Horned God's Eyes": {
-			"name": "Horned God's Eyes"
+			"name": "Olhos do Deus Chifrudo",
+			"description": "Durante uma ação de campanha Descanso e Recuperação, cada Legionário remove 2 pontos de corrupção, além da cura."
 		},
 		"Horned God's Thews": {
-			"name": "Horned God's Thews"
+			"name": "Tendões do Deus Vivo",
+			"description": "Legionários podem gastar Armaduras Especiais para resistir a consequências físicas ou para se esforçar (push) em qualquer ação de Prowess."
 		},
 		"Living God's Fury": {
-			"name": "Living God's Fury"
+			"name": "Fúria do Deus Vivo",
+			"description": "O Quartermaster pode gastar Suprimentos Religiosos antes de uma missão de assalto para adicionar +1d no teste de engajamento. Os Legionários equipam Relicários e o Black Shot."
 		},
 		"Living God's Kiss": {
-			"name": "Living God's Kiss"
+			"name": "Beijo do Deus Vivo",
+			"description": "Durante uma ação de campanha Descanso e Recuperação, cada Legionário remove 2 pontos de corrupção, além da curar-se."
 		},
 		"Living God's Vigor": {
-			"name": "Living God's Vigor"
+			"name": "Vigor do Deus Vivo",
+			"description": "Especialistas podem receber um dano extra de nível 2 (3 no total)."
 		},
 		"Massacre": {
-			"name": "Massacre"
+			"name": "Massacre",
+			"description": "As táticas selvagens de Render e o uso profano dos mortos instilam medo em todos os soldados. As jogadas de engajamento da missão de assalto tomam -1d."
 		},
 		"Modern Warfare": {
-			"name": "Modern Warfare"
+			"name": "Guerra Moderna",
+			"description": "As tropas de Blighter carregam armas e armaduras finas."
 		},
 		"Nature's Fury": {
-			"name": "Nature's Fury"
+			"name": "Fúria da Natureza",
+			"description": "Breaker & Bruxas podem enfeitiçar a natureza, cobrindo tropas com neblina e tempestades e animando árvores em combate."
 		},
 		"Pillar of Skulls": {
-			"name": "Pillar of Skulls"
+			"name": "Pilar de Crânios",
+			"description": "Breaker faz um pilar de corpos uivantes para invocar e corromper bestas sagradas. Devoradores podem aparecer em qualquer missão."
 		},
 		"Sacred Seals": {
-			"name": "Sacred Seals"
+			"name": "Selos Sagrados",
+			"description": "Todos os Legionários ganham Armadura Especial vs. efeitos mágicos."
 		},
 		"Scars of War": {
-			"name": "Scars of War"
+			"name": "Cicatrizes de Guerra",
+			"description": "As tropas de Blighter podem corromper a terra. Nuvens de gás venenosas irrompem e assolam o campo. Embora nem sempre presentes, eles podem surgir repentinamente como consequências de uma rolagem."
 		},
 		"Shapeshifter": {
-			"name": "Shapeshifter"
+			"name": "Transmorfo",
+			"description": "Ganhe 1 Intel após completar 2 missões primárias"
 		},
 		"Shredders": {
-			"name": "Shredders"
+			"name": "Retalhadores",
+			"description": "Remanescentes de Thorns, bolas de lâminas e sangue de Render, explodem quando perto de tropas. Muitas vezes enterradas no chão ou jogadas nos esquadrões."
 		},
 		"Spearforge": {
-			"name": "Spearforge"
+			"name": "Forja de Lança",
+			"description": "Os ferreiros de Render forjam lanças maciças, afiadas, corruptoras e de ferro negro que os Heartless carregam e os Cavaleiros disparam de balistas."
 		},
 		"Star of the Dawn": {
-			"name": "Star of the Dawn"
+			"name": "Estrela da Manhã",
+			"description": "Quando avançarem role Pressão como se fosse 1 ponto menor."
 		},
 		"Storm Riding": {
-			"name": "Storm Riding"
+			"name": "Cavalgando a Tempestade",
+			"description": "As Bruxas das Sombras aprendem a usar as forças do raio dentro dos Burned para pular de corpo em corpo, permitindo-lhes escapar da morte."
 		},
 		"The Changing Curse": {
-			"name": "The Changing Curse"
+			"name": "A Maldição da Metamorfose",
+			"description": "Bruxas das Sombras distorcem os vivos. Transformados pode aparecer em qualquer missão."
 		},
 		"The Coven": {
-			"name": "The Coven"
+			"name": "O Clã",
+			"description": "Breaker prende almas enfeitiçadas em corpos ainda vivos para criar acólitos. Shadow Witches podem aparecer em qualquer missão."
 		},
 		"The Forge": {
-			"name": "The Forge"
+			"name": "A Forja",
+			"description": "Render forja as lâminas dos caídos e sangue-cinza em Elites. Thorns podem aparecer em qualquer missão."
 		},
 		"The Sworn": {
-			"name": "The Sworn"
+			"name": "Os Jurados",
+			"description": "Alguns juramentos transcendem a morte. Cavaleiros do Carvalho Negro podem aparecer em qualquer missão."
 		},
 		"Toxic Bile": {
-			"name": "Toxic Bile"
+			"name": "Bile Tóxica",
+			"description": "Gut-Sacks e Spitters causam feridas corruptoras. No final de uma missão, ferimentos de corrupção não tratados causam +1 de corrupção cada."
 		},
 		"Toxic Mutagen": {
-			"name": "Toxic Mutagen"
+			"name": "Mutagênico Tóxico",
+			"description": "As tropas de Blighter revestem suas armas com um óleo alquímico, causando +1 de corrupção quando ferem alguém."
 		},
 		"Violent Emulsion": {
-			"name": "Violent Emulsion"
+			"name": "Emulsão Violenta",
+			"description": "Blighter cria mortos-vivos capazes de sobrecarregar a produção de bile. Spitters podem aparecer em qualquer missão."
 		},
 		"War-Saint": {
-			"name": "War-Saint"
+			"name": "Santo da Guerra",
+			"description": "O Quartermaster pode selecionar uma ação de campanha de Treinamento. Cada Especialista pode marcar 3 XP em Resolve."
 		},
 		"Wild Awakening": {
-			"name": "Wild Awakening"
+			"name": "Despertar Selvagem",
+			"description": "Shadow Witches e Breaker enfeitiçam animais, convertendo-os em espiões e alcatéias que caçam junto com os Transformados."
 		}
 	}
 }
