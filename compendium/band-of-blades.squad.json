@@ -1,23 +1,34 @@
 {
 	"label": "Squads",
+
+	"mapping": {
+		"description": "data.description"
+	},
+
 	"entries": {
 		"Ember Wolves": {
-			"name": "Ember Wolves"
+			"name": "Ember Wolves",
+			"description": "A vanguarda da Legião, os Ember Wolves são a primeira unidade enviada para a batalha como tropas de choque. Elas atacar de frente para o perigo, jogando o inimigo em desordem e dando ao resto da Legião a chance de avançar. Fundada há muito tempo por uma experiente mulher Zemyati apelidada de “Lobo Sangrento”, eles são conhecidos por se voluntariar para ir onde a batalha é mais difícil.\nLema do esquadrão: Os Primeiros na batalha."
 		},
 		"Ghost Owls": {
-			"name": "Ghost Owls"
+			"name": "Ghost Owls",
+			"description": "Quando a Legião precisa de problemas resolvidos de forma rápida e silenciosa, eles enviam as Corujas. Eles são tradicionalmente abastecidos com Legionários experientes como agentes especiais, treinados em infiltrações e extrações. Um fato pouco conhecido é que o lema do elenco é um imperativo, manter sempre a calma, independentemente da situação. Muitos Snipers e Scouts da Legião já foram Corujas. Lema do esquadrão: Calma antes da tempestade."
 		},
 		"Grinning Ravens": {
-			"name": "Grinning Ravens"
+			"name": "Grinning Ravens",
+			"description": "A espinha dorsal da Legião e tradicionalmente o time mais numeroso, os Ravens são uma formação de segunda onda. Eles seguem o rastro dos Ember Wolves, ultrapassando posições e resistindo a todas as probabilidades. Seu fundador original era conhecido por sua famosa lança e o hábito de rir no meio da batalha quando as chances eram piores.\nLema do esquadrão: Nós rimos da morte."
 		},
 		"Shattered Lions": {
-			"name": "Shattered Lions"
+			"name": "Shattered Lions",
+			"description": "Uma unidade de elite da Legião. Eles foram a primeira unidade já formada, e uma vez serviram como guarda pessoal do Imperador Tântaro como os Leões Carmesins. Quando a Legião foi reduzida a um punhado, eles resgataram os registros e se transformaram em Leões Despedaçados. Portadores do estandarte da Legião, muitos Comandantes e Marechais são veteranos desta unidade. \nLema do Esquadrão: O Orgulho da Legião."
 		},
 		"Silver Stags": {
-			"name": "Silver Stags"
+			"name": "Silver Stags",
+			"description": "Formados há menos de cem anos, os Silver Stags tornaram-se a retaguarda da Legião. O esquadrão foi comissionado depois que um punhado de Legionários manteve uma cidade contra uma força muito superior, sobrevivendo de ratos e couro de sapato. Seu líder posteriormente solicitou seu próprio comando. Eles são frequentemente enviados em missões onde a linha absolutamente não pode cair, ou escolhas difíceis devem ser feitas.\nLema do esquadrão: Não importa o custo."
 		},
 		"Star Vipers": {
-			"name": "Star Vipers"
+			"name": "Star Vipers",
+			"description": "A Legião se envolveu com Grandes Bestas, lutou ao lado de vários Escolhidos e enfrentou dificuldades incríveis ao longo dos anos. Os Vipers são aqueles que testam e usam alquimia estranha e novas armas, e são treinados para lidar, pesquisar e enfrentar o sobrenatural. Eles sacrificaram muito ao longo dos anos e atraem alguns indivíduos ecléticos.\nLema do Esquadrão: Na Escuridão Nós Brilhamos."
 		}
 	}
 }

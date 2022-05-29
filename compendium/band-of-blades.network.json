@@ -2,43 +2,56 @@
 	"label": "Spy Network",
 	"entries": {
 		"Acquisition": {
-			"name": "Acquisition"
+			"name": "Acquisition",
+			"description": "Aquisição. Agora você pode apoiar um terceiro espião. Requer: Rede de espionagem."
 		},
 		"Analysts": {
-			"name": "Analysts"
+			"name": "Analysts",
+			"description": "Analistas. Você ganha uma equipe de apoio para vasculhar os Registros, e relatórios, catalogando rumores úteis e dicas sobre a área local. Todos os espiões enviados em pesquisas de longo prazo rolam +1d. Requer: Rede de Espionagem."
 		},
 		"Entrapment": {
-			"name": "Entrapment"
+			"name": "Entrapment",
+			"description": "Aprisionamento. Você fornece treinamento especial para sobreviver nas profundezas do território inimigo e catalogar informações sobre os mortos-vivos. Todos os espiões envolvidos em uma armadilha rolam +1d. Requer: Rede de espionagem."
 		},
 		"Field Assessment": {
-			"name": "Field Assessment"
+			"name": "Field Assessment",
+			"description": "Análise de Campo. Contatos leais e informantes que te dão dicas de boas missões e conhecimento local que os Legionários podem trazer de volta. Todos os espiões enviados em missões de aprimoramento rolam +1d. Requer: Rede de espionagem."
 		},
 		"Holy Orders": {
-			"name": "Holy Orders"
+			"name": "Holy Orders",
+			"description": "Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. Eles fornecem recompensas extras de missão quando você melhora (augment) missões de um tipo específico. Requer: Fontes."
 		},
 		"Investments": {
-			"name": "Investments"
+			"name": "Investments",
+			"description": "Investimentos. Investir em alianças de longo prazo, instrutores e instalações compensa. Todos os espiões em atribuições de expansão de rede rolam +1d. Requer: Analistas."
 		},
 		"Mercenaries": {
-			"name": "Mercenaries"
+			"name": "Mercenaries",
+			"description": "Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. Eles fornecem recompensas extras de missão quando você melhora (augment) missões de um tipo específico. Requer: Fontes."
 		},
 		"Merchants": {
-			"name": "Merchants"
+			"name": "Merchants",
+			"description": "Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. Eles fornecem recompensas extras de missão quando você melhora (augment) missões de um tipo específico. Requer: Fontes."
 		},
 		"Rangers": {
-			"name": "Rangers"
+			"name": "Rangers",
+			"description": "Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. Eles fornecem recompensas extras de missão quando você melhora (augment) missões de um tipo específico. Requer: Fontes."
 		},
 		"Sources": {
-			"name": "Sources"
+			"name": "Sources",
+			"description": "Fontes. Contatos leais e informantes que te dão dicas de boas missões e conhecimento local do que os Legionários podem trazer de volta. Todos os espiões enviados em missões de aprimoramento rolam +1d. Requer: Rede de espionagem."
 		},
 		"Spy Network": {
-			"name": "Spy Network"
+			"name": "Spy Network",
+			"description": "Rede de espionagem. Você começa com esta habilidade. Isso lhe dá as instalações e recursos para manter dois espiões (consulte a página 152)."
 		},
 		"Trained 1": {
-			"name": "Trained 1"
+			"name": "Trained 1",
+			"description": "Treinamento. Outro de seus espiões se torna um espião mestre. Você pode pegue essa expansão de rede duas vezes. Requer: Aquisição."
 		},
 		"Trained 2": {
-			"name": "Trained 2"
+			"name": "Trained 2",
+			"description": "Treinamento. Outro de seus espiões se torna um espião mestre. Você pode pegue essa expansão de rede duas vezes. Requer: Aquisição."
 		}
 	}
 }
