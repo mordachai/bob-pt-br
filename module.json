@@ -2,8 +2,8 @@
   "name":"bob-pt-br",
   "title":"Band of Blades - Português (Brasil)",
   "description":"",
-  "version":"0.1.6",
-  "author":"Mestre Digital / Gus",
+  "version":"0.1.7",
+  "author":"Mestre Digital / Gus (apenas tradução)",
   "minimumCoreVersion":"0.8.8",
   "compatibleCoreVersion":"9",
   "esmodules": ["babele-register.js"],
@@ -14,7 +14,7 @@
       {
          "lang": "pt-BR",
          "name": "Português (Brasil)",
-         "path":"pt-br.json"
+         "path": "pt-br.json"
       }
    ],
    "dependencies":[

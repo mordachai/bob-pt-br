@@ -2,263 +2,430 @@
 	"label": "Itens",
 
 	"mapping": {
-		"description": "data.description"
+		"description": "data.description",
+		"load_type": "data.load_type"
 	},
 
 	"entries": {
 		"(H) +1 Utility": {
-			"description": ""
+			"name": "(H) +1 Utility",
+			"description": "",
+			"load_type": "Heavy"
 		},
 		"(H) 2 Fine Pistols": {
-			"description": "Duas pistolas finas: um par combinado de revólveres Orite magistralmente trabalhados (cinco tiros) com relevo fino e balanceado para recarga rápida. Como você os obteve?"
+			"name": "(H) 2 Pistolas Finas",
+			"description": "Duas pistolas finas: um par combinado de revólveres Orite magistralmente trabalhados (cinco tiros) com relevo fino e balanceado para recarga rápida. Como você os obteve?",
+			"load_type": "Heavy"
 		},
 		"(H) Armor": {
-			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você."
+			"name": "(H) Armadura",
+			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você.",
+			"load_type": "Heavy"
 		},
 		"(H) Battlefield Banner": {
-			"description": "Estandarte do Campo de Batalha: Um estandarte usado para coordenar tropas. Essas bandeiras aumentam o moral – a menos que caiam. Quem você designa para carregá-lo?"
+			"name": "(H) Estandarte do Campo de Batalha",
+			"description": "Estandarte do Campo de Batalha: Um estandarte usado para coordenar tropas. Essas bandeiras aumentam o moral – a menos que caiam. Quem você designa para carregá-lo?",
+			"load_type": "Heavy"
 		},
 		"(H) Camo Gear": {
-			"description": "Camuflagem: Redes, roupas, sacos de dormir e tendas projetadas para se misturar com o terreno. Você pode esconder um acampamento inteiro com isso. Em que terreno sua camuflagem é melhor usada?"
+			"name": "(H) Equipamento de camuflagem",
+			"description": "Camuflagem: Redes, roupas, sacos de dormir e tendas projetadas para se misturar com o terreno. Você pode esconder um acampamento inteiro com isso. Em que terreno sua camuflagem é melhor usada?",
+			"load_type": "Heavy"
 		},
 		"(H) Fine Armor": {
-			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você."
+			"name": "(H) Armadura, Fina",
+			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você.",
+			"load_type": "Heavy"
 		},
 		"(H) Fine Heavy Armor": {
-			"description": "Armadura Pesada: Placas de metal e couro. Camadas. Muitos têm desenhos em relevo, sigilos e cristas pintadas. Nada sutil ou silenciosa. Pequenas lâminas ou punhos têm pouco ou nenhum efeito contra você. Fornece 2 armaduras contra ataques físicos."
+			"name": "(H) Armadura Pesada, Boa",
+			"description": "Armadura Pesada: Placas de metal e couro. Camadas. Muitos têm desenhos em relevo, sigilos e cristas pintadas. Nada sutil ou silenciosa. Pequenas lâminas ou punhos têm pouco ou nenhum efeito contra você. Fornece 2 armaduras contra ataques físicos.",
+			"load_type": "Heavy"
 		},
 		"(H) Fine Long Rifle": {
-			"description": "Rifle Longo Fino: Uma maravilha da usinagem de sacerdotes Orite, com mira telescópica correspondente. Preciso até 200 metros, mas barulhento. Usa munição revestidas. Você nomeou esta arma?"
+			"name": "(H) Rifle Longo, Fino",
+			"description": "Rifle Longo Fino: Uma maravilha da usinagem de sacerdotes Orite, com mira telescópica correspondente. Preciso até 200 metros, mas barulhento. Usa munição revestidas. Você nomeou esta arma?",
+			"load_type": "Heavy"
 		},
 		"(H) Fine Tower Shield": {
-			"description": "Escudo Torre, Fino: Substitui o escudo. Escudo maciço que pode parar projéteis,disparos à queima roupa e proteger os outros. Concede 1 armadura. É mais alto que você?"
+			"name": "(H) Escudo Torre, Fino",
+			"description": "Escudo Torre, Fino: Substitui o escudo. Escudo maciço que pode parar projéteis,disparos à queima roupa e proteger os outros. Concede 1 armadura. É mais alto que você?",
+			"load_type": "Heavy"
 		},
 		"(H) Fine Wrecking Kit": {
-			"description": "Kit de demolição: Malho, espigões, pé-de-cabra, machados, brocas. Frascos de ácido e pequenas cargas alquímicas manuais."
+			"name": "(H) Kit de demolição, fino",
+			"description": "Kit de demolição: Malho, espigões, pé-de-cabra, machados, brocas. Frascos de ácido e pequenas cargas alquímicas manuais.",
+			"load_type": "Heavy"
 		},
 		"(H) Lots of Tonics": {
-			"description": "Tônicos: Poções e poções para remover a dor, curar doenças comuns, ajudar no sono ou dar misericórdia àqueles que não podem ser salvos. Materiais cirúrgicos. Fornece dois usos (total de quatro). Os outros sabem onde você os guarda?"
+			"name": "(H) Muitos Tônicos",
+			"description": "Tônicos: Poções e poções para remover a dor, curar doenças comuns, ajudar no sono ou dar misericórdia àqueles que não podem ser salvos. Materiais cirúrgicos. Fornece dois usos (total de quatro). Os outros sabem onde você os guarda?",
+			"load_type": "Heavy"
 		},
 		"(H) Shield": {
-			"description": "Escudo: Madeira com reforço de metal. Fornece 1 armadura contra ataques físicos. Fino: Escudo totalmente metálico gravado com qualquer símbolo que você desejar."
+			"name": "(H) Escudo",
+			"description": "Escudo: Madeira com reforço de metal. Fornece 1 armadura contra ataques físicos. Fino: Escudo totalmente metálico gravado com qualquer símbolo que você desejar.",
+			"load_type": "Heavy"
 		},
 		"(L) 2 Fine Pistols": {
-			"description": "Duas pistolas finas: um par combinado de revólveres Orite magistralmente trabalhados (cinco tiros) com relevo fino e balanceado para recarga rápida. Como você os obteve?"
+			"name": "(L) 2 Pistolas Finas",
+			"description": "Duas pistolas finas: um par combinado de revólveres Orite magistralmente trabalhados (cinco tiros) com relevo fino e balanceado para recarga rápida. Como você os obteve?",
+			"load_type": "Light"
 		},
 		"(L) Ammo": {
-			"description": "Munição: Pó, chumaço ou cartuchos de papel para carregar armas de pólvora e pistolas. Gaste para recarregar armas de longo alcance. Cinco usos."
+			"name": "(L) Munição",
+			"description": "Munição: Pó, chumaço ou cartuchos de papel para carregar armas de pólvora e pistolas. Gaste para recarregar armas de longo alcance. Cinco usos.",
+			"load_type": "Light"
 		},
 		"(L) Black Arrows": {
 			"name": "(L) Black Arrows",
-			"description": "Flechas Negras: Setas com pontas de flechas de Tiro Negro. Concede potência contra mortos-vivos. Em qual Alquimista você confiou para fazê-los?"
+			"description": "Flechas Negras: Setas com pontas de flechas de Tiro Negro. Concede potência contra mortos-vivos. Em qual Alquimista você confiou para fazê-los?",
+			"load_type": "Light"
 		},
 		"(L) Black Shot": {
-			"description": "Tiro Negro: Criadas por Alquimistas, essas balas preciosas são transportadas em estojos de madeira e couro embalados em serragem, selados. Um mero arranhão mata mortos-vivos menores. Concede potência contra mortos-vivos. Não balance. Use com moderação. Três usos."
+			"name": "(L) Black Shot",
+			"description": "Tiro Negro: Criadas por Alquimistas, essas balas preciosas são transportadas em estojos de madeira e couro embalados em serragem, selados. Um mero arranhão mata mortos-vivos menores. Concede potência contra mortos-vivos. Não balance. Use com moderação. Três usos.",
+			"load_type": "Light"
 		},
 		"(L) Explosive Charge": {
-			"description": "Carga explosiva. Dois usos."
+			"name": "(L) Carga Explosiva",
+			"description": "Carga explosiva. Dois usos.",
+			"load_type": "Light"
 		},
 		"(L) Fine Armor": {
-			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você."
+			"name": "(L) Armadura Fina",
+			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você.",
+			"load_type": "Light"
 		},
 		"(L) Fine Bow and Arrows": {
-			"description": "Arco e flechas finos: Arco recurvo de cerne de Panyar. Sussurra silencionamente. Que animal está gravado nele?"
+			"name": "(L) Arco e flecha, fino",
+			"description": "Arco e flechas finos: Arco recurvo de cerne de Panyar. Sussurra silencionamente. Que animal está gravado nele?",
+			"load_type": "Light"
 		},
 		"(L) Fine Climbing Kit": {
-			"description": "Kit de escalada: garras, pitons, corda. Um imperativo para as montanhas, útil nas florestas."
+			"name": "(L) Kit de escalada, fino",
+			"description": "Kit de escalada: garras, pitons, corda. Um imperativo para as montanhas, útil nas florestas.",
+			"load_type": "Light"
 		},
 		"(L) Fine Compass and Maps": {
-			"description": "Bússola e mapas: Bússola fina Bartan (difícil de substituir). Mapas da área local que você anotou pessoalmente."
+			"name": "(L) Bússola e mapas, fino",
+			"description": "Bússola e mapas: Bússola fina Bartan (difícil de substituir). Mapas da área local que você anotou pessoalmente.",
+			"load_type": "Light"
 		},
 		"(L) Fine Cooking Kit": {
-			"description": "Kit de Culinária: Panelas, frigideiras, grelhas, temperos e carvão que fizeram você carregar. Se um novato não tiver isso, as pessoas ficarão chateadas."
+			"name": "(L) Kit de Culinária, fino",
+			"description": "Kit de Culinária: Panelas, frigideiras, grelhas, temperos e carvão que fizeram você carregar. Se um novato não tiver isso, as pessoas ficarão chateadas.",
+			"load_type": "Light"
 		},
 		"(L) Fine Hand Weapon": {
-			"description": "Arma de mão fina: Uma lâmina de duelo, espada longa, sabre, lança de cerne de maderia ou arma similar de uma mão."
+			"name": "(L) Arma de mão fina",
+			"description": "Arma de mão fina: Uma lâmina de duelo, espada longa, sabre, lança de cerne de maderia ou arma similar de uma mão.",
+			"load_type": "Light"
 		},
 		"(L) Fine Long Rifle": {
-			"description": "Rifle Longo Fino: Uma maravilha da usinagem de sacerdotes Orite, com mira telescópica correspondente. Preciso até 200 metros, mas barulhento. Usa munição revestidas. Você nomeou esta arma?"
+			"name": "(L) Rifle Longo Fino",
+			"description": "Rifle Longo Fino: Uma maravilha da usinagem de sacerdotes Orite, com mira telescópica correspondente. Preciso até 200 metros, mas barulhento. Usa munição revestidas. Você nomeou esta arma?",
+			"load_type": "Light"
 		},
 		"(L) Fine Medic Kit": {
-			"description": "Kit médico: anti-séptico, tipóias, suturas, cataplasmas, gazes. Gaste por armaduras especiais contra doenças e complicações de feridas. Três usos. Bom/ fino: também tem curativos, xaropes, compressas estéreis e remédios."
+			"name": "(L) Kit Médico Fino",
+			"description": "Kit médico: anti-séptico, tipóias, suturas, cataplasmas, gazes. Gaste por armaduras especiais contra doenças e complicações de feridas. Três usos. Bom/ fino: também tem curativos, xaropes, compressas estéreis e remédios.",
+			"load_type": "Light"
 		},
 		"(L) Fine Ornate Cloak (optional)": {
-			"description": "Manto Ornamentado Fino: Uma roupa digna de um Oficial. Fecho de brasão. Uma marca de posição entre as tropas. Quais medalhas você usa?"
+			"name": "(L) Manto Ornamentado Fino (opcional)",
+			"description": "Manto Ornamentado Fino: Uma roupa digna de um Oficial. Fecho de brasão. Uma marca de posição entre as tropas. Quais medalhas você usa?",
+			"load_type": "Light"
 		},
 		"(L) Fine Repair Kit": {
-			"description": "Kit de reparação: Martelos, limas, pregos, pinos, pranchas, polias, cordas, serras. Pode bloquear armadilhas, reparar portas ou dispositivos de cerco, etc. Três usos."
+			"name": "(L) Kit de Reparos Fino",
+			"description": "Kit de reparação: Martelos, limas, pregos, pinos, pranchas, polias, cordas, serras. Pode bloquear armadilhas, reparar portas ou dispositivos de cerco, etc. Três usos.",
+			"load_type": "Light"
 		},
 		"(L) Fine Soldier's Kit": {
-			"description": "Kit de soldado: saco de dormir, pederneira e isqueiro, faca, lanterna, espelho pequeno, sabonete, kit de barbear, espátula, pedra de amolar, rações de um dia, etc. Feitas idênticas, os soldados trocam peças e personalizam com mercadorias adicionais."
+			"name": "(L) Kit de soldado fino",
+			"description": "Kit de soldado: saco de dormir, pederneira e isqueiro, faca, lanterna, espelho pequeno, sabonete, kit de barbear, espátula, pedra de amolar, rações de um dia, etc. Feitas idênticas, os soldados trocam peças e personalizam com mercadorias adicionais.",
+			"load_type": "Light"
 		},
 		"(L) Fine Wrecking Kit": {
-			"description": "Kit de demolição: Malho, espigões, pé-de-cabra, machados, brocas. Frascos de ácido e pequenas cargas alquímicas manuais."
+			"name": "(L) Kit de demolição fino",
+			"description": "Kit de demolição: Malho, espigões, pé-de-cabra, machados, brocas. Frascos de ácido e pequenas cargas alquímicas manuais.",
+			"load_type": "Light"
 		},
 		"(L) Flare Gun": {
-			"description": "Sinalizador: Pistola de ação de ruptura com cargas de fumaça coloridas e sinalizadores ardentes para sinalização noturna. O pacote padrão inclui quatro projéteis."
+			"name": "(L) Pistola Sinalizadora",
+			"description": "Sinalizador: Pistola de ação de ruptura com cargas de fumaça coloridas e sinalizadores ardentes para sinalização noturna. O pacote padrão inclui quatro projéteis.",
+			"load_type": "Light"
 		},
 		"(L) Grenade": {
-			"description": ""
+			"name": "(L) Granada",
+			"description": "",
+			"load_type": "Light"
 		},
 		"(L) Holy Symbol of Mercy": {
-			"description": "Símbolo Sagrado da Misericórdia: Um símbolo físico da Deusa da Misericórdia, muitas vezes usado como broche ou colar, ou enrolado na mão. Onde você usa o seu?"
+			"name": "(L) Símbolo Sagrado de Mercy",
+			"description": "Símbolo Sagrado da Misericórdia: Um símbolo físico da Deusa da Misericórdia, muitas vezes usado como broche ou colar, ou enrolado na mão. Onde você usa o seu?",
+			"load_type": "Light"
 		},
 		"(L) Mark of the Healing God (optional)": {
-			"description": "Marca da Deusa da Cura: Aqueles médicos que fazem o juramento de cura e misericórdia (não procuram prejudicar ninguém, não rejeitam nenhum paciente, dão misericórdia àqueles que não podem ser salvos) em um templo para Asrika são marcados com um sêlo de asas. Tal símbolo é universalmente reconhecido como a marca de um Medic, e aldeões e estranhos fornecerão cortesia e passagem para aqueles marcados quando não o fariam de outra forma. Se você pegar essa marca, você sempre a terá no futuro. Onde você conseguiu o seu e onde ele está no seu corpo?"
+			"name": "(L) Marca do Deus que Cura (opcional)",
+			"description": "Marca da Deusa da Cura: Aqueles médicos que fazem o juramento de cura e misericórdia (não procuram prejudicar ninguém, não rejeitam nenhum paciente, dão misericórdia àqueles que não podem ser salvos) em um templo para Asrika são marcados com um sêlo de asas. Tal símbolo é universalmente reconhecido como a marca de um Medic, e aldeões e estranhos fornecerão cortesia e passagem para aqueles marcados quando não o fariam de outra forma. Se você pegar essa marca, você sempre a terá no futuro. Onde você conseguiu o seu e onde ele está no seu corpo?",
+			"load_type": "Light"
 		},
 		"(L) Memento of Home": {
-			"description": "Memento of Home: Uma peça de joalheria. Flores prensadas. Lâmina fina com o brasão da casa. Pequeno retrato. Uma carta ou livro. Você leva em missões?"
+			"name": "(L) Lembrança de Casa",
+			"description": "Memento of Home: Uma peça de joalheria. Flores prensadas. Lâmina fina com o brasão da casa. Pequeno retrato. Uma carta ou livro. Você leva em missões?",
+			"load_type": "Light"
 		},
 		"(L) Musket": {
-			"description": "Mosquete: Rifle de munição de bola com culatra. Questão Legião Padrão. Preciso até 50 metros. Novatos pegos sem o seu irão levar uma bronca."
+			"name": "(L) Mosquete",
+			"description": "Mosquete: Rifle de munição de bola com culatra. Questão Legião Padrão. Preciso até 50 metros. Novatos pegos sem o seu irão levar uma bronca.",
+			"load_type": "Light"
 		},
 		"(L) Naive Hope": {
-			"description": "Esperança ingênua: Pode ser uma vantagem ou um problema. Você não a terá por muito tempo de qualquer maneira. O que te mantém esperançoso?"
+			"name": "(L) Esperança ingênua",
+			"description": "Esperança ingênua: Pode ser uma vantagem ou um problema. Você não a terá por muito tempo de qualquer maneira. O que te mantém esperançoso?",
+			"load_type": "Light"
 		},
 		"(L) Soldier's Kit": {
-			"description": "Kit de soldado: saco de dormir, pederneira e isqueiro, faca, lanterna, espelho pequeno, sabonete, kit de barbear, espátula, pedra de amolar, rações de um dia, etc. Feitas idênticas, os soldados trocam peças e personalizam com mercadorias adicionais."
+			"name": "(L) Kit de Soldado",
+			"description": "Kit de soldado: saco de dormir, pederneira e isqueiro, faca, lanterna, espelho pequeno, sabonete, kit de barbear, espátula, pedra de amolar, rações de um dia, etc. Feitas idênticas, os soldados trocam peças e personalizam com mercadorias adicionais.",
+			"load_type": "Light"
 		},
 		"(L) Tonics": {
-			"description": "Tônicos: Poções e poções para remover a dor, curar doenças comuns, ajudar no sono ou dar misericórdia àqueles que não podem ser salvos. Materiais cirúrgicos. Fornece um uso. Os outros sabem onde você os guarda?"
+			"name": "(L) Tônicos",
+			"description": "Tônicos: Poções e poções para remover a dor, curar doenças comuns, ajudar no sono ou dar misericórdia àqueles que não podem ser salvos. Materiais cirúrgicos. Fornece um uso. Os outros sabem onde você os guarda?",
+			"load_type": "Light"
 		},
 		"(N) +2 Utility": {
-			"description": ""
+			"name": "(N) +2 Utility",
+			"description": "",
+			"load_type": "Normal"
 		},
 		"(N) Ammo": {
-			"description": "Munição: Pó, chumaço ou cartuchos de papel para carregar armas de pólvora e pistolas. Gaste para recarregar armas de longo alcance. Cinco usos."
+			"name": "(N) Munição",
+			"description": "Munição: Pó, chumaço ou cartuchos de papel para carregar armas de pólvora e pistolas. Gaste para recarregar armas de longo alcance. Cinco usos.",
+			"load_type": "Normal"
 		},
 		"(N) Armor": {
-			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você.."
+			"name": "(N) Armadura",
+			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você.",
+			"load_type": "Normal"
 		},
 		"(N) Climbing Kit": {
-			"description": "Kit de escalada: garras, pitons, corda. Um imperativo para as montanhas, útil nas florestas."
+			"name": "(N) Kit de escalada",
+			"description": "Kit de escalada: garras, pitons, corda. Um imperativo para as montanhas, útil nas florestas.",
+			"load_type": "Normal"
 		},
 		"(N) Cooking Kit": {
-			"description": "Kit de Culinária: Panelas, frigideiras, grelhas, temperos e carvão que fizeram você carregar. Se um novato não tiver isso, as pessoas ficarão chateadas."
+			"name": "(N) Kit de Cozinha",
+			"description": "Kit de Culinária: Panelas, frigideiras, grelhas, temperos e carvão que fizeram você carregar. Se um novato não tiver isso, as pessoas ficarão chateadas.",
+			"load_type": "Normal"
 		},
 		"(N) Family Weapon": {
-			"description": "Arma da Família: Não é estilosa, mas tem uma história. Pode ser uma arma de mão, mosquete, utensílio agrícola ou arco. Como você conseguiu isso?"
+			"name": "(N) Arma da Família",
+			"description": "Arma da Família: Não é estilosa, mas tem uma história. Pode ser uma arma de mão, mosquete, utensílio agrícola ou arco. Como você conseguiu isso?",
+			"load_type": "Normal"
 		},
 		"(N) Fine Armor": {
-			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você."
+			"name": "(N) Armadura Fina",
+			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido. Personalizado para você.",
+			"load_type": "Normal"
 		},
 		"(N) Fine Heavy Weapon": {
-			"description": "Arma Pesada: Alabarda, arma de haste, machado maciço, malho. Boa/Fina: Claymore, martelo de guerra, estrela da manhã. Muito pesado para a maioria. Bem desgastado e familiar para você."
+			"name": "(N) Arma pesada fina",
+			"description": "Arma Pesada: Alabarda, arma de haste, machado maciço, malho. Boa/Fina: Claymore, martelo de guerra, estrela da manhã. Muito pesado para a maioria. Bem desgastado e familiar para você.",
+			"load_type": "Normal"
 		},
 		"(N) Fine Lenses": {
-			"description": "Luneta: Uma luxuosa lente telescópica Bartan para ver coisas à distância. Caro. Não a perca."
+			"name": "(N) Luneta fina",
+			"description": "Luneta: Uma luxuosa lente telescópica Bartan para ver coisas à distância. Caro. Não a perca.",
+			"load_type": "Normal"
 		},
 		"(N) Fine Luxury Item": {
-			"description": "Artigo de luxo fino: Conhaques finos. Lindos conjuntos de jogos. Um instrumento musical. Privilégios condizentes com o posto. Qual deles você trouxe nesta missão?"
+			"name": "(N) Item de luxo fino",
+			"description": "Artigo de luxo fino: Conhaques finos. Lindos conjuntos de jogos. Um instrumento musical. Privilégios condizentes com o posto. Qual deles você trouxe nesta missão?",
+			"load_type": "Normal"
 		},
 		"(N) Fine Pistol": {
-			"description": "Pistola: Tiro único. Carregado pela culatra. Fina: Um revólver Orite magistralmente trabalhado (cinco tiros) com relevo fino e balanceado para recarga rápida."
+			"name": "(N) Pistola Fina",
+			"description": "Pistola: Tiro único. Carregado pela culatra. Fina: Um revólver Orite magistralmente trabalhado (cinco tiros) com relevo fino e balanceado para recarga rápida.",
+			"load_type": "Normal"
 		},
 		"(N) Fine Reliquary": {
-			"description": "Relicário: Ossos de antigos Escolhidos em frascos de óleo sagrado. Aparas de relíquias. Tomos de escritura abençoada. Gaste para reduzir a corrupção recebida em 1 e +1d para resistir a ela. Três usos. Fino: Reduz a corrupção recebida em 2."
+			"name": "(N) Relicário Fino",
+			"description": "Relicário: Ossos de antigos Escolhidos em frascos de óleo sagrado. Aparas de relíquias. Tomos de escritura abençoada. Gaste para reduzir a corrupção recebida em 1 e +1d para resistir a ela. Três usos. Fino: Reduz a corrupção recebida em 2.",
+			"load_type": "Normal"
 		},
 		"(N) Fine Shield": {
-			"description": "Escudo: Madeira com reforço de metal. Fornece 1 armadura contra ataques físicos. Fino: Escudo totalmente metálico gravado com qualquer símbolo que você desejar."
+			"name": "(N) Escudo Fino",
+			"description": "Escudo: Madeira com reforço de metal. Fornece 1 armadura contra ataques físicos. Fino: Escudo totalmente metálico gravado com qualquer símbolo que você desejar.",
+			"load_type": "Normal"
 		},
 		"(N) Fitted Heavy Plate": {
-			"description": "Placa Pesada Montada: Substitui a Armadura. Sua armadura de assinatura. Personalizado. Conta como Fina. Concede Armadura 2. O que se destaca sobre isso à distância?"
+			"name": "(N) Armadura de Placas sob medida",
+			"description": "Placa Pesada Montada: Substitui a Armadura. Sua armadura de assinatura. Personalizado. Conta como Fina. Concede Armadura 2. O que se destaca sobre isso à distância?",
+			"load_type": "Normal"
 		},
 		"(N) Fresh Food": {
-			"description": "Comida Fresca: Suficiente para uma boa refeição ou um saboroso guisado. Uma das poucas coisas pelas quais os Especialistas irão respeitá-lo. Um uso. Que toque secreto você adiciona à sua receita?"
+			"name": "(N) Comida Fresca",
+			"description": "Comida Fresca: Suficiente para uma boa refeição ou um saboroso guisado. Uma das poucas coisas pelas quais os Especialistas irão respeitá-lo. Um uso. Que toque secreto você adiciona à sua receita?",
+			"load_type": "Normal"
 		},
 		"(N) Gun Maintenance Kit": {
-			"description": "Kit de manutenção da armas: Para limpar entupimentos e modificar uma pistola em campo. Nenhum Sniper deveria ficar sem isso."
+			"name": "(N) Kit de manutenção de armas",
+			"description": "Kit de manutenção da armas: Para limpar entupimentos e modificar uma pistola em campo. Nenhum Sniper deveria ficar sem isso.",
+			"load_type": "Normal"
 		},
 		"(N) More Tonics": {
-			"description": "Tônicos: Poções e poções para remover a dor, curar doenças comuns, ajudar no sono ou dar misericórdia àqueles que não podem ser salvos. Materiais cirúrgicos. Fornece um uso. Os outros sabem onde você os guarda?"
+			"name": "(N) Mais Tônicos",
+			"description": "Tônicos: Poções e poções para remover a dor, curar doenças comuns, ajudar no sono ou dar misericórdia àqueles que não podem ser salvos. Materiais cirúrgicos. Fornece um uso. Os outros sabem onde você os guarda?",
+			"load_type": "Normal"
 		},
 		"(N) Tents and Camping Gear": {
-			"description": "Barracas e equipamento de acampamento: Barracas e talvez a barraca do cabo. Mantém a chuva do lado de fora. Todos esperam que você os carregue. Ninguém vai agradecer por isso. Como é sua barraca?"
+			"name": "(N) Tendas e Equipamento de Camping",
+			"description": "Barracas e equipamento de acampamento: Barracas e talvez a barraca do cabo. Mantém a chuva do lado de fora. Todos esperam que você os carregue. Ninguém vai agradecer por isso. Como é sua barraca?",
+			"load_type": "Normal"
 		},
 		"(U) Alchemical Bandolier": {
-			"description": "Bandoleira Alquímica: Uma bandoleira pode ser usada até quatro vezes para produzir um dos seguintes efeitos alquímicos:\n- Owlsight Oil: permite que você veja no escuro por 24 horas, mas a luz brilhante é ofuscante.\n- Chembalm: Neutraliza a maioria dos venenos e toxinas. Também um excelente desinfetante de campo de batalha (isso pode afetar as jogadas de sorte do médico).\n- Profundo: Permite prender a respiração para uma cena.\n- Rage Venom: Ganhe potência física para uma cena. Você deve fazer uma resolução resistir para evitar atacar amigos e inimigos indiscriminadamente. Viciante."
+			"name": "(U) Bandoleira Alquímica",
+			"description": "Bandoleira Alquímica: Uma bandoleira pode ser usada até quatro vezes para produzir um dos seguintes efeitos alquímicos:\n<ul><li>Owlsight Oil: permite que você veja no escuro por 24 horas, mas a luz brilhante é ofuscante.</li><li>Chembalm: Neutraliza a maioria dos venenos e toxinas. Também um excelente desinfetante de campo de batalha (isso pode afetar as jogadas de sorte do médico).</li><li>Profundo: Permite prender a respiração para uma cena.</li><li>Rage Venom: Ganhe potência física para uma cena. Você deve fazer uma resolução resistir para evitar atacar amigos e inimigos indiscriminadamente. Viciante.</li></ul>",
+			"load_type": "Utility"
 		},
 		"(U) Ammo": {
-			"description": "Munição: Pó, chumaço ou cartuchos de papel para carregar armas de pólvora e pistolas. Gaste para recarregar armas de longo alcance. Cinco usos."
+			"name": "(U) Munição",
+			"description": "Munição: Pó, chumaço ou cartuchos de papel para carregar armas de pólvora e pistolas. Gaste para recarregar armas de longo alcance. Cinco usos.",
+			"load_type": "Utility"
 		},
 		"(U) Armor": {
-			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você."
+			"name": "(U) Armadura",
+			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você.",
+			"load_type": "Utility"
 		},
 		"(U) Black Shot": {
-			"description": "Tiro Negro: Criadas por Alquimistas, essas balas preciosas são transportadas em estojos de madeira e couro embalados em serragem, selados. Um mero arranhão mata mortos-vivos menores. Concede potência contra mortos-vivos. Não balance. Use com moderação. Três usos."
+			"name": "(U) Black Shot",
+			"description": "Tiro Negro: Criadas por Alquimistas, essas balas preciosas são transportadas em estojos de madeira e couro embalados em serragem, selados. Um mero arranhão mata mortos-vivos menores. Concede potência contra mortos-vivos. Não balance. Use com moderação. Três usos.",
+			"load_type": "Utility"
 		},
 		"(U) Books and Scrolls": {
-			"description": "Livros e Pergaminhos: Você traz o tratado acadêmico ou a seção certa dos Registros da Legião. Gaste para ganhar +1d ou +1 nível de efeito para testes de pesquisa. Dois usos."
+			"name": "(U) Livros e Pergaminhos",
+			"description": "Livros e Pergaminhos: Você traz o tratado acadêmico ou a seção certa dos Registros da Legião. Gaste para ganhar +1d ou +1 nível de efeito para testes de pesquisa. Dois usos.",
+			"load_type": "Utility"
 		},
 		"(U) Climbing Kit": {
-			"description": "Kit de escalada: garras, pitons, corda. Um imperativo para as montanhas, útil nas florestas."
+			"name": "(U) Kit de escalada",
+			"description": "Kit de escalada: garras, pitons, corda. Um imperativo para as montanhas, útil nas florestas.",
+			"load_type": "Utility"
 		},
 		"(U) Compass and Maps": {
-			"description": "Bússola e mapas: Bússola fina Bartan (difícil de substituir). Mapas da área local que você anotou pessoalmente."
+			"name": "(U) Bússola e Mapas",
+			"description": "Bússola e mapas: Bússola fina Bartan (difícil de substituir). Mapas da área local que você anotou pessoalmente.",
+			"load_type": "Utility"
 		},
 		"(U) Crimson Shot": {
-			"description": "Crimson Seekers são relíquias da Guerra dos Deuses, e exigem que você se corte e sangre sua essência de vida na capsula antes de armar. Você pode disparar o projétil mesmo que este seja seu último trauma, embora isso o mate."
+			"name": "(U) Crimson Shot",
+			"description": "Crimson Seekers são relíquias da Guerra dos Deuses, e exigem que você se corte e sangre sua essência de vida na capsula antes de armar. Você pode disparar o projétil mesmo que este seja seu último trauma, embora isso o mate.",
+			"load_type": "Utility"
 		},
 		"(U) Extra Explosive Charge": {
-			"description": ""
+			"name": "(U) Carga Explosiva Extra",
+			"description": "",
+			"load_type": "Utility"
 		},
 		"(U) Extra Extra Explosive Charge": {
-			"description": ""
+			"name": "(U) Carga Explosiva Extra Extra",
+			"description": "",
+			"load_type": "Utility"
 		},
 		"(U) Extra Extra Grenade": {
-			"description": ""
+			"name": "(U) Granada Extra Extra",
+			"description": "",
+			"load_type": "Utility"
 		},
 		"(U) Extra Grenade": {
-			"description": ""
+			"name": "(U) Granada Extra",
+			"description": "",
+			"load_type": "Utility"
 		},
 		"(U) Flare Gun": {
-			"description": "Sinalizador: Pistola de ação de ruptura com cargas de fumaça coloridas e sinalizadores ardentes para sinalização noturna. O pacote padrão inclui quatro projéteis."
+			"name": "(U) Pistola Sinalizadora",
+			"description": "Sinalizador: Pistola de ação de ruptura com cargas de fumaça coloridas e sinalizadores ardentes para sinalização noturna. O pacote padrão inclui quatro projéteis.",
+			"load_type": "Utility"
 		},
 		"(U) Hand Weapon": {
-			"description": "Arma de mão: Espada, lança ou machado. Arma militar de uma mão. Não facas. Você pode pegar dois se não usar um escudo. Boa/Fina: Lâmina de duelo, espada longa, sabre, lança de cerne ou uma arma similar de uma mão. Nomeada e de qualidade excepcional. Do que é feito e quem o forjou?"
+			"name": "(U) Arma de Mão",
+			"description": "Arma de mão: Espada, lança ou machado. Arma militar de uma mão. Não facas. Você pode pegar dois se não usar um escudo. Boa/Fina: Lâmina de duelo, espada longa, sabre, lança de cerne ou uma arma similar de uma mão. Nomeada e de qualidade excepcional. Do que é feito e quem o forjou?",
+			"load_type": "Utility"
 		},
 		"(U) Heavy Weapon": {
-			"description": "Arma Pesada: Alabarda, arma de haste, machado maciço, malho. Boa/Fina: Claymore, martelo de guerra, estrela da manhã. Muito pesado para a maioria. Bem desgastado e familiar para você."
+			"name": "(U) Arma Pesada",
+			"description": "Arma Pesada: Alabarda, arma de haste, machado maciço, malho. Boa/Fina: Claymore, martelo de guerra, estrela da manhã. Muito pesado para a maioria. Bem desgastado e familiar para você.",
+			"load_type": "Utility"
 		},
 		"(U) Large Weapon": {
-			"description": "Arma Pesada: Alabarda, arma de haste, machado maciço, malho. Boa/Fina: Claymore, martelo de guerra, estrela da manhã. Muito pesado para a maioria. Bem desgastado e familiar para você."
+			"name": "(U) Arma Grande",
+			"description": "Arma Pesada: Alabarda, arma de haste, machado maciço, malho. Boa/Fina: Claymore, martelo de guerra, estrela da manhã. Muito pesado para a maioria. Bem desgastado e familiar para você.",
+			"load_type": "Utility"
 		},
 		"(U) Lenses": {
-			"description": "Luneta: Uma luxuosa lente telescópica Bartan para ver coisas à distância. Caro. Não a perca."
+			"name": "(U) Luneta",
+			"description": "Luneta: Uma luxuosa lente telescópica Bartan para ver coisas à distância. Caro. Não a perca.",
+			"load_type": "Utility"
 		},
 		"(U) Medic Kit": {
-			"description": "Kit médico: anti-séptico, tipóias, suturas, cataplasmas, gazes. Gaste por armaduras especiais contra doenças e complicações de feridas. Três usos. Bom/ fino: também tem curativos, xaropes, compressas estéreis e remédios."
+			"name": "(U) Kit Médico",
+			"description": "Kit médico: anti-séptico, tipóias, suturas, cataplasmas, gazes. Gaste por armaduras especiais contra doenças e complicações de feridas. Três usos. Bom/ fino: também tem curativos, xaropes, compressas estéreis e remédios.",
+			"load_type": "Utility"
 		},
 		"(U) Musket": {
-			"description": "Mosquete: Rifle de munição de bola com culatra. Questão Legião Padrão. Preciso até 50 metros. Novatos pegos sem o seu irão levar uma bronca."
+			"name": "(U) Mosquete",
+			"description": "Mosquete: Rifle de munição de bola com culatra. Questão Legião Padrão. Preciso até 50 metros. Novatos pegos sem o seu irão levar uma bronca.",
+			"load_type": "Utility"
 		},
 		"(U) Oil": {
-			"description": "Óleo: Tem vários usos, desde silenciar dobradiças até encher lâmpadas. Pega fogo facilmente. Três usos."
+			"name": "(U) Óleo",
+			"description": "Óleo: Tem vários usos, desde silenciar dobradiças até encher lâmpadas. Pega fogo facilmente. Três usos.",
+			"load_type": "Utility"
 		},
 		"(U) Pistol": {
-			"description": "Pistola: Tiro único. Carregado pela culatra. Fina: Um revólver Orite magistralmente trabalhado (cinco tiros) com relevo fino e balanceado para recarga rápida."
+			"name": "(U) Pistola",
+			"description": "Pistola: Tiro único. Carregado pela culatra. Fina: Um revólver Orite magistralmente trabalhado (cinco tiros) com relevo fino e balanceado para recarga rápida.",
+			"load_type": "Utility"
 		},
 		"(U) Reliquary": {
-			"description": "Relicário: Ossos de antigos Escolhidos em frascos de óleo sagrado. Aparas de relíquias. Tomos de escritura abençoada. Gaste para reduzir a corrupção recebida em 1 e +1d para resistir a ela. Três usos. Fino: Reduz a corrupção recebida em 2."
+			"name": "(U) Relicário",
+			"description": "Relicário: Ossos de antigos Escolhidos em frascos de óleo sagrado. Aparas de relíquias. Tomos de escritura abençoada. Gaste para reduzir a corrupção recebida em 1 e +1d para resistir a ela. Três usos. Fino: Reduz a corrupção recebida em 2.",
+			"load_type": "Utility"
 		},
 		"(U) Repair Kit": {
-			"description": "Kit de reparação: Martelos, limas, pregos, pinos, pranchas, polias, cordas, serras. Pode bloquear armadilhas, reparar portas ou dispositivos de cerco, etc. Três usos."
+			"name": "(U) Kit de reparo",
+			"description": "Kit de reparação: Martelos, limas, pregos, pinos, pranchas, polias, cordas, serras. Pode bloquear armadilhas, reparar portas ou dispositivos de cerco, etc. Três usos.",
+			"load_type": "Utility"
 		},
 		"(U) Shield": {
-			"description": "Escudo: Madeira com reforço de metal. Fornece 1 armadura contra ataques físicos. Fino: Escudo totalmente metálico gravado com qualquer símbolo que você desejar."
+			"name": "(U) Escudo",
+			"description": "Escudo: Madeira com reforço de metal. Fornece 1 armadura contra ataques físicos. Fino: Escudo totalmente metálico gravado com qualquer símbolo que você desejar.",
+			"load_type": "Utility"
 		},
 		"(U) Soldier's Kit": {
-			"description": "Kit de soldado: saco de dormir, pederneira e isqueiro, faca, lanterna, espelho pequeno, sabonete, kit de barbear, espátula, pedra de amolar, rações de um dia, etc. Feitas idênticas, os soldados trocam peças e personalizam com mercadorias adicionais."
+			"name": "(U)  Kit de Soldado",
+			"description": "Kit de soldado: saco de dormir, pederneira e isqueiro, faca, lanterna, espelho pequeno, sabonete, kit de barbear, espátula, pedra de amolar, rações de um dia, etc. Feitas idênticas, os soldados trocam peças e personalizam com mercadorias adicionais.",
+			"load_type": "Utility"
 		},
 		"(U) Supplies": {
 			"name": "(U) Rações",
-			"description": "Rações: Alimentos secos embalados para viagem. Não é realmente apetitoso, a menos que seja cozido. Gaste para alimentar um Legionário por um dia. Espero que um novato tenha embalado um kit de culinária."
+			"description": "Rações: Alimentos secos embalados para viagem. Não é realmente apetitoso, a menos que seja cozido. Gaste para alimentar um Legionário por um dia. Espero que um novato tenha embalado um kit de culinária.",
+			"load_type": "Utility"
 		},
 		"(U) Winter Clothing": {
-			"description": "Roupas de inverno: Não congele até a morte. Se congelar, não volte."
+			"name": "(U) Roupas de inverno",
+			"description": "Roupas de inverno: Não congele até a morte. Se congelar, não volte.",
+			"load_type": "Utility"
 		},
 		"(U) Wrecking Kit": {
-			"description": "Kit de demolição: Malho, espigões, pé-de-cabra, machados, brocas. Frascos de ácido e pequenas cargas alquímicas manuais."
+			"name": "(U) Kit de Demolição",
+			"description": "Kit de demolição: Malho, espigões, pé-de-cabra, machados, brocas. Frascos de ácido e pequenas cargas alquímicas manuais.",
+			"load_type": "Utility"
 		}
 	}
 }
