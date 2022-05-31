@@ -1,0 +1,47 @@
+{
+	"label": "Classes",
+	"mapping": {
+		"description": "data.description",
+		"experience_clues": "data.experience_clues"
+
+	  },
+
+
+	"entries": {
+		"Heavy": {
+			"name": "Heavy",
+			"description": "Jogue com um Heavy se quiser brilhar com força e determinação contra a escuridão.",
+			"experience_clues": "Se você ajudou seu esquadrão através de força e resistência."
+		},
+		"Medic": {
+			"name": "Medic",
+			"description": "Jogue com um Medic se quiser que seus companheiros soldados passem por uma missão vivos.",
+			"experience_clues": "Se você ajudou o esquadrão com conhecimentos médicos e apoio emocional"
+		},
+		"Officer": {
+			"name": "Officer",
+			"description": "Jogue como um Officer se você quiser comandar suas tropas para a vitória, mesmo quando elas estiverem enfrentando a morte certa.",
+			"experience_clues": "Se você ajudou seu esquadrão aplicando disciplina ou planejamento estratégico"
+		},
+		"Rookie": {
+			"name": "Rookie",
+			"description": "Jogue como um Rookie se quiser ganhar suas listras em campo.",
+			"experience_clues": "Se você ajudou seu esquadrão ficando fora do caminho ou sobrevivendo, apesar das chances."
+		},
+		"Scout": {
+			"name": "Scout",
+			"description": "Jogue com um Scout se você quiser ver o inimigo chegando e sempre saber o que você está enfrentando.",
+			"experience_clues": "Se você ajudou seu esquadrão através de furtividade e antecipação."
+		},
+		"Sniper": {
+			"name": "Sniper",
+			"description": "Jogue como um Sniper se você quiser despachar as ameaças mais perigosas de longe.",
+			"experience_clues": "Se você ajudou seu esquadrão por meio de observação aguçada e tiros importantes."
+		},
+		"Soldier": {
+			"name": "Soldier",
+			"description": "Jogue como um Soldier se você quiser se arrastar pela lama como um veterano durão.",
+			"experience_clues": "Se você ajudou seu esquadrão com coragem ou determinação"
+		}
+	}
+}
