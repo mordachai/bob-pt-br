@@ -1,20 +1,29 @@
 {
 	"label": "Roles",
+	"mapping": {
+		"description": "data.description"
+	},
+
 	"entries": {
 		"Commander": {
-			"name": "Commander"
+			"name": "Commander",
+			"description": "O Comandante é a personificação do propósito e a direção da Legião. Escolha a rota da Legião. Escolha o foco e a ênfase da missão. A Legião não pode dispensar muitos soldados, então priorize as missões necessárias e aceite as penalidades quando não puder realizá-las."
 		},
 		"Lorekeeper": {
-			"name": "Lorekeeper"
+			"name": "Lorekeeper",
+			"description": "Os Legionários procuram o Historiador para lembrá-los das provações e desafios aos quais sobreviveram e conectá-los com os heróis do passado. Converse com os outros papéis para tomarem decisões consistentes com os valores da Legião. Você está encarregado de registrar eventos e relembrar os mortos nos Registros dos Caídos."
 		},
 		"Marshal": {
-			"name": "Marshal"
+			"name": "Marshal",
+			"description": "O Marechal é quem ordena os soldados para a batalha. Designe esquadrões e Especialistas para as missões escolhidas pelo Comandante – você é responsável por garantir que eles tenham a melhor chance de voltar ao acampamento. Monitore o moral, a experiência da tropa e a saúde. Decida quem está no comando de uma missão."
 		},
 		"Quartermaster": {
-			"name": "Quartermaster"
+			"name": "Quartermaster",
+			"description": "O Quartermaster (Intedente) comanda o pessoal não-combatente e possui as chaves de todos os suprimentos e armas da Legião. Decida quais equipamentos os esquadrões devem ter para se prepararem para as missões. Declare ações de campanha entre missões para reabastecer tropas, preparar surpresas desagradáveis e adquirir suprimentos muito necessários para a tropa."
 		},
 		"Spymaster": {
-			"name": "Spymaster"
+			"name": "Spymaster",
+			"description": "O título oficial do Espião-Mestre é “O Mestre dos Sussurros”. Seu trabalho é encontrar e treinar as pessoas certas para resolver problemas para os quais cem homens não são adequados. As pessoas com quem você anda têm dezenas de histórias, e há contos fantásticos sobre cada uma delas."
 		}
 	}
 }

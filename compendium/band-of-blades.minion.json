@@ -1,104 +1,143 @@
 {
 	"label": "Undead Armies",
+
+	"mapping": {
+		"description": "data.description"
+	},
+
+
 	"entries": {
 		"Ache": {
-			"name": "Ache"
+			"name": "Ache",
+			"description": "Nascido com o coração à direita, Dor possui dois buracos no peito. O de seu coração permanece vazio, mas ele coloca a cabeça de sua conquista mais recente na outra. Esta cabeça ressecada conta-lhe segredos que só os mortos conhecem."
 		},
 		"Bhed, the Wolf": {
-			"name": "Bhed, the Wolf"
+			"name": "Bhed, the Wolf",
+			"description": "Um Transformado que ignora a maioria dos ferimentos, este homem-fera com quase três metros de altura e cabeça de lobo está sempre cercado por um círculo de cinco Bruxas das Sombras, garantindo que suas amarras mentais nunca escorreguem, para que sua raiva não se volte contra a Rompe-Tormentas."
 		},
 		"Black Rotting Gale, the Abomination": {
-			"name": "Black Rotting Gale, the Abomination"
+			"name": "Black Rotting Gale, the Abomination",
+			"description": "Uma colaboração entre Viktoria e Blighter, este Horror troca tamanho bruto por tubos e tanques de alquímicos. Enquanto caminha, libera uma nuvem tóxica para toda a matéria orgânica. Anseia privar a terra de toda a vida natural."
 		},
 		"Burned": {
-			"name": "Burned"
+			"name": "Burned",
+			"description": "Pessoas recém mortas ou ainda vivas que são empalando em árvores, especialmente preparadas, com galhos afiados. Tempestades convocadas quase o tempo todo atingem os corpos com relâmpagos, animando-os. Queimados frequentemente emitem faíscas e pequenos choques quando atingidos, e, ao contrário de outros mortos-vivos, ainda têm sangue quente. Destruir essas árvores deve ser uma prioridade para a Legião."
 		},
 		"Chimera": {
-			"name": "Chimera"
+			"name": "Chimera",
+			"description": "Um experimento inicial da Maldição de Mudança, a Quimera de alguma forma sobreviveu. Ao contrário da maioria dos Transformados, ele é uma mistura de várias partes de animais, e as cabeças de alguns tentam morder e mastigar seu próprio corpo."
 		},
 		"Crows": {
-			"name": "Crows"
+			"name": "Crows",
+			"description": "Uma visão impressionante no campo de batalha, esses mortos- vivos não fazem nenhum som, mas usam máscaras e mantos de praga. As tropas os apelidaram depois de observá-los caminhar entre os mortos, marcando os corpos a serem levados e reanimados. Sua presença concentra e organiza os mortos-vivos. O processo de sua criação não é claro, mas seus movimentos são incrivelmente fluidos e seus corpos se deterioram rapidamente quando mortos."
 		},
 		"Devourers": {
-			"name": "Devourers"
+			"name": "Devourers",
+			"description": "Antigas bestas sagradas de penas arco-íris de Vazara, a Rompe-Tormentas convoca essas criaturas grandes, semelhantes a morcegos, e compartilha sua corrupção com elas, formando Devoradores. Agora cobertos de penas pretas e pele sarnenta, eles atacam do céu com dentes afiados como navalhas, arrastando soldados de armadura completa. Seu crocitar estridente pode arrepiar os cabelos de qualquer Legionário."
 		},
 		"Eater": {
-			"name": "Eater"
+			"name": "Eater",
+			"description": "Este Cão de pele pálida se alimenta do último suspiro dos moribundos, roubando um pouco de sua essência. As vozes de muitos mortos ecoam por meio de seus latidos e causam dor física ou alucinações na mente de sua presa."
 		},
 		"Elia, the Passing Curse": {
-			"name": "Elia, the Passing Curse"
+			"name": "Elia, the Passing Curse",
+			"description": "Uma Enfeitiçada que esculpe seus símbolos em outras pessoas e aprendeu a transferir sua essência. Elia trabalha sozinha. Muitos esquadrões de Legionários perceberam tarde demais que um de seus membros não era quem parecia."
 		},
 		"Gut-Sacks": {
-			"name": "Gut-Sacks"
+			"name": "Gut-Sacks",
+			"description": "Tentativas fracassadas de criar Cuspidores, Sacos de Tripas são mais numerosos do que outros Elites. Seus corpos pendentes e corpulentos poderiam ser quase cômicos se não houvesse seu efeito aterrorizante. Quando mortos, seus corpos explodem em uma chuva de veneno e ácido capaz de derreter a carne. Sacos de Tripas são normalmente colocados em unidades de três, com um supervisor Corvo, ou ocasionalmente anexados a outros Elites."
 		},
 		"Heartless": {
-			"name": "Heartless"
+			"name": "Heartless",
+			"description": "Frequentemente criados das fileiras dos Cavaleiros, esses gigantes estão cheios de sangue de cinzas, o que lhes dá força e tamanho imensos. Eles usam armaduras de metal ornamentadas, exceto em seus torsos. Lá, eles expõem sua carne, para mostrar o buraco de onde seu coração foi brutalmente removido, sempre em exibição orgulhosa para a inspeção do Fornecedor. Eles empunham armas de metal de grandes dimensões, usadas para cortar membros e romper armaduras."
 		},
 		"Hexed": {
-			"name": "Hexed"
+			"name": "Hexed",
+			"description": "A Rompe-Tormentas e suas acólitas Bruxas das Sombras esculpem símbolos na carne que podem dominar as mentes das vítimas, quebrando suas almas diretamente sem matar seus corpos primeiro. Enquanto sob a supervisão de uma de suas Bruxas Sombrias, um Enfeitiçado pode passar por uma inspeção casual como uma pessoa normal. Com isso em seu arsenal, até a mais dócil das aldeias pode ser convertida em uma ameaça."
 		},
 		"Horrors": {
-			"name": "Horrors"
+			"name": "Horrors",
+			"description": "Amálgamas bizarros de partes de pessoas diferentes, costuradas em uma besta imponente e raivosa. Esses gigantes de 2,5 a 4 metros de altura caem apenas sob fogo concentrado ou armamento pesado – o Tiro Negro não os mata de imediato. Muitos são aumentados com peças de metal ou mecânicas ou armaduras parafusadas diretamente na carne. Alguns têm vários corpos costurados e lutam em <strong>escala.</strong>"
 		},
 		"Hounds": {
-			"name": "Hounds"
+			"name": "Hounds",
+			"description": "Cães já foram pessoas, agora possuem os olhos costurados, lábios arrancados, dentes afiados em pontas e correntes presas às costelas, espinhas ou clavículas. Eles farejam a respiração dos vivos – prender a respiração pode ajudar a se esconder deles. A maior parte do exército de Elites do Fornecedor mantém alguns na coleira para encontrar quaisquer inimigos escondidos, recompensando uma boa caçada com um pedaço da caça para festejar."
 		},
 		"Irag, the Flayed": {
-			"name": "Irag, the Flayed"
+			"name": "Irag, the Flayed",
+			"description": "Um Cavaleiro renomado como Mestre de Armas, Irag removeu toda a sua pele como uma demonstração de lealdade ao Fornecedor. Flechas e balas estão alojadas em sua carne, mas ele não sente dor. O Fornecedor o alimenta com sangue de cinza puro, conferindo-lhe força imensa."
 		},
 		"Knights of the Black Oak": {
-			"name": "Knights of the Black Oak"
+			"name": "Knights of the Black Oak",
+			"description": "Uma ordem sagrada jurada a Vlaisim que escolheu permanecer leal após sua Fragmentação. Eles são uma mistura de lanceiros e cavalaria pesada, mas seu tempo com o Fornecedor os mudou. Muitos carregam troféus terríveis e escarificam sua carne como gestos de lealdade. Muitos usam ganchos em correntes para arrastar os vivos para serem convertidos. Como eles ainda estão vivos, o Tiro Negro tem efeito reduzido."
 		},
 		"Lugos, the Clockwork Assassin": {
-			"name": "Lugos, the Clockwork Assassin"
+			"name": "Lugos, the Clockwork Assassin",
+			"description": "Parte de seu corpo foi substituído por mecanismos avançados, aumentando a força e a visão. É imune a Tiro Negro e à maioria das lâminas graças a armadura. Habitualmente, segue suas próprias ordens. Lugos só sente quando está cercado de medo."
 		},
 		"Mihkin, the Dark General": {
-			"name": "Mihkin, the Dark General"
+			"name": "Mihkin, the Dark General",
+			"description": "Montado em um corcel blindado, Mihkin carrega uma lança sagrada, cortada de sua árvore familiar, agora enegrecida e retorcida. Em seus ombros estão os crânios daqueles que discordaram de sua escolha de manter os Cavaleiros leais ao Fornecedor."
 		},
 		"Ogiyer, the Cinder Guard": {
-			"name": "Ogiyer, the Cinder Guard"
+			"name": "Ogiyer, the Cinder Guard",
+			"description": "Vestido com uma armadura vermelha, este corpo decadente é oco e cheio de chamas negras. O Rei Cinzento quer supervisionar a Rompe-Tormentas, e essa monstruosidade potente e blindada raramente está longe dela."
 		},
 		"Red Hook": {
-			"name": "Red Hook"
+			"name": "Red Hook",
+			"description": "Após um encontro desagradável com uma posição fortificada, este Horror perdeu uma “mão”, que foi substituída por um gancho em uma corrente. Ele usa este gancho para escalar paredes e arrastar soldados que ficam gritando, a fim de atrair seus amigos."
 		},
 		"Rotters": {
-			"name": "Rotters"
+			"name": "Rotters",
+			"description": "Mortos-vivos com ódio ardente contra os vivos. Esses cadáveres continuam apodrecendo, mesmo quando a feitiçaria negra os leva à batalha. Para fazer Apodrecidos, os cadáveres têm um líquido alquímico injetado em suas veias. Carrinhos com latões desse líquido são bons alvos de missão. Blighter está sempre mexendo com doenças e toxinas que, se injetadas em uma pessoa antes da morte, podem criar um Apodrecido."
 		},
 		"Shadow Witches": {
-			"name": "Shadow Witches"
+			"name": "Shadow Witches",
+			"description": "Infundidas com um pedaço da Rompe- Tormentas costurado em seus corpos, essas “ex-pessoas” imploram por perdão em combate, mas são controladas por dentro. Não mais humanos, as Bruxas das Sombras usam feitiços para torcer o mundo ao seu redor ao seu bel prazer, amarrando membros, corrompendo animais, sujando suprimentos e enfraquecendo as tropas antes de lançar mortos-vivos comuns sobre elas."
 		},
 		"Shatter": {
-			"name": "Shatter"
+			"name": "Shatter",
+			"description": "Um Espinho forjado com lâminas de dois Escolhidos mortos, seus movimentos são precisos e os sons metálicos de seus movimentos exalam malícia. Diz-se que o sangue Escolhido está misturado ali dentro e parece buscar qualquer resquício de mais."
 		},
 		"Silver": {
-			"name": "Silver"
+			"name": "Silver",
+			"description": "O corcel pessoal da Rompe-Tormentas, Prata, graças a sua cor. Com uma envergadura de 4 metros e uma força potente, é um terror no campo de batalha. Conhecido por enfrentar tempestades e jogar soldados para seus amigos, mesmo de longe."
 		},
 		"Spitters": {
-			"name": "Spitters"
+			"name": "Spitters",
+			"description": "Blighter captura e transporta gaiolas de pessoas para fazer Cuspidores. Eles devem ser injetados vivos, com suas bocas costuradas enquanto suas entranhas se transformam. Se a fórmula estiver errada, ou morrerem antes de se transformar, eles se tornam Sacos de Tripas. Cuspidores gotejam, constantemente, ácido capaz de derreter a carne e podem vomitá-lo a distâncias surpreendentes. Eles são usados para negar aproximação e engajamentos de médio alcance."
 		},
 		"The Doctor": {
-			"name": "The Doctor"
+			"name": "The Doctor", 
+			"description": "De vez em quando, os Corvos recuperam seu antigo intelecto. Usando uma máscara de ossos brancos com uma mão ensanguentada, ele pode ser encontrado improvisando modificações em Apodrecidos e Horrores, muitas vezes com partes arrancadas de Legionários ainda morrendo."
 		},
 		"The Gaunt": {
-			"name": "The Gaunt"
+			"name": "The Gaunt",
+			"description": "Como humanos, eles foram drenados ao longo de meses, seu sangue infundido com sangue de cinzas e injetado novamente. Esses monstros tiveram armaduras e placas parafusadas e fundidas diretamente à carne. Nenhum sobrevive ao processo, sendo reanimados após equipados. Eles são mais lentos do que a maioria dos mortos-vivos, mas a armadura pode dificultar tiros de qualquer tipo de alcance."
 		},
 		"The Hag": {
-			"name": "The Hag"
+			"name": "The Hag",
+			"description": "Matou e devorou seu coven e se enfeitou com seus crânios. Foi transformada em uma força muito mais poderosa, capaz de sustentar vários feitiços ao mesmo tempo. Deseja devorar mais da essência da Rompe-Tormentas."
 		},
 		"Thorns": {
-			"name": "Thorns"
+			"name": "Thorns",
+			"description": "Feitos espetando os derrotados mortos pelas tropas do Fornecedor com lâminas de metal tratadas com sangue de cinzas. O processo deixa o corpo danificado, e somente misturando sangue com sangue de cinzas eles podem permanecer ativos. Em combate, eles geralmente prendem as pessoas contra si mesmos e as despedaçam, para absorver o sangue de que precisam. Quando sozinhos, podem capturar pessoas e amputar partes lentamente ao longo de dias para se sustentar."
 		},
 		"Transformed": {
-			"name": "Transformed"
+			"name": "Transformed",
+			"description": "Os mesmos símbolos esculpidos em Enfeitiçados também podem deformar corpos, transformando partes de pessoas em partes de animais. Essas transformações nunca são limpas, alguns membros nunca fazem a transformação completa e outros tornamse torcidos ou aumentados. Sempre consumidos pela dor de sua transformação, eles são uma tropa de choque terrivelmente eficaz nas forças da Rompe-Tormentas."
 		},
 		"Viktoria Karhowl, the Macabre Scientist": {
-			"name": "Viktoria Karhowl, the Macabre Scientist"
+			"name": "Viktoria Karhowl, the Macabre Scientist",
+			"description": "Uma engenheira corrompida que, embora não esteja morta, há muito tempo trocou sua humanidade por um lugar junto a mesa do Rei Cinzento. Blighter usa seus esquemas para armas de cerco e mecanismos de relógio avançados para fortalecer seu exército."
 		},
 		"Wailer": {
-			"name": "Wailer"
+			"name": "Wailer",
+			"description": "A maioria dos Horrores tem uma cabeça. O Grito tem nove incrustadas em seu corpo, todas chorando e gritando em dissonância horrível. A criatura também tem meia dúzia de espinhos inseridos, usados para carregar os corpos de volta para '“reparos”'."
 		},
 		"Zenya, the Sable Arrow": {
-			"name": "Zenya, the Sable Arrow"
+			"name": "Zenya, the Sable Arrow",
+			"description": "Uma arqueira de cabelos negros, Zenya é a batedora principal dos Carvalhos Negros. Sua aljava está cheia de flechas dadas pelo Fornecedor, cada uma causando corrupção e doenças capazes de queimar um Legionário por dentro."
 		}
 	}
 }

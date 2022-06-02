@@ -1,23 +1,33 @@
 {
 	"label": "Materiel",
+	"mapping": {
+		"description": "data.description"
+	},
+
 	"entries": {
 		"Black Shot": {
-			"name": "Black Shot"
+			"name": "Tiro Negro",
+			"description": "Um raro metal transmutado nocivo aos mortos-vivos.<br><strong>Regras: </strong>Use um Tiro Negro para adicionar +1d a uma rolagem de engajamento da missão de Assalto. Ao fazer isso, todos os Especialistas na missão equipam Tiro Negro de graça."
 		},
 		"Food Stores": {
-			"name": "Food Stores"
+			"name": "Estoques de Comida",
+			"description": "Não se ganha uma guerra de estômago vazio. Grãos, carnes, etc. <strong>Regras: </strong>A Legião consome 1 de Comida quando o tempo passa. Se não tiver quando for preciso, a Legião perde 2 de moral. Gaste 1 uso de Comida para adicionar +1d a uma rolagem de engajamento da missão de Suprimentos. Ao fazer isso, todos os Especialistas na missão equipam Suprimentos de graça."
 		},
 		"Horses": {
-			"name": "Horses"
+			"name": "Cavalos",
+			"description": "Usado para equipar batedores, puxar suprimentos, etc. Fundamental para a logística. <br><strong>Regras: </strong>Gaste o uso de Cavalos para adicionar +1d a uma rolagem de engajamento da missão de Reconhecimento ou reduza a Pressão em 1 ao avançar. Pode gastar múltiplos usos ao avançar."
 		},
 		"Religious Supplies": {
-			"name": "Religious Supplies"
+			"name": "Suprimentos Religiosos",
+			"description": "Ossos de santos, páginas de livros sagrados e outros suprimentos místicos usados para ajudar a lutar contra os mortos-vivos.<br><strong>Regras: </strong>Gaste o uso de Suprimentos Religiosos para adicionar +1d a uma rolagem de abertura da missão Religiosa. Ao fazer isso, todos os Especialistas na missão equipam Relicários de graça."
 		},
 		"Siege Weapons": {
-			"name": "Siege Weapons"
+			"name": "Armas de Cerco",
+			"description": "Balista, catapulta, trabuco ou canhão. Usado para atacar posições fortificadas ou mortos-vivos poderosos.<br><strong>Regras: </strong>Requerido para algumas missões especiais. Pode reduzir a ameaça ou escala de inimigos quando implantada. Aumenta a pontuação final."
 		},
 		"Supply Cart": {
-			"name": "Supply Cart"
+			"name": "Carroças de Suprimentos",
+			"description": "Carroças de transporte logísticas que permitem a Legião carregar mais suprimentos e estoques de alimentos, ainda avançando na mesma velocidade. <br><strong>Regras: </strong>Adiciona 1 ao seu Suprimento máximo e estende cada Estoque de Comida em um por carroça (máx. 6)."
 		}
 	}
 }
