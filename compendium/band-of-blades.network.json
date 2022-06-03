@@ -8,15 +8,15 @@
 	"entries": {
 		"Acquisition": {
 			"name": "Acquisition",
-			"description": "Aquisição. Agora você pode apoiar um terceiro espião. Requer: Rede de espionagem."
+			"description": "Aquisição. Agora você pode ter um terceiro espião. Requer: Rede de espionagem."
 		},
 		"Analysts": {
 			"name": "Analysts",
-			"description": "Analistas. Você ganha uma equipe de apoio para vasculhar os Registros, e relatórios, catalogando rumores úteis e dicas sobre a área local. Todos os espiões enviados em pesquisas de longo prazo rolam +1d. Requer: Rede de Espionagem."
+			"description": "Analistas. Você ganha uma equipe de apoio para vasculhar os Registros e relatórios, catalogando rumores úteis e dicas sobre a área local. Todos os espiões enviados em Projetos de longo prazo rolam +1d. Requer: Rede de Espionagem."
 		},
 		"Entrapment": {
 			"name": "Entrapment",
-			"description": "Aprisionamento. Você fornece treinamento especial para sobreviver nas profundezas do território inimigo e catalogar informações sobre os mortos-vivos. Todos os espiões envolvidos em uma armadilha rolam +1d. Requer: Rede de espionagem."
+			"description": "Aprisionamento. Você fornece treinamento especial para sobreviver nas profundezas do território inimigo e catalogar informações sobre os mortos-vivos. Todos os espiões envolvidos em uma Emboscada rolam +1d. Requer: Rede de espionagem."
 		},
 		"Field Assessment": {
 			"name": "Field Assessment",
@@ -24,7 +24,7 @@
 		},
 		"Holy Orders": {
 			"name": "Holy Orders",
-			"description": "Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. Eles fornecem recompensas extras de missão quando você melhora (augment) missões de um tipo específico. Requer: Fontes."
+			"description": "Ordens Sagradas. Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. As missões Religiosas aumentadas dão +1 de Material além das recompensas usuais. Requer: Fontes."
 		},
 		"Investments": {
 			"name": "Investments",
@@ -32,15 +32,15 @@
 		},
 		"Mercenaries": {
 			"name": "Mercenaries",
-			"description": "Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. Eles fornecem recompensas extras de missão quando você melhora (augment) missões de um tipo específico. Requer: Fontes."
+			"description": "Mercenários. Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. As missões de Assalto aumentadas dão +1 de Moral além das recompensas usuais. Requer: Fontes."
 		},
 		"Merchants": {
 			"name": "Merchants",
-			"description": "Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. Eles fornecem recompensas extras de missão quando você melhora (augment) missões de um tipo específico. Requer: Fontes."
+			"description": "Mercadores. Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. As missões de Suprimentos aumentadas dão +1 de Suprimentos além das recompensas usuais. Requer: Fontes."
 		},
 		"Rangers": {
 			"name": "Rangers",
-			"description": "Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. Eles fornecem recompensas extras de missão quando você melhora (augment) missões de um tipo específico. Requer: Fontes."
+			"description": "Patrulheiros. Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. As missões de Recon aumentadas dão +1 de Intel além das recompensas usuais. Requer: Fontes."
 		},
 		"Sources": {
 			"name": "Sources",
