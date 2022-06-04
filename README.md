@@ -7,6 +7,10 @@
 - Ative ambos.
 - Altere o idioma em configurações para Português (Brasil)
 
+# Know Issues
+
+- Traduzir os níveis de carga (Light, Normal, Heavy, Utility), faz com que o sistema perca a referência na hora de selecionar as cargas para o personagem. Foi mantido com os termos originais para evitar esse problema.
+
 # Onde Obter
 - SRD: https://loja.burobrasil.com/produtos/band-of-blades/
 - Comprar os materiais em Português (Brasil): https://loja.burobrasil.com/
