@@ -3,7 +3,7 @@
   "title":"Band of Blades - Português (Brasil)",
   "description":"",
   "version":"0.1.1",
-  "author":"Mestre Digital / Gus (apenas tradução)",
+  "author":"Mestre Digital (código) / Gus (apenas tradução)",
   "minimumCoreVersion":"0.8.8",
   "compatibleCoreVersion":"9",
   "esmodules": ["babele-register.js"],
