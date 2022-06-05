@@ -11,7 +11,6 @@
 
 # Know Issues
 
-- Traduzir os níveis de carga (Light, Normal, Heavy, Utility), faz com que o sistema perca a referência na hora de selecionar as cargas para o personagem. Foi mantido com os termos originais para evitar esse problema.
 - Criar a ficha em PT-BR faz com que os nomes dos Traumas e dos Blights assumam o nome da variável (BITD.Anatema...). Forma de melhor contornar isso: crie a ficha estando na linguagem inglesa e depois mude para Português (Brasil). Para mudar o idioma é em Configuraçoes do Jogo >> Definir Configurações >> Preferência de Idioma
 
 ![image](https://user-images.githubusercontent.com/662913/172051214-e267900f-1303-4230-a07c-bc47f90cdbde.png)
