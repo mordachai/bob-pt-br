@@ -1,5 +1,6 @@
-# Band of Bldes - Português (Brasil)
+# Band of Blades - Português (Brasil)
 <b>Módulo de tradução, não oficial, para Band of Blades</b>
+<br>
 <p>Alguns termos como nomes das ações e nomes das habilidades foram mantidos em inglês original para facilitar mesas mistas ou para quem já possuia o livro na língua original. Mas todos os textos de ajuda foram traduzidos. </p>
 
 # Como Usar
