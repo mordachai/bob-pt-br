@@ -22,7 +22,7 @@
 # Credits/License   
 This work is based on Blades in the Dark (found at https://www.evilhat.com/home/band-of-blades/), product of Evil Hat, developed and authored by Stras Acimovic and John LeBoeuf-Little, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http://creativecommons.org/licenses/by/3.0/).
 
-#Images
+# Images
 
 ![image](https://user-images.githubusercontent.com/662913/172050763-aae002f2-757e-48c2-8b0a-29e102d3f2d9.png)
 
