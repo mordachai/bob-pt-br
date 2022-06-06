@@ -8,62 +8,62 @@
 
 	"entries": {
 		"(H) +1 Utility": {
-			"name": "(H) +1 Utility",
+			"name": "(P) +1 Utility",
 			"description": "",
 			"load_type": "Pesado"
 		},
 		"(H) 2 Fine Pistols": {
-			"name": "(H) 2 Pistolas Finas",
+			"name": "(P) 2 Pistolas Finas",
 			"description": "Duas pistolas finas: um par combinado de revólveres Orite magistralmente trabalhados (cinco tiros) com relevo fino e balanceado para recarga rápida. Como você os obteve?",
 			"load_type": "Pesado"
 		},
 		"(H) Armor": {
-			"name": "(H) Armadura",
+			"name": "(P) Armadura",
 			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você.",
 			"load_type": "Pesado"
 		},
 		"(H) Battlefield Banner": {
-			"name": "(H) Estandarte do Campo de Batalha",
+			"name": "(P) Estandarte do Campo de Batalha",
 			"description": "Estandarte do Campo de Batalha: Um estandarte usado para coordenar tropas. Essas bandeiras aumentam o moral – a menos que caiam. Quem você designa para carregá-lo?",
 			"load_type": "Pesado"
 		},
 		"(H) Camo Gear": {
-			"name": "(H) Equipamento de camuflagem",
+			"name": "(P) Equipamento de camuflagem",
 			"description": "Camuflagem: Redes, roupas, sacos de dormir e tendas projetadas para se misturar com o terreno. Você pode esconder um acampamento inteiro com isso. Em que terreno sua camuflagem é melhor usada?",
 			"load_type": "Pesado"
 		},
 		"(H) Fine Armor": {
-			"name": "(H) Armadura, Fina",
+			"name": "(P) Armadura, Fina",
 			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você.",
 			"load_type": "Pesado"
 		},
 		"(H) Fine Heavy Armor": {
-			"name": "(H) Armadura Pesada, Boa",
+			"name": "(P) Armadura Pesada, Boa",
 			"description": "Armadura Pesada: Placas de metal e couro. Camadas. Muitos têm desenhos em relevo, sigilos e cristas pintadas. Nada sutil ou silenciosa. Pequenas lâminas ou punhos têm pouco ou nenhum efeito contra você. Fornece 2 armaduras contra ataques físicos.",
 			"load_type": "Pesado"
 		},
 		"(H) Fine Long Rifle": {
-			"name": "(H) Rifle Longo, Fino",
+			"name": "(P) Rifle Longo, Fino",
 			"description": "Rifle Longo Fino: Uma maravilha da usinagem de sacerdotes Orite, com mira telescópica correspondente. Preciso até 200 metros, mas barulhento. Usa munição revestidas. Você nomeou esta arma?",
 			"load_type": "Pesado"
 		},
 		"(H) Fine Tower Shield": {
-			"name": "(H) Escudo Torre, Fino",
+			"name": "(P) Escudo Torre, Fino",
 			"description": "Escudo Torre, Fino: Substitui o escudo. Escudo maciço que pode parar projéteis,disparos à queima roupa e proteger os outros. Concede 1 armadura. É mais alto que você?",
 			"load_type": "Pesado"
 		},
 		"(H) Fine Wrecking Kit": {
-			"name": "(H) Kit de demolição, fino",
+			"name": "(P) Kit de demolição, fino",
 			"description": "Kit de demolição: Malho, espigões, pé-de-cabra, machados, brocas. Frascos de ácido e pequenas cargas alquímicas manuais.",
 			"load_type": "Pesado"
 		},
 		"(H) Lots of Tonics": {
-			"name": "(H) Muitos Tônicos",
+			"name": "(P) Muitos Tônicos",
 			"description": "Tônicos: Poções e poções para remover a dor, curar doenças comuns, ajudar no sono ou dar misericórdia àqueles que não podem ser salvos. Materiais cirúrgicos. Fornece dois usos (total de quatro). Os outros sabem onde você os guarda?",
 			"load_type": "Pesado"
 		},
 		"(H) Shield": {
-			"name": "(H) Escudo",
+			"name": "(P) Escudo",
 			"description": "Escudo: Madeira com reforço de metal. Fornece 1 armadura contra ataques físicos. Fino: Escudo totalmente metálico gravado com qualquer símbolo que você desejar.",
 			"load_type": "Pesado"
 		},
