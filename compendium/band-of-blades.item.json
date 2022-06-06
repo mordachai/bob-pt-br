@@ -82,9 +82,9 @@
 			"description": "Flechas Negras: Setas com pontas de flechas de Tiro Negro. Concede potência contra mortos-vivos. Em qual Alquimista você confiou para fazê-los?",
 			"load_type": "Leve"
 		},
-		"(L) Black Shot": {
-			"name": "(L) Black Shot",
-			"description": "Tiro Negro: Criadas por Alquimistas, essas balas preciosas são transportadas em estojos de madeira e couro embalados em serragem, selados. Um mero arranhão mata mortos-vivos menores. Concede potência contra mortos-vivos. Não balance. Use com moderação. Três usos.",
+		"(L) Tiro Negro": {
+			"name": "(L) Tiro Negro",
+			"description": "Tiro Negro: Criadas por Alquimistas, essas balas preciosas são transportadas embaladas em serragem, dentro de estojos selados de madeira e couro. Um mero arranhão mata mortos-vivos menores. Concede potência contra mortos-vivos. Não balance. Use com moderação. Três usos.",
 			"load_type": "Leve"
 		},
 		"(L) Explosive Charge": {
@@ -94,7 +94,7 @@
 		},
 		"(L) Fine Armor": {
 			"name": "(L) Armadura Fina",
-			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você.",
+			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai desviar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido. Personalizado para você.",
 			"load_type": "Leve"
 		},
 		"(L) Fine Bow and Arrows": {
@@ -229,7 +229,7 @@
 		},
 		"(N) Fine Armor": {
 			"name": "(N) Armadura Fina",
-			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido. Personalizado para você.",
+			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai desviar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido. Personalizado para você.",
 			"load_type": "Normal"
 		},
 		"(N) Fine Heavy Weapon": {
@@ -302,9 +302,9 @@
 			"description": "Armadura: Principalmente couro. Alguma cota de malha. Vai virar uma faca ou dentes mortos-vivos. Não há muita ajuda contra os grandes. Fornece 1 armadura contra ataques físicos. Boa/Fina: Ornamentado ou tingido.Personalizado para você.",
 			"load_type": "Utility"
 		},
-		"(U) Black Shot": {
-			"name": "(U) Black Shot",
-			"description": "Tiro Negro: Criadas por Alquimistas, essas balas preciosas são transportadas em estojos de madeira e couro embalados em serragem, selados. Um mero arranhão mata mortos-vivos menores. Concede potência contra mortos-vivos. Não balance. Use com moderação. Três usos.",
+		"(U) Tiro Negro": {
+			"name": "(U) Tiro Negro",
+			"description": "Tiro Negro: Criadas por Alquimistas, essas balas preciosas são transportadas embaladas em serragem, dentro de estojos selados de madeira e couro. Um mero arranhão mata mortos-vivos menores. Concede potência contra mortos-vivos. Não balance. Use com moderação. Três usos.",
 			"load_type": "Utility"
 		},
 		"(U) Books and Scrolls": {

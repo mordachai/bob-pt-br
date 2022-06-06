@@ -62,7 +62,7 @@
 		},
 		"Vengeful": {
 			"name": "Vingativo",
-			"description": "Você ganha potência quando uma penalidade de dano se aplica."
+			"description": "Você ganha potência quando uma penalidade de dano for aplicada."
 		},
 		"Warm": {
 			"name": "Caloroso",
