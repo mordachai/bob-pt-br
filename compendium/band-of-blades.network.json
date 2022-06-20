@@ -24,7 +24,7 @@
 		},
 		"Holy Orders": {
 			"name": "Holy Orders",
-			"description": "Ordens Sagradas. Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. As missões Religiosas aumentadas dão +1 de Material além das recompensas usuais. Requer: Fontes."
+			"description": "Ordens Sagradas. Vários grupos locais que você subornou ou tem informantes entre eles, os quais fornecem informações à você sobre boas missões. As missões Religiosas aumentadas dão +1 de Material além das recompensas usuais. Requer: Fontes."
 		},
 		"Investments": {
 			"name": "Investments",
@@ -32,15 +32,15 @@
 		},
 		"Mercenaries": {
 			"name": "Mercenaries",
-			"description": "Mercenários. Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. As missões de Assalto aumentadas dão +1 de Moral além das recompensas usuais. Requer: Fontes."
+			"description": "Mercenários. Vários grupos locais que você subornou ou tem informantes entre eles, os quais fornecem informações à você sobre boas missões. As missões de Assalto aumentadas dão +1 de Moral além das recompensas usuais. Requer: Fontes."
 		},
 		"Merchants": {
 			"name": "Merchants",
-			"description": "Mercadores. Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. As missões de Suprimentos aumentadas dão +1 de Suprimentos além das recompensas usuais. Requer: Fontes."
+			"description": "Mercadores. Vários grupos locais que você subornou ou tem informantes entre eles, os quais fornecem informações à você sobre boas missões. As missões de Suprimentos aumentadas dão +1 de Suprimentos além das recompensas usuais. Requer: Fontes."
 		},
 		"Rangers": {
 			"name": "Rangers",
-			"description": "Patrulheiros. Vários grupos locais que você subornou ou tem informantes entre eles os quais fornecem informações à você sobre boas missões. As missões de Recon aumentadas dão +1 de Intel além das recompensas usuais. Requer: Fontes."
+			"description": "Patrulheiros. Vários grupos locais que você subornou ou tem informantes entre eles, os quais fornecem informações à você sobre boas missões. As missões de Recon aumentadas dão +1 de Intel além das recompensas usuais. Requer: Fontes."
 		},
 		"Sources": {
 			"name": "Sources",
@@ -52,11 +52,11 @@
 		},
 		"Trained 1": {
 			"name": "Trained 1",
-			"description": "Treinamento. Outro de seus espiões se torna um espião mestre. Você pode pegue essa expansão de rede duas vezes. Requer: Aquisição."
+			"description": "Treinamento. Outro de seus espiões se torna um espião mestre. Você pode escolher essa expansão de rede duas vezes. Requer: Aquisição."
 		},
 		"Trained 2": {
 			"name": "Trained 2",
-			"description": "Treinamento. Outro de seus espiões se torna um espião mestre. Você pode pegue essa expansão de rede duas vezes. Requer: Aquisição."
+			"description": "Treinamento. Outro de seus espiões se torna um espião mestre. Você pode escolher essa expansão de rede duas vezes. Requer: Aquisição."
 		}
 	}
 }
