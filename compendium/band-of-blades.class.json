@@ -9,44 +9,44 @@
 
 	"entries": {
 		"Heavy": {
-			"name": "Heavy",
-			"description": "Jogue com um Heavy se quiser brilhar com força e determinação contra a escuridão.",
+			"name": "Pesado",
+			"description": "Jogue com um Pesado se quiser brilhar com força e determinação contra a escuridão.",
 			"experience_clues": "Se você ajudou seu esquadrão através de força e resistência.",
 			"class": "Heavy"
 		},
 		"Medic": {
-			"name": "Medic",
-			"description": "Jogue com um Medic se quiser que seus companheiros soldados passem por uma missão vivos.",
+			"name": "Médico",
+			"description": "Jogue com um Médico se quiser que seus companheiros soldados passem por uma missão vivos.",
 			"experience_clues": "Se você ajudou o esquadrão com conhecimentos médicos e apoio emocional",
 			"class": "Medic"
 		},
 		"Officer": {
-			"name": "Officer",
-			"description": "Jogue como um Officer se você quiser comandar suas tropas para a vitória, mesmo quando elas estiverem enfrentando a morte certa.",
+			"name": "Oficial",
+			"description": "Jogue como um Oficial se você quiser comandar suas tropas para a vitória, mesmo quando elas estiverem enfrentando a morte certa.",
 			"experience_clues": "Se você ajudou seu esquadrão aplicando disciplina ou planejamento estratégico",
 			"class": "Officer"
 		},
 		"Rookie": {
-			"name": "Rookie",
-			"description": "Jogue como um Rookie se quiser ganhar suas listras em campo.",
+			"name": "Novato",
+			"description": "Jogue como um Novato se quiser ganhar suas listras em campo.",
 			"experience_clues": "Se você ajudou seu esquadrão ficando fora do caminho ou sobrevivendo, apesar das chances.",
 			"class": "Rookie"
 		},
 		"Scout": {
-			"name": "Scout",
-			"description": "Jogue com um Scout se você quiser ver o inimigo chegando e sempre saber o que você está enfrentando.",
+			"name": "Batedor",
+			"description": "Jogue com um Batedor se você quiser ver o inimigo chegando e sempre saber o que você está enfrentando.",
 			"experience_clues": "Se você ajudou seu esquadrão através de furtividade e antecipação.",
 			"class": "Scout"
 		},
 		"Sniper": {
-			"name": "Sniper",
+			"name": "Franco Atirador",
 			"description": "Jogue como um Sniper se você quiser despachar as ameaças mais perigosas de longe.",
 			"experience_clues": "Se você ajudou seu esquadrão por meio de observação aguçada e tiros importantes.",
 			"class": "Sniper"
 		},
 		"Soldier": {
-			"name": "Soldier",
-			"description": "Jogue como um Soldier se você quiser se arrastar pela lama como um veterano durão.",
+			"name": "Soldado",
+			"description": "Jogue como um Soldado se você quiser se arrastar pela lama como um veterano durão.",
 			"experience_clues": "Se você ajudou seu esquadrão com coragem ou determinação",
 			"class": "Soldier"
 		}

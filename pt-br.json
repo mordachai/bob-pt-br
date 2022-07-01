@@ -53,6 +53,7 @@
 "BITD.Wounds": "Ferimentos",
 "BITD.Type": "Tipo",
 "BITD.Threat": "Ameaça",
+
 "BITD.Resources": "Recursos",
 "BITD.Squads": "Esquadrões",
 "BITD.SquadsLabel": "Os novatos e soldados. Clique no + ao lado de cada esquadrão para preenchê-lo com novatos frescos",
@@ -62,11 +63,13 @@
 "BITD.Squad": "Esquadrão",
 "BITD.Duties": "Deveres",
 "BITD.DutiesLabel": "Durante o jogo, faça o seguinte:",
+
 "BITD.HeavyLabel": "Missões de Assalto e Suprimentos",
 "BITD.MedicLabel": "Missões de Assalto e Religiosas",
 "BITD.OfficerLabel": "Missões Religiosas e de Suprimentos",
 "BITD.ScoutLabel": "Missões de Recon e de Suprimentos",
 "BITD.SniperLabel": "Missões de Assalto e Recon",
+
 "BITD.Pressure": "Pressão",
 "BITD.PressureLabel": "Uma medida do quanto você está cercado pelos mortos-vivos",
 "BITD.PressureDetail": "Quando você avançar, role a Pressão menos os Cavalos usados e adicione no Tempo abaixo: (1-3: Um. 4/5: Dois. 6: Três. Crit: Cinco) Em seguida, redefina a Pressão para 0. Adicione Pressão quando o tempo passar (após as ações da campanha) ou quando houver uma penalidade de Pressão por uma missão fracassada.",
@@ -85,6 +88,7 @@
 "BITD.IntelQuestions1": "Você também pode fazer uma das seguintes perguntas: <ul> <li> O que é útil para trazer esta missão? </li> <li> Quem investiu nesta missão? </li> <li> O que é um desafio nesta missão ? </li> <li> Quem as tropas podem esperar encontrar nessas missões? Qual a fraqueza de um Elite que encontramos? </li> <li> O que pode ser um desejo ou instinto de um Elite que encontramos? </li> </ul>",
 "BITD.IntelQuestions2": "Você também pode fazer uma das seguintes perguntas: <ul> <li> Que Tenente ou Infame podemos enfrentar nesta missão? </li> <li> Qual é a principal fraqueza da posição dos mortos-vivos nesta missão? </li> <li> Isso está relacionado a uma missão anterior? Como? Um local específico à frente? </li> </ul>",
 "BITD.IntelQuestions3": "Você também pode fazer uma das seguintes perguntas: <ul> <li> Qual é a fraqueza de um Tenente que encontramos anteriormente? </li> <li> O que é um desejo ou instinto de um Tenente que encontramos anteriormente ? </li> <li> O que um Quebrantado está pesquisando especificamente? li> </ul>",
+
 "BITD.Engagement": "Engajamentos",
 "BITD.EngagementLabel": "O Marechal reúne e lança os dados para engajamento de missões.",
 "BITD.EngagementDetail": "As rolagens de engajamento determinam a disposição da unidade no início de uma missão primária e o resultado de missões secundárias. Como quem envia tropas para a batalha, é dever do Marechal montar as pilhas de dados e fazer as rolagens de engajamento.",
@@ -94,19 +98,28 @@
 "BITD.EngagementRecon": " Missão Recon. Em cada missão de reconhecimento, pergunte também o seguinte:<ul><li><strong>Velocidade.</strong> O Quartermaster gastou cavalos para equipar a missão? Receba +1d.</li> <li><strong>Furtividade.</strong> Algum Legionário está começando com carga pesada? Tome -1d.</li></ul>",
 "BITD.EngagementReligious": "Missão Religiosa. Em cada missão religiosa, pergunte também o seguinte:<ul><li><strong>Arcano.</strong> O Quartermaster enviou suprimentos religiosos para guardar e proteger os legionários? Receba +1d.</li> <li><strong>Corrupção.</strong> Algum legionário está começando com Blight? Tome -1d.</li></ul>",
 "BITD.EngagementSupply": "Missão de Abastecimento. Em cada missão de abastecimento, pergunte também o seguinte:<ul><li><strong>Suprimentos.</strong> O Quartermaster gastou comida para equipar a missão? Receba +1d.</li> <li><strong>Inimigos.</strong> A pressão atual é superior a 2? Tome -1d.</li></ul>",
+
 "BITD.Morale": "Moral",
 "BITD.MoraleLabel": "Representa o Esprit-de-corps, fadiga emocional e as esperanças e sonhos das tropas.",
 "BITD.MoraleDetail": "<strong>Ações de Campanha: </strong>em cada fase de campanha ganhe ações baseado na moral: 3-: Nenhuma. 4-7: uma. 8-10: Duas.<br><strong>Ganhe</strong> Moral:<ul><li><strong>Missões. </strong>Recompensas de missões bem sucedidas</li><li><strong>Liberdade. </strong>Toda vez que o Quartermaster escolher a ação de campanha Liberdade</li></ul>\n<strong>Perca</strong> Moral:<ul><li><strong>Missões. </strong>Penalidades por falhar ou perder.</li><li><strong>Materiel. </strong>Não puder pagar Supply (-1) ou Comida (-2).</li><li><strong>Morte.</strong>Toda vez que um soldado morrer (-1)</li></ul><strong>Deserção. </strong>Se você perder moral e não conseguir pagar os soldados desertam. (Um para cada Moral que você não conseguir pagar). Você perde novatos primeiro, depois soldados. Se acabar com menos de três esquadrões completos, termine o jogo. A Legião não existe mais.",
+
 "BITD.Supply": "Suprimentos",
 "BITD.SupplyLabel": "Uma medida do equipamento de reposição da Legião, fundos líquidos e mercadorias comerciais.",
 "BITD.SupplyDetail": "<strong> Recebido </strong> nas recompensas da missão. <strong> Perdido </strong> nas penalidades da missão. Se você precisar gastar suprimentos e não tiver nenhum, perca 1 moral. Gaste suprimentos para aumentar as ações da campanha e tomar ações adicionais na campanha. Você pode manter um máximo de 3 suprimentos + 1 por carroça de suprimentos para um total de <strong>",
 "BITD.SupplyDetail2": "Suprimentos </strong>, ao avançar.",
+
 "BITD.Materiel": "Materiel",
 "BITD.MaterielLabel": "Suprimentos e itens que fazem a Legião funcionar",
 "BITD.MaterielDetail": "Gaste 1 uso de Comida quando o tempo passar ou perca 2 Moral. Leve até 6 Comidas por marca com Carrinhos de suprimentos.",
+
 "BITD.Personnel": "Pessoal não conscrito",
 "BITD.PersonnelShort": "Pessoal",
 "BITD.PersonnelLabel": "Pessoal qualificado para manter a Legião operacional",
+
+"BITD.Projects": "Projetos de Longa Duração",
+"BITD.ProjectsShort": "Projetos",
+"BITD.ProjectsLabel": "Grandes melhorias que levam tempo e recursos",
+
 "BITD.Actions": "Ações",
 "BITD.ActionsDetail": "Após as missões, realize ações de campanha baseadas no moral (pergunte ao Marechal). Faça ações adicionais de campanha gastando suprimentos (um por um). Gaste um suprimento para melhorar uma ação (Boost), além de quaisquer outros custos. Você pode executar cada ação uma vez por fase de campanha (exceto Adquirir Ativos e Projetos de Longo Prazo).",
 "BITD.CampaignActions": "Ações da campanha",
@@ -120,6 +133,7 @@
 "BITD.Actions4Detail": "A guerra deixou soldados rastejando para casa e mercenários guardando aldeias e estradas (ou pilhando-as). Você recruta esses reclusos, rejeitados e  guerreiros voltando para casa para servirem nas fileiras da Legião. Ganhe até cinco novatos para o Marechal reabastecer as tropas.<br/> <strong> Boosted: </strong>Dois destes Rookies são Soldiers (os outros três seguem como Rookies).",
 "BITD.Actions5": "Descanso e recuperação",
 "BITD.Actions5Detail": "Reserve um tempo para deixar os soldados atenderem os ferimentos e descansar. Cada legionário tica uma marca de cura. Uma vez que as marcas de cura de uma linha estão cheias, apague as marcas de lesões nessa linha. Se você ferir uma Mercy, um especialista ganha uma marca extra de cura. Finalmente, cure todas as Mercies que foram feridas antes desta ação de recuperação.<br/> <strong> Boosted: </strong> Todos os Legionários ganham uma segunda marca de cura.",
+
 "BITD.Mercies": "Mercies",
 "BITD.MerciesLabel": "Curandeiros apavorantes que tomam feridas de outros para si mesmos",
 "BITD.Alchemists": "Alquimistas",
@@ -128,6 +142,7 @@
 "BITD.Laborers": "Trabalhadores",
 "BITD.LaborersLabel": "Trabalhadores e artesãos",
 "BITD.Wounded": "Ferido",
+
 "BITD.FoodStores": "Estoque de comida",
 "BITD.FoodStoresLabel": "Comida para evitar a fome",
 "BITD.BlackShot": "Tiro Negro",
@@ -140,11 +155,13 @@
 "BITD.SiegeWeaponsLabel": "Armas de destruição em massa",
 "BITD.SupplyCart": "Carroças de suprimentos",
 "BITD.SupplyCartLabel": "Crítico para logística",
+
 "BITD.Annals": "Os Regitros da Legião",
 "BITD.AnnalsShort": "Registros",
 "BITD.AnnalsLabel": "A história registrada e os feitos da Legião",
 "BITD.AnnalsDetail": "Quando um soldado cair, registre o nome dele. Quando quatro são inseridos nos registros, na próxima vez em que passarem, antes das ações da campanha, reserve um momento para contar uma história e escolher o efeito que ela tem na Legião.",
 "BITD.AnnalsEffectLabel": "Escolha 1 efeito na Legião:",
+
 "BITD.AnnalsLabel0": "Conte uma história da fundação da Legião",
 "BITD.AnnalsDetail0": "Deixe-me contar uma história da fundação da Legião pelo Sétimo Imperador, como registrado 427 anos atrás nos primeiros anais ... <ul> <li> Quem foi o primeiro comandante / legionário / lorekeeper? </li> <li> Como (ou para o que) essa pessoa é lembrada? </li> <li> Que ameaça perigosa foi formada para enfrentar? </li> </ul>",
 "BITD.AnnalsEffect0": "<ul> <li> Os soldados aprendem uma lição. Todos os especialistas podem colocar 1 XP em qualquer categoria. </li> <li> A Legião busca a glória do passado. Seu próximo conjunto de missões incluirá uma missão especial. </li> <li> As histórias aumentam o moral. A Legião ganha +2 moral. </li> </ul>",
@@ -162,6 +179,7 @@
 "BITD.AnnalsEffect4": "<ul> <li> A Legião promove um exemplo. Promova um novato para o soldado. </li> <li> Os soldados lembram por que eles lutam. Uma missão na próxima sessão ganha +2D para o seu rolo de engajamento. </li> <li> Os legionários se protegem. Próxima missão primária, cada especialista recebe 1 armadura especial: qualquer. </li> </ul>",
 "BITD.AnnalsLabel5": "Conte uma história de sua escolha",
 "BITD.AnnalsDetail5": "Quando todos os contos são contados, e mais quatro nomes entram em seus anais, você pode contar qualquer história - mas cada um só pode ser contado uma vez até que todos os tipos de contos sejam contados mais uma vez.",
+
 "BITD.Camp": "De volta ao acampamento",
 "BITD.CampShort": "Acampamento",
 "BITD.CampLabel": "Cenas da vida na Legião",
@@ -169,6 +187,7 @@
 "BITD.HighMorale": "Alto moral",
 "BITD.MediumMorale": "Moral médio",
 "BITD.LowMorale": "Baixa moral",
+
 "BITD.CampMorale1": "Os soldados relembram os caídos.",
 "BITD.CampMorale2": "Um jovem soldado está detonando munições, incentivado por outros.",
 "BITD.CampMorale3": "Tempestades escurecem os céus. Rumores e especulações desmedidas se espalham.",
@@ -187,6 +206,8 @@
 "BITD.CampMorale16": "Gritos podem ser ouvidos à distância a qualquer hora, impedindo qualquer descanso.",
 "BITD.CampMorale17": "Um esquadrão faminto que recorreu à forrageamento fica muito doente.",
 "BITD.CampMorale18": "Um desertor é pego antes que possa fugir. Um julgamento deve ser feito.",
+
+"BITD.Mission": "Missão",
 "BITD.Missions": "Missões",
 "BITD.MissionHelp": "Role 1D para espiões treinados (adicione 1D para Mestres). Avance o relógio da missão de acordo com os seguintes resultados. 1-3: 1 tick e o espião é <strong> ferido </strong>. 4/5: 2 ticks. 6: 3 ticks. Crit: 5 ticks.",
 "BITD.SMissions": "Atribuições simples",
@@ -195,6 +216,7 @@
 "BITD.LTMissions": "Tarefas de longo prazo",
 "BITD.LTMissionsLabel": "Missões de alto risco e alta recompensa",
 "BITD.LTMissionsDetail": "Durante as ações da campanha, os espiões podem receber tarefas de longo prazo. Apenas 1 espião pode ser enviado em cada tarefa. Um espião ferido que é ferido novamente morre. Clique nos rótulos da missão para rolar para cada missão.",
+
 "BITD.AugmentLabel": "Missões melhoradas",
 "BITD.AugmentDetail": "Use contatos para reforçar a seleção de missão do Comandante. <br><strong>Completo:</strong> Na próxima geração de missões do GM, diga-lhes para adicionar +1 às recompensas e rolagens de penalidade de missão em uma missão do tipo de foco do Comandante. Esse tipo <strong>deve aparecer</strong> uma vez.",
 "BITD.ExpandLabel": "Expandir a rede",
@@ -205,21 +227,26 @@
 "BITD.RecruitDetail": "Espiões levam vidas perigosas. Às vezes você tem que recrutar mais. <br><strong>Completo:</strong> Se você perdeu um espião, adicione um à lista. Você só pode ter 2 espiões por vez, ou 3 se tiver Aquisição em sua rede de espionagem.",
 "BITD.ResearchLabel": "Investigar",
 "BITD.ResearchDetail": "Espiões disfarçados pesquisam uma área buscando por missões de alta recompensa. <br><strong>Completo:</strong> Aprenda todas as missões especiais de um local, e se o Comandante gastar um Intel para adquirir uma, você pode escolher qual fazer. Se você passar do local, redefina o relógio.",
+
 "BITD.Network": "Rede de espionagem",
 "BITD.NetworkShort": "Rede",
 "BITD.NetworkLabel": "Rede",
 "BITD.Requirements": "Pré-requisitos",
+
 "BITD.Spies": "Espiões",
 "BITD.SpiesLabel": "Os agentes secretos que ajudam a Legião",
 "BITD.MaxSpies": "Máximo de Espiões",
+"BITD.AssignedSpy": "Espião designado",
 "BITD.Master": "Mestre",
 "BITD.Trained": "Treinado",
 "BITD.Specialty": "Especialidade",
+
 "BITD.RoleHeritage1": "Bartan",
 "BITD.RoleHeritage2": "Orite",
 "BITD.RoleHeritage3": "Zemyati",
 "BITD.RoleHeritage4": "Panyar",
 "BITD.RoleHeritage5": "Outro",
+
 "BITD.CommanderReputation1": "Feroz",
 "BITD.CommanderReputation2": "Desonesto",
 "BITD.CommanderReputation3": "Imparável",
@@ -236,6 +263,7 @@
 "BITD.CommanderLook4": "Cicatriz",
 "BITD.CommanderLook5": "Atlético",
 "BITD.CommanderDuties": "<ul> <li> <strong> Acompanhe o Tempo e a Pressão. </strong> A pressão e o tempo aumentam quando o tempo passa ou para certas penalidades da missão. A pressão diminui com algumas missões e o avanço a redefine para zero. O tempo (raramente) diminui como resultado de missões. </li> <li> <strong> Rastrei posiçao e movimento.</strong> Você nunca pode voltar atrás. Marque a posição da Legião e a rota no seu mapa. Quando você avançar, role a Pressão menos os Cavalos usados e adicione Tempo com base no resultado: (1-3: Um. 4/5: Dois. 6: Três. Crit: Cinco.) </li> <li> <strong> Registrar e gastar Intel.</strong> Role ou obtenha acesso a uma missão especial em seu local. Faça perguntas de Intel antes de cada missão. A Intel pode ser obtida com as recompensas de missão. </li> <li> <strong> Escolha missões.</strong> O GM dirá o que está disponível. Escolha duas missões para executar e designar uma primária, para ser reproduzido à mesa. A outra é secundária e resolvida com uma rolagem de batalha. Se você recebeu uma terceira missão, falhará automaticamente nela. </li> <li> <strong> Trabalhe com outras funções.</strong> Aconselhe-se com os outros oficiais, mas você tem a palavra final nas tarefas que lhe cabem. O destino da Legião está em suas mãos. Boa sorte. </li> </ul>",
+
 "BITD.MarshalReputation1": "Insensível",
 "BITD.MarshalReputation2": "Destemido",
 "BITD.MarshalReputation3": "Honroso",
@@ -252,6 +280,7 @@
 "BITD.MarshalLook4": "Cicatriz",
 "BITD.MarshalLook5": "Engomado",
 "BITD.MarshalDuties": "<ul> <li> <strong> Rastrear o Moral. </strong> O moral aumenta durante a ação da campanha Liberdade e pelas recompensas da missão. Ela diminui por penalidades da missão, quando os soldados morrem (-1 por cada), e quando não há Suprimentos (-1) ou Comida (-2) quando devem ser gastos. </li> <li> <strong> Atribua quem vai e quem lidera missões. </strong> Decida quem sairá em missões. As missões levam 1 esquadrão e até 2 especialistas por padrão. Se houver um oficial em uma missão, eles está no comando. Caso contrário, você diz quem está no comando. Anote dano, stress, avanço e promoções. Nome dos membros do esquadrão, conforme necessário. Detalhe quaisquer especialistas os ganhos da Legião. </li> <li> <strong> Faça rolagens de engajamento.</strong> É seu dever rolar. </li> <li> <strong> Certifique-se de evoluir os legionários.</strong> Missões secundárias dão 2 XP a especialistas, independentemente do resultado. </li> <li> <strong> Trabalhe em conjunto</strong> com os outros papéis desempenhando suas tarefas.</li> </ul>",
+
 "BITD.QuartermasterReputation1": "Preciso",
 "BITD.QuartermasterReputation2": "Inteligente",
 "BITD.QuartermasterReputation3": "Preparado",
@@ -268,6 +297,7 @@
 "BITD.QuartermasterLook4": "Cansado",
 "BITD.QuartermasterLook5": "Grisalho",
 "BITD.QuartermasterDuties": "<ul> <li> <strong> Acompanhar e gastar o suprimentos.</strong> Gaste suprimentos para ações adicionais de campanha ou para aumentar uma ação de campanha. Quando o comandante avança a Legião, perca qualquer suprimento que você não possa levar com você (suprimento máximo 3, mais 1 por carroça de suprimento). </li> <li><strong>Gaste material</strong> para tornar as missões mais bem-sucedidas.</li> <li> <strong>Acompanhe os status</strong> de mercies e alquimistas, como feridas e corrupção.</li> <li> <strong>Trabalhe em projetos</strong> para melhorar a posição da Legião. </li> <li> <strong> Realize ações de campanha.</strong> Pergunte ao Marechal quantas você têm. </li> <li> <strong> Trabalhe com outros os papéis.</strong> Cumpra com seus deveres realizando suas tarefas. O destino da Legião está em suas mãos. Boa sorte. </li> </ul>",
+
 "BITD.LorekeeperReputation1": "Sábio",
 "BITD.LorekeeperReputation2": "Amigáveis",
 "BITD.LorekeeperReputation3": "Inquisitivo",
@@ -284,6 +314,7 @@
 "BITD.LorekeeperLook4": "Tatuado",
 "BITD.LorekeeperLook5": "Grisalho",
 "BITD.LorekeeperDuties": "<ul> <li> <strong> Registrar os mortos. </strong> Observe todos os legionários que morrem. O livro pesa pesado, mas, embora ainda exista uma legião, você tem o dever sagrado de lembrar de todos os sacrifícios. </li> <li> <strong> Conte os contos da Legião. Para suas listas dos mortos, conte uma história da Legião. Responda a todas as perguntas que a história faz em sua história e escolha um benefício para as tropas. Os cinco primeiros contos nessa ordem. </li> <li> <strong> Mantenha os anais. Se houver alguma dúvida o que aconteceu, é seu dever recordá -lo para os outros. Mantenha esses livros seguros. Se você manteve os anais fielmente até o final da campanha e eles chegaram ao SkyDagger, mantenha com segurança, adicione 10 pontos à sua pontuação final. </li> <li> <strong> Volte nas cenas do acampamento. </ Strong> Consulte o marechal sobre o moral antes de fazer sua seleção. Se for necessário tomar uma decisão sobre o campo ou suas regras, você as fará. </li> <li> <strong> Trabalhe com outras funções. Lembre -se das crenças e lições da Legião que você definiu e lembre -as. </li> </ul>",
+
 "BITD.SpymasterReputation1": "Distante",
 "BITD.SpymasterReputation2": "Mortal",
 "BITD.SpymasterReputation3": "Perigoso",
@@ -300,6 +331,7 @@
 "BITD.SpymasterLook4": "Magro",
 "BITD.SpymasterLook5": "Tatuado",
 "BITD.SpymasterDuties": "<ul> <li> <strong> Despachar espiões. </strong> Despache espiões em suas tarefas durante as ações da campanha. As atribuições simples são concluídas imediatamente (embora o interrogatório ocorra logo antes das missões). As tarefas de longo prazo levam tempo para terminar, e espiões diferentes podem se revezar trabalhando nelas. </li> <li> <strong> Cresça sua rede.</strong> Prepare-se para eles. </li> <li> <strong> Trabalhe com outras funções.</strong> O destino da Legião está em suas mãos. Boa sorte. </li> </ul>",
+
 "BITD.Trauma": "Trauma",
 "BITD.TraumaCold": "Frio",
 "BITD.TraumaColdTip": "Você está indiferente aos apelos emocionais ou laços sociais",
@@ -317,6 +349,7 @@
 "BITD.TraumaUnstableTip": "Seu estado emocional é volátil. Você pode se enfurecer instantaneamente, cair em desespero, agir impulsivamente ou congelar",
 "BITD.TraumaVicious": "Cruel",
 "BITD.TraumaViciousTip": "Você procura oportunidades de machucar as pessoas, mesmo sem uma boa razão",
+
 "BITD.Blight": "Blight",
 "BITD.BlightAnathema": "Anátema",
 "BITD.BlightAnathemaTip": "Fontes de poder divino queimam você",
@@ -334,6 +367,7 @@
 "BITD.BlightRotTip": "Seu corpo começa a apodrecer e morrer",
 "BITD.BlightVisions": "Visões",
 "BITD.BlightVisionsTip": "Alucinações e terrores enchem suas horas, acordado e dormindo",
+
 "BITD.Harm": "Ferimentos",
 "BITD.Healing": "Cura",
 "BITD.Armor": "Armadura",
@@ -366,6 +400,8 @@
 "BITD.AllItems": "Todos os itens",
 "BITD.SpecialAbilities": "Habilidades especiais",
 "BITD.AddUpgrades": "Atualizações/equipamentos padrão para adicionar à ficha durante a criação",
+
+
 "BITD.Roll": "Rolar",
 "BITD.RollFailure": "Fracasso",
 "BITD.RollCriticalSuccess": "Sucesso crítico!",
@@ -384,18 +420,25 @@
 "BITD.RollFailurePositionRisky": "As coisas vão mal.<ul><li>-Você sofre <strong> Ferimento (2) </strong></li><li>- uma <strong> complicação </strong> ocorre</li><li>- você acaba em uma <strong>posição desesperada </strong></li><li>- você <strong> perde esta oportunidade </strong></li><ul>",
 "BITD.RollFailurePositionDesperate": "É o pior resultado.<ul><li>- você sofre <strong> danos graves (3) </strong></li><li>- uma complicação séria</strong> ocorre </li><li>- você <strong> perde esta oportunidade</strong> de agir</li><ul>",
 "BITD.RollXP": "Marque <strong> XP </strong> Para o atributo relacionado.",
+
+"BITD.RollExtremeEffect": "Efeito Extremo",
+"BITD.RollExtremeEffectDescription": "Você obtém um resultado excepcional ou um efeito extremo.<br><br>Se este for um teste de engajamento, você já deve ter superado vários obstáculos e está em uma <strong>posição controlada</strong> para o que vem a seguir.<br ><br>Se você estiver marcando relógios de facção ou de cura, marque <strong>5</strong> segmentos.",
 "BITD.RollGreatEffect": "Grande efeito",
-"BITD.RollGreatEffectDescription": "Você obtém um resultado excepcional ou um efeito extremo. <br> <br> Se esta é uma rolagem de engajamento, você já superou o primeiro obstáculo e está em uma <strong>posição controlada </strong>para o que for fazer a seguir. <br> <br> Se você está marcando relógios, marque <strong> 5 segmentos</strong>.",
+"BITD.RollGreatEffectDescription": "Você obtém um ótimo resultado ou um efeito maior.<br><br>Se este for um teste de engajamento, você já superou o primeiro obstáculo e está em uma <strong>posição controlada</strong> para o que vem a seguir.< br><br>Se você estiver marcando relógios de facção ou de cura, marque <strong>3</strong> segmentos.",
 "BITD.RollStandardEffect": "Efeito padrão",
-"BITD.RollStandardEffectDescription": "Você obtém um bom resultado ou efeito total. Relógios, marque <strong> 3 segmentos</strong>.",
+"BITD.RollStandardEffectDescription": "Você obtém um bom resultado ou efeito total. Relógios, marque <strong> 2 segmentos</strong>.",
 "BITD.RollLimitedEffect": "Efeito limitado",
-"BITD.RollLimitedEffectDescription": "Você obtém um resultado misto ou um efeito parcial. Se está marcando para facções ou relógios, marque <strong> 2 segmentos </strong>.",
+"BITD.RollLimitedEffectDescription": "Você obtém um resultado misto ou um efeito parcial. Se está marcando para facções ou relógios, marque <strong> 1</strong> segmentos.",
 "BITD.RollPoorEffect": "Efeito ruim",
-"BITD.RollPoorEffectDescription": "Você obtém um resultado ruim ou pouco efeito. <br> <br> Se isso é uma rolagem de engajamento, você começa em uma <strong>posição desesperada</strong>. <br> Boa sorte! <br> <br> Se você está marcando para facções ou relógios, marque <strong> 1 segmento</strong>.",
+"BITD.RollPoorEffectDescription": "Você obtém um resultado ruim ou pouco efeito. <br> <br> Se isso é uma rolagem de engajamento, você começa em uma <strong>posição desesperada</strong>. <br> Boa sorte! <br> <br> Se você está marcando para facções ou relógios, marque <strong> 0</strong> segmentos.",
+"BITD.RollZeroEffect": "Nenhum Efeito",
+"BITD.RollZeroEffectDescription": "Você obtém um resultado ruim ou efeito zero.<br><br>Se for um teste de engajamento, você começa em uma posição <strong>desesperada</strong>.<br>Boa sorte!<br><br>Se você estiver marcando relógios de facção ou de cura, marque <strong>0</strong> segmentos.",
+
 "BITD.RollResist": "Resistir",
 "BITD.RollResistDescription": "Você <strong> reduz</strong> ou<strong> evita totalmente </strong>os efeitos das consequências (GM Choice). <br> <br> Aumento o <strong> stress </strong> igual a 6 menos o dado rolado mais alto (ou mais baixo no caso de uma rolagem 0d) Aumente o stress em mais <strong>",
 "BITD.RollCritResist": "Resistência crítica",
 "BITD.RollCritResistDescription": "Você <strong> reduz </strong> ou <strong> evita completamente </strong> os efeitos das consequências (GM Choice). <br> <br> <strong> Diminua 1 stress. </strong>",
+
 "BITD.RollVerySlow": "Muito devagar",
 "BITD.RollVerySlowDescription": "A Legião avança muito lentamente e muito tempo passa antes de você chegar. Adicione <strong> Cinco </strong> ticks ao relógio de tempo.",
 "BITD.RollSlow": "Lento",
@@ -404,25 +447,33 @@
 "BITD.RollModerateDescription": "A Legião avança em um ritmo moderado e algum tempo passa antes de você chegar. Adicione <strong> Dois </strong> ticks no relógio de tempo.",
 "BITD.RollFast": "Rápido",
 "BITD.RollFastDescription": "A Legião avança rapidamente e pouco tempo passa antes de você chegar. Adicione <strong> Um </strong> tick no relógio de tempo.",
+
 "BITD.RollEngFailDescription": "<strong> Missão Primária: </strong> Você está em uma <strong>posição desesperada </strong> quando a ação começa. <br> <strong> Missão secundária: </strong> Você falha na missão, perde 3 membros do esquadrão e todos os especialistas recebem danos no nível 3.",
 "BITD.RollEngPartialDescription": "<strong> Missão Primária: </strong> Você está em uma <strong>posição arriscado </strong> quando a ação começa. <br> <strong> Missão secundária: </strong> Falhar na missão ou você pode ter sucesso, mas dois membros do esquadrão morrem e todos os especialistas recebem danos no nível 2.",
 "BITD.RollEngSuccessDescription": "<strong> Missão Primária: </strong> Você está em uma posição <strong> controlada </strong> quando a ação começa. <br> <strong> Missão secundária: </strong> Você tem sucesso na missão, todos Especialistas sofrem danos ao nível 1 e você pode optar por perder 2 membros do esquadrão para promover um Rookie para Soldier.",
 "BITD.RollEngCritDescription": "<strong> Missão Primária: </strong> Você superou o primeiro obstáculo e está em uma <strong>posição controlada </strong> na próxima. <br> <Missão secundária: você obtém sucesso na missão e promove uma membro do esquadrão.",
+
 "BITD.RollAlcFailDescription": "<strong> Efeito alquímico: </strong> Você obtém um resultado ruim ou pouco efeito. Role novamente para corrupção.",
 "BITD.RollAlcPartialDescription": "<strong> Efeito alquímico: </strong> Você obtém um resultado misto ou um efeito parcial. Role novamente para corrupção.",
 "BITD.RollAlcSuccessDescription": "<strong> Efeito alquímico: </strong> Você obtém um bom resultado ou efeito total. Role novamente para corrupção.",
 "BITD.RollAlcCritDescription": "<strong> Efeito alquímico: </strong> Você obtém um resultado excepcional ou um efeito extremo. Role novamente para corrupção.",
+
 "BITD.RollMisFailDescription": "Adicione 1 tick ao relógio da missão e o espião enviado nesta missão está <strong> Ferido </strong>",
 "BITD.RollMisPartialDescription": "Adicione 2 ticks ao relógio da missão.",
 "BITD.RollMisSuccessDescription": "Adicione 3 ticks ao relógio da missão.",
 "BITD.RollMisCritDescription": "Adicione 5 ticks ao relógio da missão!",
+
 "BITD.RollZeromode": "0d rolados - rolando dois dados e escolhendo o menor",
+
 "BITD.PositionControlled": "Controlada",
 "BITD.PositionRisky": "Arriscada",
 "BITD.PositionDesperate": "Desesperada",
+"BITD.EffectZero": "Zero",
 "BITD.EffectLimited": "Limitado",
 "BITD.EffectStandard": "Padrão",
 "BITD.EffectGreat": "Excelente",
+"BITD.EffectExtreme": "Extremo",
+
 "BITD.SpecSkill": "Habilidade especial",
 "BITD.SkillsInsight": "Esperteza",
 "BITD.SkillsInsightShort": "Esperteza",
@@ -433,6 +484,7 @@
 "BITD.SkillsRigTip": "MONTAR soluções mecânicas; alterar, desabilitar, reparar ou criar mecanismos; desabilitar uma armadilha, abrir uma fechadura; construir fortificações; consertar armas de cerco.",
 "BITD.SkillsScout": "Explorar",
 "BITD.SkillsScoutTip": "EXPLORAR um local ou uma situação para levantar informação; se movimentar ou observar sem ser notado; detectar fraquezas ou explorações, se houver alguma para ser vista.",
+
 "BITD.SkillsProwess": "Valentia",
 "BITD.SkillsProwessShort": "Valentia",
 "BITD.SkillsProwessTip": "Use VALENTIA para evitar ou reduzir uma conseqüência de tensão física ou lesão.",
@@ -444,6 +496,7 @@
 "BITD.SkillsSkirmishTip": "BRIGAR corpo a corpo contra um oponente; chegar em uma posição de ataque; rixas e lutas; disparar pistolas a queimaroupa.",
 "BITD.SkillsWreck": "Detonar",
 "BITD.SkillsWreckTip": "DETONAR um lugar, item ou obstáculo por meio de força selvagem ou sabotagem cuidadosa; criar uma distração e semear o caos; derrubar defesas; arremessar ou posicionar explosivos ou alquímicos; usar armas de cerco.",
+
 "BITD.SkillsResolve": "Convicção",
 "BITD.SkillsResolveShort": "Convicção",
 "BITD.SkillsResolveTip": "Use a CONVICÇÃO para evitar ou reduzir uma conseqüência de tensão mental ou força de vontade ou reduzir os efeitos da corrupção.",
@@ -455,6 +508,7 @@
 "BITD.SkillsMarshalTip": "LIDERAR um esquadrão ou grupo à ação; comandar em meio ao caos; coordenar o fogo em um alvo.",
 "BITD.SkillsSway": "Convencer",
 "BITD.SkillsSwayTip": "CONVENCER alguém por meio de astúcia, charme, lógica ou enganação; mudar atitudes ou comportamento usando manipulação ou sedução; disfarcar-se.",
+
 "BITD.SkillsSpecialist": "Especialista",
 "BITD.SkillsSpecialistShort": "Especialista",
 "BITD.SkillsSpecialistTip": "Ações especializadas não são roladas e são específicas para sua classe. Você tem vários usos por ação igual à sua quantidade total.",
@@ -472,9 +526,11 @@
 "BITD.SkillsScroungeTip": "Ao VASCULHAR, você revira o ambiente ao seu redor para encontrar abrigo ou itens úteis. Cada uso dá abrigo para uma noite ou uma carga de suprimentos para o esquadrão.",
 "BITD.SkillsWeave": "Tecer",
 "BITD.SkillsWeaveTip": "Quando você TECE, você invoca poderes misteriosos para mudar o mundo ao seu redor à um grande risco. Cada uso também pode permitir que você identifique um artefato ou sinta o divino.",
+
 "BITD.PExperience": "Playbook XP",
 "BITD.CExperience": "XP do Grupo",
 "BITD.AExperience": "XP",
+
 "BITD.AddAbility": "Adicione habilidade",
 "BITD.AddItem": "Adicionar Item",
 "BITD.Effects": "Efeitos",
@@ -487,6 +543,7 @@
 "BITD.DeleteAllLoadout": "Exclua todos os itens de carga",
 "BITD.ClassWarning": "<p> Observe que alterar a classe excluirá todos os itens de carga e a classe de novato reiniciará completamente as habilidades do seu personagem. </p> <p> <strong> Cancelar se você não quiser continuar. </strong> <p>",
 "BITD.AddUpgrade": "Adicione atualização",
+
 "BITD.Position": "Posição",
 "BITD.Effect": "Efeito",
 "BITD.Modifier": "Modificador",
@@ -496,8 +553,10 @@
 "BITD.RollOptions": "Opções de rolagem",
 "BITD.ActionsHelp": "Role 1D por ponto de ação. <br> Melhore suas chances usando o seguinte: <br> <strong> Obtenha uma assistência: </strong> obtenha +1D se outro PC o ajudar, então esse PC recebe <strong>1 stress </strong> <br> <strong> Push: </strong> Receba  <strong>2 stress </strong> para: +1d na <strong>rolagem</strong> ou +1 para <strong> efeito </strong> ou para agir quando você estiver <strong>Incapacitado</strong>, mas você não pode fazer uma Barganha com o diabo <br> <strong> Barganha com o diabo: </strong> aceitar uma consequência para obter +1d, mas você não pode se esforçar (Push) <br> <strong> Ação em grupo: </strong> Todos os PCs envolvidos fazem uma rolagem de ação e contam o melhor resultado, mas o líder leva <strong>1 stress </strong> para cada falha <br> <strong> Ação de setup: </strong> Se essa rolagem de ação for bem-sucedida E faz sentido na história, dê <strong> Posição melhorada </strong> ou <strong> +1 efeito </strong> para a próxima rolagem de ação do personagem",
 "BITD.ResistanceHelp": "Role 1D para cada ação com pelo menos um ponto de ação no atributo relevante para reduzir ou evitar completamente (escolha do GM) os efeitos das consequências. <br> Tome 6 menos o resultado mais alto do dado como <strong> stress </strong> <br> <strong> Insight: </strong> Consequências de engano ou entendimento <br> <strong> Prowess: </strong> Consequências de tensão física ou lesão <br> <strong> Resolve: </strong> Consequências de tensão mental / força de vontade / corrupção",
+
 "BITD.Add": "Adicionar",
 "BITD.Cancel": "Cancelar",
+
 "BITD.ClockSettingDefaultTheme": "Tema padrão do relógio:",
 "BITD.ClockSettingDefaultThemeHint": "Tema do relógio para relógios recém-criados",
 "BITD.AttributeXPBarSize": "Tamanho da barra XP para atributos:",
@@ -505,5 +564,9 @@
 "BITD.PlaybookXPBarSize": "Tamanho da barra XP para Playbook:",
 "BITD.PlaybookXPBarSizeHint": "Número de caixas para o Playbook XP Bar de personagens",
 "BITD.LogResourceToChat": "Mostrar recursos no chat:",
-"BITD.LogResourceToChatHint": "Registrar todas as mudanças nos recursos de envio (crédito, dívida, gambits) com uma notificação no bate-papo"
+"BITD.LogResourceToChatHint": "Registrar todas as mudanças nos recursos de envio (crédito, dívida, gambits) com uma notificação no bate-papo",
+"BITD.UseDropdownsInRollDialog": "Usar dropdown na janela de Rolagem:",
+"BITD.UseDropdownsInRollDialogHint": "Usa dropdowns ao invés de botões no estilo rádio como seletores para Posição e Efeito na janela de Rolagem",
+"BITD.UseDropdownsForItemUses": "Usar dropdowns para Item e Usos de habilidades:",
+"BITD.UseDropdownsForItemUsesHint": "Usa dropdowns ao invés de botões no estilo rádio como seletores para rastrear o uso de Hablidades e Itens"
 }
