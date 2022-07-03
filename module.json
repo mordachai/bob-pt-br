@@ -2,7 +2,7 @@
   "name":"bob-pt-br",
   "title":"Band of Blades - Português (Brasil)",
   "description":"",
-  "version":"0.1.7",
+  "version":"0.1.8",
   "author":"Mestre Digital (código) / Gus (tradução)",
   "minimumCoreVersion":"0.8.8",
   "compatibleCoreVersion":"9",
@@ -12,7 +12,7 @@
   "download": "https://github.com/mordachai/bob-pt-br/archive/refs/heads/main.zip",
    "languages":[
       {
-         "lang": "pt-BR",
+         "lang": "PT-BR",
          "name": "Português (Brasil)",
          "path": "pt-br.json"
       }

@@ -7,8 +7,8 @@
 	"entries": {
 		"Artisan": {
 			"name": "Artesão",
-			"description": "Sua ação de Rig pode ir até 4.",
-			"shortdesc": "Sua ação de Rig pode ir até 4."
+			"description": "Sua ação de Montar pode ir até 4.",
+			"shortdesc": "Sua ação de Montar pode ir até 4."
 		},
 		"Bold": {
 			"name": "Ousado",
@@ -17,13 +17,13 @@
 		},
 		"Connected": {
 			"name": "Conectado",
-			"description": "Marque uma graduação adicional de Sway ao criar o personagem, até um máximo de 3.",
-			"shortdesc": "Marque uma graduação adicional de Sway ao criar o personagem, até um máximo de 3."
+			"description": "Marque uma graduação adicional de Convencer ao criar o personagem, até um máximo de 3.",
+			"shortdesc": "Marque uma graduação adicional de Convencer ao criar o personagem, até um máximo de 3."
 		},
 		"Educated": {
 			"name": "Instruído",
-			"description": "Marque uma graduação adicional de Research ao criar o personagem, até um máximo de 2.",
-			"shortdesc": "Marque uma graduação adicional de Research ao criar o personagem, até um máximo de 2."
+			"description": "Marque uma graduação adicional de Pesquisar ao criar o personagem, até um máximo de 2.",
+			"shortdesc": "Marque uma graduação adicional de Pesquisar ao criar o personagem, até um máximo de 2."
 		},
 		"Loyal": {
 			"name": "Leal",
@@ -47,23 +47,23 @@
 		},
 		"Shrewd": {
 			"name": "Astuto",
-			"description": "Quando você resistir com Insight, receba +1d.",
-			"shortdesc": "Quando você resistir com Insight, receba +1d."
+			"description": "Quando você resistir com Esperteza, receba +1d.",
+			"shortdesc": "Quando você resistir com Esperteza, receba +1d."
 		},
 		"Stern": {
 			"name": "Severo",
-			"description": "Marque uma graduação adicional de Discipline ao criar o personagem, até um máximo de 2.",
-			"shortdesc": "Marque uma graduação adicional de Discipline ao criar o personagem, até um máximo de 2."
+			"description": "Marque uma graduação adicional de Disciplina ao criar o personagem, até um máximo de 2.",
+			"shortdesc": "Marque uma graduação adicional de Disciplina ao criar o personagem, até um máximo de 2."
 		},
 		"Stoic": {
 			"name": "Estóico",
-			"description": "Quando você resistir com Prowess, receba +1d.",
-			"shortdesc": "Quando você resistir com Prowess, receba +1d."
+			"description": "Quando você resistir com Valentia, receba +1d.",
+			"shortdesc": "Quando você resistir com Valentia, receba +1d."
 		},
 		"Stubborn": {
 			"name": "Teimoso",
-			"description": "Quando você resistir com Resolve, receba +1d.",
-			"shortdesc": "Quando você resistir com Resolve, receba +1d."
+			"description": "Quando você resistir com Convicção, receba +1d.",
+			"shortdesc": "Quando você resistir com Convicção, receba +1d."
 		},
 		"Tough": {
 			"name": "Resistente",
@@ -72,8 +72,8 @@
 		},
 		"Traveler": {
 			"name": "Viajante",
-			"description": "Em carga normal, você é considerado rápido e silencioso, como se tivesse equipado uma carga leve. Isso pode fazer diferença na posição ou efeito ao correr, pular, escalar (Maneuver) ou esgueirar-se (Scout).",
-			"shortdesc": "Em carga Normal você é considerado como equipado com carga Leve para efeitos de Maneuver e Scout"
+			"description": "Em carga normal, você é considerado rápido e silencioso, como se tivesse equipado uma carga leve. Isso pode fazer diferença na posição ou efeito ao correr, pular, escalar (Manobras) ou esgueirar-se (Explorar).",
+			"shortdesc": "Em carga Normal você é considerado como equipado com carga Leve para efeitos de Manobras e Explorar"
 		},
 		"Vengeful": {
 			"name": "Vingativo",
@@ -82,8 +82,8 @@
 		},
 		"Warm": {
 			"name": "Caloroso",
-			"description": "Marque uma graduação adicional de Consort ao criar o personagem, até um máximo de 2.",
-			"shortdesc": "Marque uma graduação adicional de Consort ao criar o personagem, até um máximo de 2."
+			"description": "Marque uma graduação adicional de Socializar ao criar o personagem, até um máximo de 2.",
+			"shortdesc": "Marque uma graduação adicional de Socializar ao criar o personagem, até um máximo de 2."
 		}
 	}
 }

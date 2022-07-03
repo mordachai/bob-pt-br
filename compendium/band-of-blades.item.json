@@ -154,7 +154,7 @@
 		},
 		"(L) Flare Gun": {
 			"name": "(L) Pistola Sinalizadora",
-			"description": "Sinalizador: Pistola de ação de ruptura com cargas de fumaça coloridas e sinalizadores ardentes para sinalização noturna. O pacote padrão inclui quatro projéteis.",
+			"description": "Sinalizador: Pistola do tipo basculante com cargas de fumaça coloridas e sinalizadores ardentes para sinalização noturna. O pacote padrão inclui quatro projéteis.",
 			"load_type": "Leve"
 		},
 		"(L) Grenade": {
@@ -323,8 +323,8 @@
 			"load_type": "Utility"
 		},
 		"(U) Crimson Shot": {
-			"name": "(U) Crimson Shot",
-			"description": "Crimson Seekers são relíquias da Guerra dos Deuses, e exigem que você se corte e sangre sua essência de vida na capsula antes de armar. Você pode disparar o projétil mesmo que este seja seu último trauma, embora isso o mate.",
+			"name": "(U) Perseguidor Rubro",
+			"description": "Perseguidor Rubro (Tiro Rubro) são relíquias da Guerra dos Deuses, e exigem que você se corte e sangre sua essência de vida na capsula antes de armar. Você pode disparar o projétil mesmo que este seja seu último trauma, embora isso o mate.",
 			"load_type": "Utility"
 		},
 		"(U) Extra Explosive Charge": {
@@ -349,12 +349,12 @@
 		},
 		"(U) Flare Gun": {
 			"name": "(U) Pistola Sinalizadora",
-			"description": "Sinalizador: Pistola de ação de ruptura com cargas de fumaça coloridas e sinalizadores ardentes para sinalização noturna. O pacote padrão inclui quatro projéteis.",
+			"description": "Sinalizador: Pistola de ação do tipo basculante com cargas de fumaça coloridas e sinalizadores ardentes para sinalização noturna. O pacote padrão inclui quatro projéteis.",
 			"load_type": "Utility"
 		},
 		"(U) Hand Weapon": {
 			"name": "(U) Arma de Mão",
-			"description": "Arma de mão: Espada, lança ou machado. Arma militar de uma mão. Não facas. Você pode pegar dois se não usar um escudo. Boa/Fina: Lâmina de duelo, espada longa, sabre, lança de cerne ou uma arma similar de uma mão. Nomeada e de qualidade excepcional. Do que é feito e quem o forjou?",
+			"description": "Arma de mão: Espada, lança ou machado. Arma militar de uma mão. Não facas. Você pode pegar dois se não usar um escudo. Superior/Fina: Lâmina de duelo, espada longa, sabre, lança de cerne ou uma arma similar de uma mão. Nomeada e de qualidade excepcional. Do que é feito e quem o forjou?",
 			"load_type": "Utility"
 		},
 		"(U) Heavy Weapon": {
@@ -379,7 +379,7 @@
 		},
 		"(U) Musket": {
 			"name": "(U) Mosquete",
-			"description": "Mosquete: Rifle de munição de bola com culatra. Questão Legião Padrão. Preciso até 50 metros. Novatos pegos sem o seu irão levar uma bronca.",
+			"description": "Mosquete: Rifle de munição de bola com culatra. Equipamento padrão da Legião. Preciso até 50 metros. Novatos pegos sem o seu irão levar uma bronca.",
 			"load_type": "Utility"
 		},
 		"(U) Oil": {

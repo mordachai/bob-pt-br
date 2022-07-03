@@ -40,7 +40,7 @@
 		},
 		"Sniper": {
 			"name": "Franco Atirador",
-			"description": "Jogue como um Sniper se você quiser despachar as ameaças mais perigosas de longe.",
+			"description": "Jogue como um Franco Atirador se você quiser despachar as ameaças mais perigosas de longe.",
 			"experience_clues": "Se você ajudou seu esquadrão por meio de observação aguçada e tiros importantes.",
 			"class": "Sniper"
 		},

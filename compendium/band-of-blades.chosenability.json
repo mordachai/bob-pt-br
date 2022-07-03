@@ -72,7 +72,7 @@
 		},
 		"Great Hunter": {
 			"name": "Grande Caçador",
-			"description": "O Intendente pode selecionar uma ação de campanha de Treinamento. Cada Especialista pode marcar 3 XP de Resolve."
+			"description": "O Intendente pode selecionar uma ação de campanha de Treinamento. Cada Especialista pode marcar 3 XP de Convicção."
 		},
 		"Heart of Heroes": {
 			"name": "Coração de Herói",
@@ -96,7 +96,7 @@
 		},
 		"Horned God's Thews": {
 			"name": "Tendões do Deus Vivo",
-			"description": "Legionários podem gastar Armaduras Especiais para resistir a consequências físicas ou para se esforçar (push) em qualquer ação de Prowess."
+			"description": "Legionários podem gastar Armaduras Especiais para resistir a consequências físicas ou para se esforçar (push) em qualquer ação de Valentia."
 		},
 		"Living God's Fury": {
 			"name": "Fúria do Deus Vivo",
@@ -184,7 +184,7 @@
 		},
 		"War-Saint": {
 			"name": "Santo da Guerra",
-			"description": "O Quartermaster pode selecionar uma ação de campanha de Treinamento. Cada Especialista pode marcar 3 XP em Resolve."
+			"description": "O Quartermaster pode selecionar uma ação de campanha de Treinamento. Cada Especialista pode marcar 3 XP em Convicção."
 		},
 		"Wild Awakening": {
 			"name": "Despertar Selvagem",
