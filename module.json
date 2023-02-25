@@ -4,13 +4,18 @@
   "description":"Tradução para o idioma português do Brasil para o RPG de mesa Band of Blades ",
   "version":"1.0.0",
   "authors": [
-     {
-      "name":"Mestre Digital (código) / Gus (tradução)"
-      }
-    ],
+    {
+      "name":"Mestre Digital (código)"
+    },
+    {
+      "name":"Gus (tradução)"
+    }
+  ],
+  
   "minimumCoreVersion":"10",
   "compatibleCoreVersion":"10",
-    "compatibility": {
+  
+  "compatibility": {
     "minimum": "1.0.0",
     "verified": "10"
   },
