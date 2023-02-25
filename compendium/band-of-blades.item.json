@@ -2,8 +2,8 @@
 	"label": "Itens",
 
 	"mapping": {
-		"description": "data.description",
-		"load_type": "data.load_type"
+		"description": "system.description",
+		"load_type": "system.load_type"
 	},
 
 	"entries": {

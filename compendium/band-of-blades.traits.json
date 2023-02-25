@@ -1,8 +1,8 @@
 {
 	"label": "Traits",
 	"mapping": {
-		"description": "data.description",
-		"shortdesc": "data.shortdesc"
+		"description": "system.description",
+		"shortdesc": "system.shortdesc"
 	},
 	"entries": {
 		"Artisan": {

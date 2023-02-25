@@ -1,9 +1,9 @@
 {
 	"label": "Classes",
 	"mapping": {
-		"description": "data.description",
-		"experience_clues": "data.experience_clues",
-		"class": "data.class"
+		"description": "system.description",
+		"experience_clues": "system.experience_clues",
+		"class": "system.class"
 	},
 
 

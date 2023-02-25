@@ -2,8 +2,8 @@
 	"label": "Spies",
 
 	"mapping": {
-		"description": "data.description",
-		"special": "data.special"
+		"description": "system.description",
+		"special": "system.special"
 	  },
 
 	"entries": {

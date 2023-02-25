@@ -2,7 +2,7 @@
 	"label": "Undead Armies",
 
 	"mapping": {
-		"description": "data.description"
+		"description": "system.description"
 	},
 
 
