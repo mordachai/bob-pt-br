@@ -2,7 +2,7 @@
 	"label": "Habilidades",
 
 	"mapping": {
-		"description": "data.description"
+		"description": "system.description"
 	  },
 
 	"entries": {
