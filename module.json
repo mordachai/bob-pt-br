@@ -1,35 +1,55 @@
 {
-  "name":"bob-pt-br",
+  "id":"bob-pt-br",
   "title":"Band of Blades - Português (Brasil)",
-  "description":"",
-  "version":"0.3.2",
-  "author":"Mestre Digital (código) / Gus (tradução)",
+  "description":"Tradução para o idioma português do Brasil para o RPG de mesa Band of Blades ",
+  "version":"1.0.0",
+  "authors": [
+     {
+      "name":"Mestre Digital (código) / Gus (tradução)"
+      }
+    ],
   "minimumCoreVersion":"10",
   "compatibleCoreVersion":"10",
+    "compatibility": {
+    "minimum": "1.0.0",
+    "verified": "10"
+  },
+
   "esmodules": ["babele-register.js"],
-  "url":"https://github.com/mordachai/bob-pt-br",
-  "manifest": "https://raw.githubusercontent.com/mordachai/bob-pt-br/main/module.json",
-  "download": "https://github.com/mordachai/bob-pt-br/archive/refs/heads/main.zip",
-   "languages":[
+  
+  "languages":[
       {
          "lang": "pt-BR",
          "name": "Português (Brasil)",
          "path": "pt-br.json"
       }
-   ],
-   "dependencies":[
-      {
-         "name":"babele",
-         "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+  ],
+
+  "relationships": {
+    "systems": [{
+      "id": "band-of-blades",
+      "type": "system",
+      "manifest": "https://raw.githubusercontent.com/drewg13/foundryvtt-band-of-blades/main/system.json",
+      "compatibility": {
+        "verified": "1.5.0"
       }
-   ],
+    }],
+    "requires": [{
+      "id": "babele",
+      "type": "module",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "compatibility": {
+        "verified": "2.3.4"
+      }
+    }]
+  },
 
   "packs": [
     {
       "name": "tabelas",
       "label": "Tabelas",
       "path": "packs/tabelas.db",
-      "entity": "RollTable",
+      "type": "RollTable",
       "module": "bid-pt-br",
       "private": false
     },
@@ -37,7 +57,7 @@
       "name": "macros",
       "label": "Macros - BiD - Pt-Br",
       "path": "packs/macros.db",
-      "entity": "Macro",
+      "type": "Macro",
       "module": "bid-pt-br",
       "private": false
     },
@@ -45,15 +65,14 @@
       "name": "ajuda-da-traducao",
       "label": "Ajuda da Tradução",
       "path": "packs/ajuda-da-traducao.db",
-      "entity": "JournalEntry",
+      "type": "JournalEntry",
       "module": "bid-pt-br",
       "private": false
     }      
   ],
 
-  "systems": [
-    "band-of-blades"
-  ]
-  
+  "url":"https://github.com/mordachai/bob-pt-br",
+  "manifest": "https://raw.githubusercontent.com/mordachai/bob-pt-br/main/module.json",
+  "download": "https://github.com/mordachai/bob-pt-br/archive/refs/heads/main.zip"
+ 
 }
-
