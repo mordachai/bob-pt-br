@@ -1,15 +1,11 @@
 {
   "id":"bob-pt-br",
   "title":"Band of Blades - Português (Brasil)",
-  "description":"Tradução para o idioma português do Brasil para o RPG de mesa Band of Blades ",
+  "description":"Módulo do Foundry VTT de tradução para o idioma português do Brasil do RPG de mesa Band of Blades",
   "version":"1.0.0",
   "authors": [
-    {
-      "name":"Mestre Digital (código)"
-    },
-    {
-      "name":"Gus (tradução)"
-    }
+    {"name":"Mestre Digital (código)" },
+    {"name":"Gus (tradução)"}
   ],
   
   "minimumCoreVersion":"10",
