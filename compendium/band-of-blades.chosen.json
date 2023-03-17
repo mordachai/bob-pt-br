@@ -1,7 +1,8 @@
 {
 	"label": "Chosen/Broken",
 	"mapping": {
-		"description": "system.description"
+		"description": "system.description",
+		"favor": "system.favor"
 	  },
 
 	"entries": {
@@ -27,7 +28,8 @@
 		},
 		"Zora": {
 			"name": "Zora",
-			"description": "O Deus Vivo dos Zemyati criou nove Escolhidos há muito tempo e, ao contrário dos Escolhidos de outros deuses, eles nunca se esgotaram ou desapareceram. Em vez disso, eles persistem até depois de completar sua tarefa, embora possam ser mortos. Zora desafiou até mesmo essa expectativa. Ela quebrou Dar há muito tempo, e terminou a Guerra dos Deuses usando magia aterrorizante para atacar o deus dentro de um Escolhido antes de sair do campo de batalha e entrar em rumores e lendas. Como a Legião estava prestes a ser destruída nesta última ofensiva, Zora reapareceu para salvá-los."
+			"description": "O Deus Vivo dos Zemyati criou nove Escolhidos há muito tempo e, ao contrário dos Escolhidos de outros deuses, eles nunca se esgotaram ou desapareceram. Em vez disso, eles persistem até depois de completar sua tarefa, embora possam ser mortos. Zora desafiou até mesmo essa expectativa. Ela quebrou Dar há muito tempo, e terminou a Guerra dos Deuses usando magia aterrorizante para atacar o deus dentro de um Escolhido antes de sair do campo de batalha e entrar em rumores e lendas. Como a Legião estava prestes a ser destruída nesta última ofensiva, Zora reapareceu para salvá-los.",
+			"favor": "Sagrado, Místico, Glória"
 		}
 	}
 }
