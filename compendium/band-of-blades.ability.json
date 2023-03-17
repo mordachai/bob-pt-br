@@ -84,7 +84,7 @@
 		},
 		"(H) Bulwark": {
 			"name": "(P) Bastião",
-			"description": "Você pode gastar usos de Âncora como armadura especial contra consequências para um esquadrão que você está defendendo."
+			"description": "Gaste Ancorar como armadura especial contra consequências para um esquadrão que você está defendendo."
 		},
 		"(H) Tenacious": {
 			"name": "(P) Tenaz",
@@ -92,7 +92,7 @@
 		},
 		"(H) Vigorous": {
 			"name": "(P) Vigoroso",
-			"description": "Ao marcar cura de ferimentos durante o repouso e a recuperação, faça uma marca a mais, gratuita. Quando você se machucar, limpe 1 estresse."
+			"description": "Ao marcar cura de ferimentos durante o repouso e a recuperação, faça uma marca a mais, gratuita. Quando você se ferir, remova 1 estresse."
 		},
 		"(H) War Machine": {
 			"name": "(P) Máquina de Guerra",
@@ -104,7 +104,7 @@
 		},
 		"(M) Attache": {
 			"name": "(M) Attache",
-			"description": "Você pode ser colocado em qualquer missão, mesmo passando os limites habituais de Especialistas. Ganhe essa habilidade de graça quando se tornar um Medic."
+			"description": "Você pode ser colocado em qualquer missão, mesmo passando os limites habituais de Especialistas. Ganhe essa habilidade de graça quando se tornar um Médico."
 		},
 		"(M) Chemist": {
 			"name": "(M) Químico",
@@ -116,7 +116,7 @@
 		},
 		"(M) Field Dressing": {
 			"name": "(M) Curativo de Campo",
-			"description": "No final de uma missão, você pode gastar os usos médicos restantes para adicionar 1 teste ao dano de nível 2 ou 3 de um Legionário, uma vez por pessoa."
+			"description": "No final de uma missão, você pode gastar os usos de Medicar restantes para adicionar 1 marca de cura aos dano de nível 2 ou 3 de um Legionário, uma vez por pessoa."
 		},
 		"(M) First Aid": {
 			"name": "(M) Primeiros Socorros",
@@ -128,7 +128,7 @@
 		},
 		"(M) Not Today": {
 			"name": "(M) Hoje Não!",
-			"description": "Gaste um medicar num Legionário que sofreu um dano de nível 4 numa missão, mas faça isso rapidamente, antes que ele morra. Em vez de morrer, o Legionário fica com dano de nível 3."
+			"description": "Gaste um Medicar num Legionário que sofreu um dano de nível 4 numa missão, mas faça isso rapidamente, antes que ele morra. Em vez de morrer, o Legionário fica com dano de nível 3."
 		},
 		"(O) Lead from the Front": {
 			"name": "(O) Liderar da Linha de Frente",
@@ -152,7 +152,7 @@
 		},
 		"(O) Strategist": {
 			"name": "(O) Estrategista",
-			"description": "Você ganha +1d para Convencer ao adquirir ativos para uma missão através do Usar Canais. Você também recebe +1d no teste de engajamento para uma missão."
+			"description": "Você ganha +1d para Convencer ao adquirir ativos para uma missão através de Suportar. Você também recebe +1d no teste de engajamento para uma missão."
 		},
 		"(O) Tactician": {
 			"name": "(O) Tático",
@@ -188,15 +188,15 @@
 		},
 		"(R) Not a Rookie Anymore": {
 			"name": "(N) Não Sou Mais um Novato",
-			"description": "Você é promovido! Você se torna um soldado. Ganhe 1 habilidade especial e 1 grau de Grit. Você deve tomar isso como seu primeiro avanço no playbook. Esta habilidade não pode ser considerada um avanço de Veterano ou uma habilidade inicial."
+			"description": "Você é promovido! Você se torna um Soldado. Ganhe 1 habilidade especial e 1 nível de Suportar. Você deve tomar isso como seu primeiro avanço no playbook. Esta habilidade não pode ser considerada um avanço de Veterano ou uma habilidade inicial."
 		},
 		"(Sc) Daredevil": {
 			"name": "(B) Audacioso",
-			"description": "Quando você fizer um teste desesperado, ganhe +1d."
+			"description": "Quando você fizer uma rolagem desesperada, ganhe +1d."
 		},
 		"(Sc) Ghost": {
 			"name": "(B) Fantasma",
-			"description": "Você pode usar Scrounge como armadura especial contra armadilhas ou detecção."
+			"description": "Você pode usar Vasculhar como armadura especial contra armadilhas ou detecção."
 		},
 		"(Sc) Infiltrator": {
 			"name": "(B) Infiltrador",
@@ -228,7 +228,7 @@
 		},
 		"(Sn) Cover Fire": {
 			"name": "(FA) Fogo de Cobertura",
-			"description": "Se você preparar alguém com Shoot ou fornecer fogo de cobertura, ele ganhará potência em sua próxima ação."
+			"description": "Se você facilitar alguém com Atirar ou fornecer fogo de cobertura, ele ganhará potência em sua próxima ação."
 		},
 		"(Sn) Crimson Shot": {
 			"name": "(FA) Tiro Rubro",
@@ -236,7 +236,7 @@
 		},
 		"(Sn) Notches": {
 			"name": "(FA) Entalhes",
-			"description": "Se você acertar o golpe mortal em um oponente de ameaça 2 ou superior, marque 1 xp em qualquer categoria."
+			"description": "Se você acertar o golpe fatal em um oponente de ameaça 2 ou superior, marque 1 xp em qualquer categoria."
 		},
 		"(Sn) One Eye": {
 			"name": "(FA) Caolho",
@@ -248,7 +248,7 @@
 		},
 		"(So) Cavalry": {
 			"name": "(S) Cavalaria",
-			"description": "Se o Quartermaster tiver cavalos disponíveis, todos os membros do seu esquadrão começam as missões com montarias. Você ganha +1d em Maneuver enquanto estiver montado."
+			"description": "Se o Quartermaster tiver cavalos disponíveis, todos os membros do seu esquadrão começam as missões com montarias. Você ganha +1d em Manobrar enquanto estiver montado."
 		},
 		"(So) Eat Iron, Shit Nails": {
 			"name": "(S) Come Ferro, Caga Pregos",
@@ -260,7 +260,7 @@
 		},
 		"(So) Iron Will": {
 			"name": "(S) Vontade de Ferro",
-			"description": "Você pode usar Grit como armadura especial contra medo, paralisia, corrupção e fadiga."
+			"description": "Você pode usar Suportar como armadura especial contra medo, paralisia, corrupção e fadiga."
 		},
 		"(So) Loaded For Bear": {
 			"name": "(So) Preparado para o que Der e Vier",
@@ -268,11 +268,11 @@
 		},
 		"(So) Over the Top": {
 			"name": "(S) Exagerado",
-			"description": "Quando você se atira nas garras de um inimigo que supera você em número ou armas, limpe 1 estresse e receba +1d em Maneuver."
+			"description": "Quando você se atira nas garras de um inimigo que supera você em número ou armas, limpe 1 estresse e receba +1d em Manobrar."
 		},
 		"(So) Relentless": {
 			"name": "(S) Implacável",
-			"description": "Você pode usar Grit para se esforçar."
+			"description": "Você pode usar Suportar para se esforçar."
 		}
 	}
 }
