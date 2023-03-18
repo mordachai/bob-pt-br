@@ -53,6 +53,8 @@
 "BITD.Wounds": "Ferimentos",
 "BITD.Type": "Tipo",
 "BITD.Threat": "Ameaça",
+"BITD.Deceased": "Morto",
+"BITD.DeceasedTip": "Determina se este personagem aparece listado para o Marechal entre os Especialistas/Esquadrões.",
 
 "BITD.Resources": "Recursos",
 "BITD.Squads": "Esquadrões",
