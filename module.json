@@ -12,7 +12,7 @@
   "compatibleCoreVersion":"10",
   
   "compatibility": {
-    "minimum": "1.0.0",
+    "minimum": "1.0.1",
     "verified": "10"
   },
 
