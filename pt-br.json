@@ -54,7 +54,7 @@
 "BITD.Type": "Tipo",
 "BITD.Threat": "Ameaça",
 "BITD.Deceased": "Morto",
-"BITD.DeceasedTip": "Determina se este personagem aparece listado para o Marechal entre os Especialistas/Esquadrões.",
+"BITD.DeceasedTip": "Determina se este personagem aparece na lista de Esquadrão / Especialistas do Marechal.",
 
 "BITD.Resources": "Recursos",
 "BITD.Squads": "Esquadrões",
@@ -362,7 +362,7 @@
 "BITD.BlightMiasma": "Miasma",
 "BITD.BlightMiasmaTip": "Você gera uma aura ou nuvem de doença e decadência",
 "BITD.BlightMutated": "Mutado",
-"BITD.BlightMutatedTip": "Seu corpo se deforma, cresce novos apêndices ou altera os antigos",
+"BITD.BlightMutatedTip": "Seu corpo se deforma, crescem novos apêndices ou se alteram os antigos",
 "BITD.BlightRage": "Fúria",
 "BITD.BlightRageTip": "Uma necessidade sempre presente de destruir enche sua mente",
 "BITD.BlightRot": "Podridão",
@@ -395,7 +395,7 @@
 "BITD.Quality": "Qualidade",
 "BITD.ClassExpClue1": "Toda vez que você rola uma ação desesperada, marque XP no atributo dessa ação.",
 "BITD.ClassExpClue2": "Você expressou suas crenças, motivações, herança ou background.",
-"BITD.ClassExpClue3": "Você lutou com questões de seu vício ou traumas durante a sessão.<br/>Marque 1 xp por nível de ameaça do oponente de maior ameaça.<br/>Especialistas em missões secundárias marcam 2 xp por sobreviver.",
+"BITD.ClassExpClue3": "Você lutou com questões de sua praga (blight) ou traumas durante a sessão.<br/>Marque 1 xp por nível de ameaça do oponente de maior ameaça.<br/>Especialistas em missões secundárias marcam 2 xp por sobreviver.",
 "BITD.ClassExpClueDescription": "No final de cada sessão, para cada item abaixo, marque 1 XP (cartilha ou atributo) ou 2 XP se esse item ocorreu várias vezes.",
 "BITD.Abilities": "Habilidades",
 "BITD.Notes": "Notas",
@@ -405,7 +405,7 @@
 
 
 "BITD.Roll": "Rolar",
-"BITD.RollFailure": "Fracasso",
+"BITD.RollFailure": "Falha",
 "BITD.RollCriticalSuccess": "Sucesso crítico!",
 "BITD.RollSuccess": "Sucesso",
 "BITD.RollPartialSuccess": "Sucesso parcial",
@@ -553,7 +553,7 @@
 "BITD.BonusDice": "Dados de bônus das habilidades",
 "BITD.TotalDice": "Total de dados",
 "BITD.RollOptions": "Opções de rolagem",
-"BITD.ActionsHelp": "Role 1D por ponto de ação. <br> Melhore suas chances usando o seguinte: <br> <strong>◼️ Ajudar: </strong> receba <strong>1 stress </strong> e adicione +1D na rolagem de outro jogador. Sofra quaisquer consequencias ocasionadas pela rolagem. Somente um PC pode ajudar em cada rolagem. <br> <strong>◼️ Esforço extra: </strong> Receba  <strong>2 stress </strong> para: +1d na <strong>rolagem</strong> ou +1 para <strong> efeito </strong> ou para agir quando você estiver <strong>Incapacitado</strong>, mas você não pode fazer uma Barganha com o diabo <br> <strong>◼️ Barganha com o diabo: </strong> aceitar uma consequência para obter +1d, mas você não pode se esforçar (Push) <br> <strong>◼️ Ação coletiva: </strong> Role a ação para cada PJ participando da ação coletiva. A equipe usa o melhor resultado dentre todos os rolados. O resultado se aplica a todos os PJs que participaram. O líder recebe <strong>1 de estresse</strong> para cada resultados 1-3 obtidos. <br> <strong>◼️ Facilitar: </strong> Se essa rolagem de ação for bem-sucedida E faz sentido na história, dê <strong> Posição melhorada </strong> ou <strong> +1 efeito </strong> para a próxima rolagem de ação do personagem <br> <strong>◼️ Proteger: </strong>Encare o perigo por um companheiro. Sofra uma consequência no lugar dele/a. Você pode rolar para resistir normalmente, ou usar armadura se desejar.",
+"BITD.ActionsHelp": "<small>Role 1D por ponto de ação. <br> Melhore suas chances usando o seguinte: <br> <strong>◼️ Ajudar: </strong> receba <strong>1 stress </strong> e adicione +1D na rolagem de outro jogador. Sofra quaisquer consequencias ocasionadas pela rolagem. Somente um PC pode ajudar em cada rolagem. <br> <strong>◼️ Esforço extra: </strong> Receba  <strong>2 stress </strong> para: +1d na <strong>rolagem</strong> ou +1 para <strong> efeito </strong> ou para agir quando você estiver <strong>Incapacitado</strong>, mas você não pode fazer uma Barganha com o diabo <br> <strong>◼️ Barganha com o diabo: </strong> aceitar uma consequência para obter +1d, mas você não pode se esforçar (Push) <br> <strong>◼️ Ação coletiva: </strong> Role a ação para cada PJ participando da ação coletiva. A equipe usa o melhor resultado dentre todos os rolados. O resultado se aplica a todos os PJs que participaram. O líder recebe <strong>1 de estresse</strong> para cada resultados 1-3 obtidos. <br> <strong>◼️ Facilitar: </strong> Se essa rolagem de ação for bem-sucedida E faz sentido na história, dê <strong> Posição melhorada </strong> ou <strong> +1 efeito </strong> para a próxima rolagem de ação do personagem <br> <strong>◼️ Proteger: </strong>Encare o perigo por um companheiro. Sofra uma consequência no lugar dele/a. Você pode rolar para resistir normalmente, ou usar armadura se desejar.</small>",
 "BITD.ResistanceHelp": "Role 1D para cada ação com pelo menos um ponto de ação no atributo relevante para reduzir ou evitar completamente (escolha do GM) os efeitos das consequências. <br> Tome 6 menos o resultado mais alto do dado como <strong> stress </strong> <br> <strong> Esperteza: </strong> Consequências de engano ou entendimento <br> <strong> Valentia: </strong> Consequências de tensão física ou lesão <br> <strong> Convicção: </strong> Consequências de tensão mental / força de vontade / corrupção",
 
 "BITD.Add": "Adicionar",
