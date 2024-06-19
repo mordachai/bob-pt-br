@@ -1,62 +1,84 @@
 {
 	"label": "Habilidades",
-
 	"mapping": {
 		"description": "system.description"
-	  },
-
+	},
 	"entries": {
+		"(G) Elite Aim": {
+			"name": "(G) Elite Mirar",
+			"description": "Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
+		},
+		"(G) Elite Anchor": {
+			"name": "(G) Elite Âncora",
+			"description": "Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
+		},
+		"(G) Elite Channels": {
+			"name": "(G) Elite Conexões",
+			"description": "Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
+		},
 		"(G) Elite Consort": {
 			"name": "(G) Elite Socializar",
-			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+			"description":"Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
 		},
 		"(G) Elite Discipline": {
 			"name": "(G) Elite Disciplinar",
-			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+			"description":"Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
+		},
+		"(G) Elite Doctor": {
+			"name": "(G) Elite Doutor",
+			"description": "Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
+		},
+		"(G) Elite Grit": {
+			"name": "(G) Elite Grit",
+			"description": "Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
 		},
 		"(G) Elite Maneuver": {
 			"name": "(G) Elite Manobrar",
-			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+			"description":"Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
 		},
 		"(G) Elite Marshal": {
 			"name": "(G) Elite Liderar",
-			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+			"description":"Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
 		},
 		"(G) Elite Research": {
 			"name": "(G) Elite Pesquisar",
-			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+			"description":"Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
 		},
 		"(G) Elite Rig": {
 			"name": "(G) Elite Montar",
-			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+			"description":"Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
 		},
 		"(G) Elite Scout": {
 			"name": "(G) Elite Explorar",
-			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+			"description":"Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
 		},
 		"(G) Elite Shoot": {
 			"name": "(G) Elite Atirar",
-			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+			"description":"Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
 		},
 		"(G) Elite Skirmish": {
 			"name": "(G) Elite Lutar",
-			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+			"description":"Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
 		},
 		"(G) Elite Sway": {
 			"name": "(G) Elite Convencer",
-			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+			"description":"Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
+		},
+		"(G) Elite Weave": {
+			"name": "(G) Elite Tecer",
+			"description": "Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
 		},
 		"(G) Elite Wreck": {
 			"name": "(G) Elite Detonar",
-			"description":"Ganhe nível de Mestre em duas Ações (elas podem ir até rank 4).  Quando você escolher uma abilidade de Elite você pode escolher uma habilidade de Elite adicional. Você pode escolher apenas um set de habilidades de Elite."
+			"description":"Domine duas Ações (ambas podem ir até rank 4 agora). Quando escolher esta habilidade marque outra adicional do tipo Elite para registrar quais você escolheu. Você só pode escolher a habilidade Elite uma vez."
 		},
 		"(G) Hardened 1": {
 			"name": "(G) Endurecido 1",
-			"description":"Você possui 2 caixas de estresse adicionais."
+			"description":"Você possui duas caixas de stress adicionais."
 		},
 		"(G) Hardened 2": {
 			"name": "(G) Endurecido 2",
-			"description":"Você possui mais 2 caixas de estresse adicionais."
+			"description":"Você possui mais duas caixas de stress adicionais."
 		},
 		"(G) Survivor 1": {
 			"name": "(G) Sobrevivente 1",
@@ -80,7 +102,7 @@
 		},
 		"(H) Backup": {
 			"name": "(P) Suporte",
-			"description": "Ao proteger um companheiro de esquadrão, resista com +1d. Quando você ajuda alguém, seus pushes custam apenas 1 de estresse."
+			"description": "Ao proteger um companheiro de esquadrão, resista com +1d. Quando você ajuda alguém, seus pushes custam apenas 1 de stress."
 		},
 		"(H) Bulwark": {
 			"name": "(P) Bastião",
@@ -92,7 +114,7 @@
 		},
 		"(H) Vigorous": {
 			"name": "(P) Vigoroso",
-			"description": "Ao marcar cura de ferimentos durante o repouso e a recuperação, faça uma marca a mais, gratuita. Quando você se ferir, remova 1 estresse."
+			"description": "Ao marcar cura de ferimentos durante o repouso e a recuperação, faça uma marca a mais, gratuita. Quando você se ferir, remova 1 stress."
 		},
 		"(H) War Machine": {
 			"name": "(P) Máquina de Guerra",
@@ -124,7 +146,7 @@
 		},
 		"(M) Moral Support": {
 			"name": "(M) Apoio Moral",
-			"description": "Você sabe como manter o ânimo das tropas. Depois de uma missão, se você contar uma história engraçada, pessoal ou significativa quando o esquadrão estiver descansando, qualquer um que estiver ouvindo pode aliviar 1 estresse."
+			"description": "Você sabe como manter o ânimo das tropas. Depois de uma missão, se você contar uma história engraçada, pessoal ou significativa quando o esquadrão estiver descansando, qualquer um que estiver ouvindo pode aliviar 1 stress."
 		},
 		"(M) Not Today": {
 			"name": "(M) Hoje Não!",
@@ -147,7 +169,7 @@
 			"description": "Um companheiro de esquadrão NPC se sacrifica sob ordens. Eles morrem e absorvem todo o dano de um ataque para você ou outro Especialista. Lembre-se de que a Legião recebe -1 de moral cada vez que isso ocorre."
 		},
 		"(O) Officer School": {
-			"name": "(O) Escola de Oficiais:",
+			"name": "(O) Escola de Oficiais",
 			"description": "Você é bem educado e conhece esoterismo arcano. Ganhe +1d ao coletar informações por meio de Pesquisar e ao resistir com Esperteza."
 		},
 		"(O) Strategist": {
@@ -156,14 +178,14 @@
 		},
 		"(O) Tactician": {
 			"name": "(O) Tático",
-			"description": "Você antecipa problemas que outros nunca veriam chegando. Quando você lidera uma ação em grupo, você pode sofrer no máximo 1 estresse."
+			"description": "Você antecipa problemas que outros nunca veriam chegando. Quando você lidera uma ação em grupo, você pode sofrer no máximo 1 stress."
 		},
 		"(R) Devil's Own Luck": {
 			"name": "(N) Sorte do Diabo",
 			"description": "Você ganha +1d em todos os testes de resistência. Esta habilidade não pode ser tomada como um avanço de Veterano."
 		},
 		"(R) Every Inch A...": {
-			"name": "(N) ...Da Gema:",
+			"name": "(N) ...Da Gema",
 			"description": "Você começa com todos os traços de sua herança. Se tomado como um avanço de Veterano, deve ser a primeira habilidade selecionada na criação do personagem."
 		},
 		"(R) Gotta Make It Out Alive": {
@@ -176,7 +198,7 @@
 		},
 		"(R) Home Cooking": {
 			"name": "(N) Comida Caseira",
-			"description": "Se uma missão demorar vários dias, use seu Fresh Food. Diga o que você cozinha. Todos no esquadrão que participam eliminam 1 estresse. Esta habilidade não pode ser tomada como um avanço de Veterano."
+			"description": "Se uma missão demorar vários dias, use seu Fresh Food. Diga o que você cozinha. Todos no esquadrão que participam eliminam 1 stress. Esta habilidade não pode ser tomada como um avanço de Veterano."
 		},
 		"(R) Jack of All Trades": {
 			"name": "(N) Pau pra Toda Obra",
@@ -212,7 +234,7 @@
 		},
 		"(Sc) Ready For Anything": {
 			"name": "(B) Pronto para Tudo",
-			"description": "Ao ser emboscado, seus flashbacks custam 0 de estresse e você ganha potência para todas as ações durante esses flashbacks. Você também recebe 1 nível a menos de dano em missões secundárias."
+			"description": "Ao ser emboscado, seus flashbacks custam 0 de stress e você ganha potência para todas as ações durante esses flashbacks. Você também recebe 1 nível a menos de dano em missões secundárias."
 		},
 		"(Sc) Sixth Sense": {
 			"name": "(B) Sexto Sentido",
@@ -268,7 +290,7 @@
 		},
 		"(So) Over the Top": {
 			"name": "(S) Exagerado",
-			"description": "Quando você se atira nas garras de um inimigo que supera você em número ou armas, limpe 1 estresse e receba +1d em Manobrar."
+			"description": "Quando você se atira nas garras de um inimigo que supera você em número ou armas, limpe 1 stress e receba +1d em Manobrar."
 		},
 		"(So) Relentless": {
 			"name": "(S) Implacável",
